@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-01-16 14:51:23",
+  "data_period": {
+    "start": "2025-01-01",
+    "end": "2025-12-31"
+  },
+  "team_summary": {
+    "total_games": 7421,
+    "overall_win_rate": 53.52,
+    "spon_win_rate": 53.21,
+    "tournament_win_rate": 57.03
+  },
+  "member_summary": {
+    "구루미": {
+      "race": "저그",
+      "tier": "4티어",
+      "total_games": 340,
+      "overall_win_rate": 43.82,
+      "spon_win_rate": 42.11,
+      "tournament_win_rate": 76.47
+    },
+    "규리야": {
+      "race": "테란",
+      "tier": "4티어",
+      "total_games": 992,
+      "overall_win_rate": 58.47,
+      "spon_win_rate": 57.73,
+      "tournament_win_rate": 67.57
+    },
+    "김뽀뇨": {
+      "race": "프로토스",
+      "tier": "3티어",
+      "total_games": 625,
+      "overall_win_rate": 50.56,
+      "spon_win_rate": 50.79,
+      "tournament_win_rate": 48.08
+    },
+    "내가먼지": {
+      "race": "테란",
+      "tier": "6티어",
+      "total_games": 495,
+      "overall_win_rate": 66.26,
+      "spon_win_rate": 67.5,
+      "tournament_win_rate": 56.36
+    },
+    "냥수디": {
+      "race": "저그",
+      "tier": "7티어",
+      "total_games": 262,
+      "overall_win_rate": 66.79,
+      "spon_win_rate": 67.21,
+      "tournament_win_rate": 60.0
+    },
+    "늑대채린": {
+      "race": "저그",
+      "tier": "4티어",
+      "total_games": 617,
+      "overall_win_rate": 49.59,
+      "spon_win_rate": 49.91,
+      "tournament_win_rate": 44.12
+    },
+    "다예나": {
+      "race": "프로토스",
+      "tier": "8티어",
+      "total_games": 343,
+      "overall_win_rate": 59.48,
+      "spon_win_rate": 60.67,
+      "tournament_win_rate": 33.33
+    },
+    "단비송": {
+      "race": "테란",
+      "tier": "8티어",
+      "total_games": 169,
+      "overall_win_rate": 43.2,
+      "spon_win_rate": 43.11,
+      "tournament_win_rate": 50.0
+    },
+    "또해영": {
+      "race": "저그",
+      "tier": "7티어",
+      "total_games": 680,
+      "overall_win_rate": 55.15,
+      "spon_win_rate": 54.69,
+      "tournament_win_rate": 60.78
+    },
+    "박하악": {
+      "race": "저그",
+      "tier": "6티어",
+      "total_games": 778,
+      "overall_win_rate": 47.56,
+      "spon_win_rate": 46.22,
+      "tournament_win_rate": 62.5
+    },
+    "슬돌이": {
+      "race": "프로토스",
+      "tier": "2티어",
+      "total_games": 442,
+      "overall_win_rate": 57.92,
+      "spon_win_rate": 58.97,
+      "tournament_win_rate": 52.7
+    },
+    "정서린": {
+      "race": "프로토스",
+      "tier": "7티어",
+      "total_games": 439,
+      "overall_win_rate": 67.43,
+      "spon_win_rate": 66.67,
+      "tournament_win_rate": 76.47
+    },
+    "찌킹": {
+      "race": "저그",
+      "tier": "4티어",
+      "total_games": 729,
+      "overall_win_rate": 49.52,
+      "spon_win_rate": 48.74,
+      "tournament_win_rate": 54.84
+    },
+    "팥순": {
+      "race": "프로토스",
+      "tier": "6티어",
+      "total_games": 510,
+      "overall_win_rate": 35.88,
+      "spon_win_rate": 35.56,
+      "tournament_win_rate": 40.62
+    }
+  }
+}

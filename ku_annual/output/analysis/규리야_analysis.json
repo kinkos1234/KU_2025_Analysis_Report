@@ -1,0 +1,133 @@
+{
+  "name": "규리야",
+  "basic_info": {
+    "name": "규리야",
+    "race": "테란",
+    "first_tier": "5티어",
+    "last_tier": "4티어",
+    "tier_changes": 2
+  },
+  "overall_stats": {
+    "total_games": 992,
+    "wins": 580,
+    "losses": 412,
+    "win_rate": 58.47
+  },
+  "strengths": [
+    {
+      "category": "race_matchup",
+      "type": "저그_strength",
+      "value": 62.99,
+      "description": "저그전 62.99% (우수한 성과)",
+      "priority": "medium"
+    },
+    {
+      "category": "map_performance",
+      "type": "폴리포이드_strength",
+      "value": 61.68,
+      "description": "폴리포이드 368경기 61.68% (최다 경기 맵에서 우수)",
+      "priority": "medium"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "race_matchup",
+      "type": "테란_weakness",
+      "value": 37.5,
+      "description": "테란전 37.5% (최강 저그전 62.99% 대비 -25.49%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "테란",
+        "weak_wr": 37.5,
+        "strong_race": "저그",
+        "strong_wr": 62.99,
+        "total_games": 24
+      }
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "김뽀뇨_weakness",
+      "value": 24.0,
+      "description": "김뽀뇨 상대 25경기 24.0% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "김뽀뇨",
+        "win_rate": 24.0,
+        "games": 25
+      }
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "5티어에서 4티어로 승급",
+      "description": "규리야는 시즌 중 4티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {
+    "테란전_약점": {
+      "reason": "테란전 약점 원인 규명",
+      "map_breakdown": {
+        "폴리포이드": {
+          "games": 10,
+          "wins": 2,
+          "win_rate": 20.0
+        }
+      },
+      "opponent_breakdown": {}
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "테란_weakness"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "테란전 맵별 세부 분석",
+          "race": "테란"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 57.73%, 대회 67.57% 기록. 5티어에서 4티어로 승급하며 성장세를 보임.",
+    "page_3_race": "테란전 승률 37.5%는 타 종족전(저그 62.99%)에 비해 소폭 낮음. 테란전 집중 연습이 더 필요해 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 61.68%의 우수한 성과. 리트머스은 45.16%로 약세.",
+    "page_5_tier": "동일 티어 상대로 61.78%의 준수한 성과. 상위 티어 상대로는 37.07%로 경험 쌓기가 필요."
+  }
+}

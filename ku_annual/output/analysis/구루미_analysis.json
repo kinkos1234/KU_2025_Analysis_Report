@@ -1,0 +1,251 @@
+{
+  "name": "구루미",
+  "basic_info": {
+    "name": "구루미",
+    "race": "저그",
+    "first_tier": "5티어",
+    "last_tier": "4티어",
+    "tier_changes": 2
+  },
+  "overall_stats": {
+    "total_games": 340,
+    "wins": 149,
+    "losses": 191,
+    "win_rate": 43.82
+  },
+  "strengths": [
+    {
+      "category": "tournament_ace",
+      "type": "clutch_performer",
+      "value": 34.36,
+      "description": "대회 승률 76.47% (스폰 대비 +34.36%p, 클러치 성과)",
+      "priority": "high"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "overall_performance",
+      "type": "struggling",
+      "value": 43.82,
+      "description": "전체 승률 43.82% (팀 평균 53.52% 대비 -9.70%p)",
+      "priority": "high"
+    },
+    {
+      "category": "race_matchup",
+      "type": "테란_weakness",
+      "value": 39.09,
+      "description": "테란전 39.09% (최강 프로토스전 50.72% 대비 -11.63%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "테란",
+        "weak_wr": 39.09,
+        "strong_race": "프로토스",
+        "strong_wr": 50.72,
+        "total_games": 197
+      }
+    },
+    {
+      "category": "map_performance",
+      "type": "라데온_weakness",
+      "value": 46.15,
+      "description": "라데온 130경기 46.15% (최다 경기 맵에서 약세)",
+      "priority": "high",
+      "details": {
+        "map": "라데온",
+        "total_games": 130,
+        "win_rate": 46.15
+      }
+    },
+    {
+      "category": "tier_performance",
+      "type": "same_tier_struggle",
+      "value": 45.49,
+      "description": "동일 티어 부진 45.49% (288경기)",
+      "priority": "high"
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "규리야_weakness",
+      "value": 21.95,
+      "description": "규리야 상대 41경기 21.95% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "규리야",
+        "win_rate": 21.95,
+        "games": 41
+      }
+    },
+    {
+      "category": "trend",
+      "type": "declining_trend",
+      "value": -10.449002217294904,
+      "description": "하락세 (전반기 48.86% → 후반기 38.41%, -10.45%p)",
+      "priority": "medium"
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "5티어에서 4티어로 승급",
+      "description": "구루미는 시즌 중 4티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {
+    "테란전_약점": {
+      "reason": "테란전 약점 원인 규명",
+      "map_breakdown": {
+        "라데온": {
+          "games": 77,
+          "wins": 28,
+          "win_rate": 36.36
+        },
+        "폴리포이드": {
+          "games": 75,
+          "wins": 30,
+          "win_rate": 40.0
+        },
+        "데자뷰": {
+          "games": 23,
+          "wins": 10,
+          "win_rate": 43.48
+        },
+        "녹아웃": {
+          "games": 11,
+          "wins": 3,
+          "win_rate": 27.27
+        }
+      },
+      "opponent_breakdown": {
+        "규리야": {
+          "games": 41,
+          "wins": 9,
+          "win_rate": 21.95
+        },
+        "태영": {
+          "games": 30,
+          "wins": 12,
+          "win_rate": 40.0
+        },
+        "오하얀": {
+          "games": 29,
+          "wins": 21,
+          "win_rate": 72.41
+        },
+        "햇살": {
+          "games": 28,
+          "wins": 9,
+          "win_rate": 32.14
+        },
+        "금선2": {
+          "games": 22,
+          "wins": 6,
+          "win_rate": 27.27
+        }
+      }
+    },
+    "라데온_약점": {
+      "reason": "라데온 맵 약점 원인 규명",
+      "race_breakdown": {
+        "테란": {
+          "games": 77,
+          "wins": 28,
+          "win_rate": 36.36
+        },
+        "프로토스": {
+          "games": 51,
+          "wins": 31,
+          "win_rate": 60.78
+        }
+      },
+      "opponent_breakdown": {
+        "규리야": {
+          "games": 16,
+          "wins": 2,
+          "win_rate": 12.5
+        },
+        "태영": {
+          "games": 12,
+          "wins": 5,
+          "win_rate": 41.67
+        },
+        "오하얀": {
+          "games": 10,
+          "wins": 7,
+          "win_rate": 70.0
+        },
+        "햇살": {
+          "games": 10,
+          "wins": 2,
+          "win_rate": 20.0
+        },
+        "금선2": {
+          "games": 10,
+          "wins": 2,
+          "win_rate": 20.0
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "clutch_performer",
+        "struggling",
+        "테란_weakness",
+        "라데온_weakness",
+        "same_tier_struggle"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "테란전 맵별 세부 분석",
+          "race": "테란"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "map_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        },
+        {
+          "type": "weak_map_race_breakdown",
+          "title": "라데온 종족별 세부 분석",
+          "map": "라데온"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "대회 승률 76.47%로 스폰 대비 34.36%p 높은 성과는 매우 고무적. 6월 66.67% 이후 10월 23.91%로 다소 하락. 5티어에서 4티어로 승급하며 성장세를 보임.",
+    "page_3_race": "세 종족전 모두 양호한 승률을 보였으나, 테란전은 타 종족전에 비해 소폭 낮은 승률. 규리야&금선2 상대로의 약세가 두드러짐.",
+    "page_4_map": "가장 많은 경기를 진행한 라데온에서 46.15%로 다소 아쉬움. 테란전에서 다소 어려움, 규리야&햇살 상대로의 약세. 폴리포이드은 41.09%로 약세. 라데온 테란전 연습 및 교육이 더 필요해 보임.",
+    "page_5_tier": "동일 티어 상대로 45.49%로 다소 부진한 모습. 상위 티어 상대로는 35.56%로 경험 쌓기가 필요. 동일 티어 내 경쟁력 강화가 우선적으로 필요."
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "name": "정서린",
+  "basic_info": {
+    "name": "정서린",
+    "race": "프로토스",
+    "first_tier": "베이비",
+    "last_tier": "7티어",
+    "tier_changes": 3
+  },
+  "overall_stats": {
+    "total_games": 439,
+    "wins": 296,
+    "losses": 143,
+    "win_rate": 67.43
+  },
+  "strengths": [
+    {
+      "category": "overall_performance",
+      "type": "exceptional",
+      "value": 67.43,
+      "description": "전체 승률 67.43% (팀 평균 53.52% 대비 +13.91%p)",
+      "priority": "high"
+    },
+    {
+      "category": "race_matchup",
+      "type": "프로토스_strength",
+      "value": 72.5,
+      "description": "프로토스전 72.5% (우수한 성과)",
+      "priority": "medium"
+    },
+    {
+      "category": "map_performance",
+      "type": "폴리포이드_strength",
+      "value": 70.85,
+      "description": "폴리포이드 223경기 70.85% (최다 경기 맵에서 우수)",
+      "priority": "medium"
+    },
+    {
+      "category": "tier_dominance",
+      "type": "same_tier_dominance",
+      "value": 70.34,
+      "description": "동일 티어 지배력 70.34% (290경기)",
+      "priority": "high"
+    },
+    {
+      "category": "tier_challenge",
+      "type": "upper_tier_success",
+      "value": 52.78,
+      "description": "상위 티어 도전 성공 52.78% (108경기)",
+      "priority": "medium"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "race_matchup",
+      "type": "테란_weakness",
+      "value": 62.5,
+      "description": "테란전 62.5% (최강 프로토스전 72.5% 대비 -10.00%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "테란",
+        "weak_wr": 62.5,
+        "strong_race": "프로토스",
+        "strong_wr": 72.5,
+        "total_games": 176
+      }
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "하이현_weakness",
+      "value": 35.29,
+      "description": "하이현 상대 17경기 35.29% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "하이현",
+        "win_rate": 35.29,
+        "games": 17
+      }
+    }
+  ],
+  "stories": [
+    {
+      "type": "explosive_growth",
+      "title": "베이비에서 7티어로 2단계 승급",
+      "description": "정서린는 시즌 시작 베이비에서 7티어까지 2단계 상승하며 폭발적인 성장을 보였습니다.",
+      "priority": "high"
+    },
+    {
+      "type": "rookie_star",
+      "title": "신인왕 후보",
+      "description": "정서린는 베이비 티어에서 시작하여 67.43%의 뛰어난 승률을 기록하며 신인왕 후보로 떠올랐습니다.",
+      "priority": "high"
+    }
+  ],
+  "deep_analysis": {
+    "테란전_약점": {
+      "reason": "테란전 약점 원인 규명",
+      "map_breakdown": {
+        "폴리포이드": {
+          "games": 72,
+          "wins": 44,
+          "win_rate": 61.11
+        },
+        "라데온": {
+          "games": 57,
+          "wins": 33,
+          "win_rate": 57.89
+        },
+        "데자뷰": {
+          "games": 39,
+          "wins": 27,
+          "win_rate": 69.23
+        }
+      },
+      "opponent_breakdown": {
+        "김말랑": {
+          "games": 30,
+          "wins": 20,
+          "win_rate": 66.67
+        },
+        "경콩": {
+          "games": 24,
+          "wins": 13,
+          "win_rate": 54.17
+        },
+        "밥새": {
+          "games": 21,
+          "wins": 12,
+          "win_rate": 57.14
+        },
+        "빵지니": {
+          "games": 17,
+          "wins": 14,
+          "win_rate": 82.35
+        },
+        "하이현": {
+          "games": 17,
+          "wins": 6,
+          "win_rate": 35.29
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "exceptional",
+        "same_tier_dominance",
+        "테란_weakness"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "테란전 맵별 세부 분석",
+          "race": "테란"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 66.67%, 대회 76.47% 기록. 베이비에서 7티어까지 2단계 상승하며 폭발적인 성장을 보였습니다. 하지만 아직 초반이니 조금 더 지켜볼 필요가 있음.",
+    "page_3_race": "세 종족전 모두 양호한 승률을 보였으나, 테란전은 타 종족전에 비해 소폭 낮은 승률. 하이현 상대로의 경기가 다소 약세였음을 참조하여 교육 및 연습이 필요해 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 70.85%의 뛰어난 성과.",
+    "page_5_tier": "동일 티어 상대로 70.34%의 우수한 승률을 기록하며 티어 지배력을 보임. 상위 티어 상대로도 52.78%의 선전."
+  }
+}

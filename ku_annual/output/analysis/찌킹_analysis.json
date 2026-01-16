@@ -1,0 +1,94 @@
+{
+  "name": "찌킹",
+  "basic_info": {
+    "name": "찌킹",
+    "race": "저그",
+    "first_tier": "5티어",
+    "last_tier": "4티어",
+    "tier_changes": 2
+  },
+  "overall_stats": {
+    "total_games": 729,
+    "wins": 361,
+    "losses": 368,
+    "win_rate": 49.52
+  },
+  "strengths": [],
+  "weaknesses": [
+    {
+      "category": "tier_performance",
+      "type": "same_tier_struggle",
+      "value": 45.56,
+      "description": "동일 티어 부진 45.56% (518경기)",
+      "priority": "high"
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "규리야_weakness",
+      "value": 32.76,
+      "description": "규리야 상대 58경기 32.76% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "규리야",
+        "win_rate": 32.76,
+        "games": 58
+      }
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "5티어에서 4티어로 승급",
+      "description": "찌킹는 시즌 중 4티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {},
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "same_tier_struggle"
+      ]
+    },
+    "page_3": {
+      "type": "standard_race_comparison",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 48.74%, 대회 54.84% 기록. 1월 68.35% 이후 6월 39.13%로 다소 하락. 5티어에서 4티어로 승급하며 성장세를 보임.",
+    "page_3_race": "세 종족전 모두 균형잡힌 승률을 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 53.95%의 안정적인 성과. 리트머스은 33.33%로 약세.",
+    "page_5_tier": "동일 티어 상대로 45.56%로 다소 부진한 모습. 상위 티어 상대로는 39.34%로 경험 쌓기가 필요. 동일 티어 내 경쟁력 강화가 우선적으로 필요."
+  }
+}

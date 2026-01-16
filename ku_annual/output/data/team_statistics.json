@@ -1,0 +1,116 @@
+{
+  "overall": {
+    "total_games": 7421,
+    "wins": 3972,
+    "losses": 3449,
+    "win_rate": 53.52
+  },
+  "by_type": {
+    "스폰": {
+      "total_games": 6809,
+      "wins": 3623,
+      "losses": 3186,
+      "win_rate": 53.21
+    },
+    "대회": {
+      "total_games": 612,
+      "wins": 349,
+      "losses": 263,
+      "win_rate": 57.03
+    }
+  },
+  "by_month": {
+    "2025-01": {
+      "total_games": 536,
+      "wins": 294,
+      "losses": 242,
+      "win_rate": 54.85
+    },
+    "2025-02": {
+      "total_games": 545,
+      "wins": 279,
+      "losses": 266,
+      "win_rate": 51.19
+    },
+    "2025-03": {
+      "total_games": 751,
+      "wins": 392,
+      "losses": 359,
+      "win_rate": 52.2
+    },
+    "2025-04": {
+      "total_games": 569,
+      "wins": 293,
+      "losses": 276,
+      "win_rate": 51.49
+    },
+    "2025-05": {
+      "total_games": 541,
+      "wins": 290,
+      "losses": 251,
+      "win_rate": 53.6
+    },
+    "2025-06": {
+      "total_games": 536,
+      "wins": 287,
+      "losses": 249,
+      "win_rate": 53.54
+    },
+    "2025-07": {
+      "total_games": 583,
+      "wins": 352,
+      "losses": 231,
+      "win_rate": 60.38
+    },
+    "2025-08": {
+      "total_games": 515,
+      "wins": 298,
+      "losses": 217,
+      "win_rate": 57.86
+    },
+    "2025-09": {
+      "total_games": 1064,
+      "wins": 543,
+      "losses": 521,
+      "win_rate": 51.03
+    },
+    "2025-10": {
+      "total_games": 1240,
+      "wins": 647,
+      "losses": 593,
+      "win_rate": 52.18
+    },
+    "2025-11": {
+      "total_games": 173,
+      "wins": 96,
+      "losses": 77,
+      "win_rate": 55.49
+    },
+    "2025-12": {
+      "total_games": 368,
+      "wins": 201,
+      "losses": 167,
+      "win_rate": 54.62
+    }
+  },
+  "by_race": {
+    "테란": {
+      "total_games": 1656,
+      "wins": 981,
+      "losses": 675,
+      "win_rate": 59.24
+    },
+    "저그": {
+      "total_games": 3406,
+      "wins": 1736,
+      "losses": 1670,
+      "win_rate": 50.97
+    },
+    "프로토스": {
+      "total_games": 2359,
+      "wins": 1255,
+      "losses": 1104,
+      "win_rate": 53.2
+    }
+  }
+}

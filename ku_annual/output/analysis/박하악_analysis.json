@@ -1,0 +1,253 @@
+{
+  "name": "박하악",
+  "basic_info": {
+    "name": "박하악",
+    "race": "저그",
+    "first_tier": "6티어",
+    "last_tier": "6티어",
+    "tier_changes": 1
+  },
+  "overall_stats": {
+    "total_games": 778,
+    "wins": 370,
+    "losses": 408,
+    "win_rate": 47.56
+  },
+  "strengths": [
+    {
+      "category": "tournament_ace",
+      "type": "clutch_performer",
+      "value": 16.28,
+      "description": "대회 승률 62.5% (스폰 대비 +16.28%p, 클러치 성과)",
+      "priority": "high"
+    },
+    {
+      "category": "race_matchup",
+      "type": "저그_strength",
+      "value": 61.36,
+      "description": "저그전 61.36% (우수한 성과)",
+      "priority": "medium"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "race_matchup",
+      "type": "테란_weakness",
+      "value": 45.26,
+      "description": "테란전 45.26% (최강 저그전 61.36% 대비 -16.10%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "테란",
+        "weak_wr": 45.26,
+        "strong_race": "저그",
+        "strong_wr": 61.36,
+        "total_games": 380
+      }
+    },
+    {
+      "category": "map_performance",
+      "type": "폴리포이드_weakness",
+      "value": 48.97,
+      "description": "폴리포이드 339경기 48.97% (최다 경기 맵에서 약세)",
+      "priority": "high",
+      "details": {
+        "map": "폴리포이드",
+        "total_games": 339,
+        "win_rate": 48.97
+      }
+    },
+    {
+      "category": "tier_performance",
+      "type": "same_tier_struggle",
+      "value": 41.19,
+      "description": "동일 티어 부진 41.19% (369경기)",
+      "priority": "high"
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "모리_weakness",
+      "value": 32.65,
+      "description": "모리 상대 49경기 32.65% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "모리",
+        "win_rate": 32.65,
+        "games": 49
+      }
+    }
+  ],
+  "stories": [
+    {
+      "type": "tournament_clutch",
+      "title": "클러치 플레이어",
+      "description": "박하악는 중요한 순간에 강한 모습을 보이며, 대회 승률 62.5%로 스폰 대비 16.28%p 높은 성과를 냈습니다.",
+      "priority": "high"
+    }
+  ],
+  "deep_analysis": {
+    "테란전_약점": {
+      "reason": "테란전 약점 원인 규명",
+      "map_breakdown": {
+        "폴리포이드": {
+          "games": 164,
+          "wins": 73,
+          "win_rate": 44.51
+        },
+        "라데온": {
+          "games": 122,
+          "wins": 56,
+          "win_rate": 45.9
+        },
+        "데자뷰": {
+          "games": 48,
+          "wins": 25,
+          "win_rate": 52.08
+        },
+        "녹아웃": {
+          "games": 20,
+          "wins": 7,
+          "win_rate": 35.0
+        },
+        "이클립스": {
+          "games": 16,
+          "wins": 9,
+          "win_rate": 56.25
+        }
+      },
+      "opponent_breakdown": {
+        "내가먼지": {
+          "games": 49,
+          "wins": 21,
+          "win_rate": 42.86
+        },
+        "모리": {
+          "games": 49,
+          "wins": 16,
+          "win_rate": 32.65
+        },
+        "밥새": {
+          "games": 37,
+          "wins": 22,
+          "win_rate": 59.46
+        },
+        "링가": {
+          "games": 29,
+          "wins": 9,
+          "win_rate": 31.03
+        },
+        "으냉이": {
+          "games": 26,
+          "wins": 4,
+          "win_rate": 15.38
+        }
+      }
+    },
+    "폴리포이드_약점": {
+      "reason": "폴리포이드 맵 약점 원인 규명",
+      "race_breakdown": {
+        "테란": {
+          "games": 164,
+          "wins": 73,
+          "win_rate": 44.51
+        },
+        "저그": {
+          "games": 14,
+          "wins": 10,
+          "win_rate": 71.43
+        },
+        "프로토스": {
+          "games": 161,
+          "wins": 83,
+          "win_rate": 51.55
+        }
+      },
+      "opponent_breakdown": {
+        "하랑e": {
+          "games": 21,
+          "wins": 7,
+          "win_rate": 33.33
+        },
+        "모리": {
+          "games": 18,
+          "wins": 7,
+          "win_rate": 38.89
+        },
+        "막내현진": {
+          "games": 16,
+          "wins": 10,
+          "win_rate": 62.5
+        },
+        "내가먼지": {
+          "games": 15,
+          "wins": 6,
+          "win_rate": 40.0
+        },
+        "링가": {
+          "games": 15,
+          "wins": 4,
+          "win_rate": 26.67
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "clutch_performer",
+        "테란_weakness",
+        "폴리포이드_weakness",
+        "same_tier_struggle"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "테란전 맵별 세부 분석",
+          "race": "테란"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "map_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        },
+        {
+          "type": "weak_map_race_breakdown",
+          "title": "폴리포이드 종족별 세부 분석",
+          "map": "폴리포이드"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "대회 승률 62.5%로 스폰 대비 16.28%p 높은 성과는 매우 고무적. 3월 부진(37.63%) 이후 5월 68.54%까지 개선된 점은 고무적.",
+    "page_3_race": "테란전 승률 45.26%는 타 종족전(저그 61.36%)에 비해 소폭 낮음. 으냉이&링가 상대로의 약세가 두드러짐.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 48.97%로 다소 아쉬움. 테란전에서 다소 어려움, 링가&하랑e 상대로의 약세. 리트머스은 31.03%로 약세. 폴리포이드 테란전 연습 및 교육이 더 필요해 보임.",
+    "page_5_tier": "동일 티어 상대로 41.19%로 다소 부진한 모습. 상위 티어 상대로는 39.39%로 경험 쌓기가 필요. 동일 티어 내 경쟁력 강화가 우선적으로 필요."
+  }
+}

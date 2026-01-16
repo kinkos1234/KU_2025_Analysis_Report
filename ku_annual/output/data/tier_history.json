@@ -1,0 +1,235 @@
+{
+  "슬돌이": {
+    "changes": [
+      {
+        "date": "2025-01-01",
+        "tier": "3티어",
+        "tier_num": 3
+      },
+      {
+        "date": "2025-11-29",
+        "tier": "2티어",
+        "tier_num": 2
+      }
+    ],
+    "first_tier": "3티어",
+    "last_tier": "2티어",
+    "tier_count": 2
+  },
+  "김뽀뇨": {
+    "changes": [
+      {
+        "date": "2025-01-01",
+        "tier": "3티어",
+        "tier_num": 3
+      }
+    ],
+    "first_tier": "3티어",
+    "last_tier": "3티어",
+    "tier_count": 1
+  },
+  "찌킹": {
+    "changes": [
+      {
+        "date": "2025-01-01",
+        "tier": "5티어",
+        "tier_num": 5
+      },
+      {
+        "date": "2025-02-09",
+        "tier": "4티어",
+        "tier_num": 4
+      }
+    ],
+    "first_tier": "5티어",
+    "last_tier": "4티어",
+    "tier_count": 2
+  },
+  "구루미": {
+    "changes": [
+      {
+        "date": "2025-01-01",
+        "tier": "5티어",
+        "tier_num": 5
+      },
+      {
+        "date": "2025-08-31",
+        "tier": "4티어",
+        "tier_num": 4
+      }
+    ],
+    "first_tier": "5티어",
+    "last_tier": "4티어",
+    "tier_count": 2
+  },
+  "팥순": {
+    "changes": [
+      {
+        "date": "2025-01-01",
+        "tier": "6티어",
+        "tier_num": 6
+      }
+    ],
+    "first_tier": "6티어",
+    "last_tier": "6티어",
+    "tier_count": 1
+  },
+  "규리야": {
+    "changes": [
+      {
+        "date": "2025-01-02",
+        "tier": "5티어",
+        "tier_num": 5
+      },
+      {
+        "date": "2025-02-06",
+        "tier": "4티어",
+        "tier_num": 4
+      }
+    ],
+    "first_tier": "5티어",
+    "last_tier": "4티어",
+    "tier_count": 2
+  },
+  "내가먼지": {
+    "changes": [
+      {
+        "date": "2025-01-02",
+        "tier": "7티어",
+        "tier_num": 7
+      },
+      {
+        "date": "2025-09-05",
+        "tier": "6티어",
+        "tier_num": 6
+      }
+    ],
+    "first_tier": "7티어",
+    "last_tier": "6티어",
+    "tier_count": 2
+  },
+  "또해영": {
+    "changes": [
+      {
+        "date": "2025-01-03",
+        "tier": "8티어",
+        "tier_num": 8
+      },
+      {
+        "date": "2025-05-01",
+        "tier": "6티어",
+        "tier_num": 6
+      },
+      {
+        "date": "2025-05-30",
+        "tier": "7티어",
+        "tier_num": 7
+      }
+    ],
+    "first_tier": "8티어",
+    "last_tier": "7티어",
+    "tier_count": 3
+  },
+  "늑대채린": {
+    "changes": [
+      {
+        "date": "2025-01-04",
+        "tier": "4티어",
+        "tier_num": 4
+      }
+    ],
+    "first_tier": "4티어",
+    "last_tier": "4티어",
+    "tier_count": 1
+  },
+  "박하악": {
+    "changes": [
+      {
+        "date": "2025-02-16",
+        "tier": "6티어",
+        "tier_num": 6
+      }
+    ],
+    "first_tier": "6티어",
+    "last_tier": "6티어",
+    "tier_count": 1
+  },
+  "냥수디": {
+    "changes": [
+      {
+        "date": "2025-06-05",
+        "tier": "베이비",
+        "tier_num": 9
+      },
+      {
+        "date": "2025-07-30",
+        "tier": "8티어",
+        "tier_num": 8
+      },
+      {
+        "date": "2025-12-03",
+        "tier": "7티어",
+        "tier_num": 7
+      }
+    ],
+    "first_tier": "베이비",
+    "last_tier": "7티어",
+    "tier_count": 3
+  },
+  "정서린": {
+    "changes": [
+      {
+        "date": "2025-06-05",
+        "tier": "베이비",
+        "tier_num": 9
+      },
+      {
+        "date": "2025-07-29",
+        "tier": "8티어",
+        "tier_num": 8
+      },
+      {
+        "date": "2025-10-01",
+        "tier": "7티어",
+        "tier_num": 7
+      }
+    ],
+    "first_tier": "베이비",
+    "last_tier": "7티어",
+    "tier_count": 3
+  },
+  "다예나": {
+    "changes": [
+      {
+        "date": "2025-06-07",
+        "tier": "베이비",
+        "tier_num": 9
+      },
+      {
+        "date": "2025-07-28",
+        "tier": "8티어",
+        "tier_num": 8
+      }
+    ],
+    "first_tier": "베이비",
+    "last_tier": "8티어",
+    "tier_count": 2
+  },
+  "단비송": {
+    "changes": [
+      {
+        "date": "2025-09-23",
+        "tier": "베이비",
+        "tier_num": 9
+      },
+      {
+        "date": "2025-11-24",
+        "tier": "8티어",
+        "tier_num": 8
+      }
+    ],
+    "first_tier": "베이비",
+    "last_tier": "8티어",
+    "tier_count": 2
+  }
+}

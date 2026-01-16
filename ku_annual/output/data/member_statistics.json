@@ -1,0 +1,3368 @@
+{
+  "구루미": {
+    "basic_info": {
+      "name": "구루미",
+      "race": "저그",
+      "first_tier": "5티어",
+      "last_tier": "4티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 340,
+      "wins": 149,
+      "losses": 191,
+      "win_rate": 43.82
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 323,
+        "wins": 136,
+        "losses": 187,
+        "win_rate": 42.11
+      },
+      "대회": {
+        "total_games": 17,
+        "wins": 13,
+        "losses": 4,
+        "win_rate": 76.47
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 11,
+        "wins": 4,
+        "losses": 7,
+        "win_rate": 36.36
+      },
+      "2025-02": {
+        "total_games": 57,
+        "wins": 27,
+        "losses": 30,
+        "win_rate": 47.37
+      },
+      "2025-03": {
+        "total_games": 48,
+        "wins": 28,
+        "losses": 20,
+        "win_rate": 58.33
+      },
+      "2025-04": {
+        "total_games": 25,
+        "wins": 10,
+        "losses": 15,
+        "win_rate": 40.0
+      },
+      "2025-05": {
+        "total_games": 35,
+        "wins": 17,
+        "losses": 18,
+        "win_rate": 48.57
+      },
+      "2025-06": {
+        "total_games": 27,
+        "wins": 18,
+        "losses": 9,
+        "win_rate": 66.67
+      },
+      "2025-07": {
+        "total_games": 19,
+        "wins": 11,
+        "losses": 8,
+        "win_rate": 57.89
+      },
+      "2025-08": {
+        "total_games": 6,
+        "wins": 3,
+        "losses": 3,
+        "win_rate": 50.0
+      },
+      "2025-09": {
+        "total_games": 60,
+        "wins": 17,
+        "losses": 43,
+        "win_rate": 28.33
+      },
+      "2025-10": {
+        "total_games": 46,
+        "wins": 11,
+        "losses": 35,
+        "win_rate": 23.91
+      },
+      "2025-12": {
+        "total_games": 6,
+        "wins": 3,
+        "losses": 3,
+        "win_rate": 50.0
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 197,
+        "wins": 77,
+        "losses": 120,
+        "win_rate": 39.09
+      },
+      "저그": {
+        "total_games": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_rate": 40.0
+      },
+      "프로토스": {
+        "total_games": 138,
+        "wins": 70,
+        "losses": 68,
+        "win_rate": 50.72
+      }
+    },
+    "by_map": {
+      "라데온": {
+        "total_games": 130,
+        "wins": 60,
+        "losses": 70,
+        "win_rate": 46.15
+      },
+      "폴리포이드": {
+        "total_games": 129,
+        "wins": 53,
+        "losses": 76,
+        "win_rate": 41.09
+      },
+      "데자뷰": {
+        "total_games": 44,
+        "wins": 23,
+        "losses": 21,
+        "win_rate": 52.27
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 288,
+        "wins": 131,
+        "losses": 157,
+        "win_rate": 45.49
+      },
+      "upper": {
+        "total_games": 45,
+        "wins": 16,
+        "losses": 29,
+        "win_rate": 35.56
+      },
+      "lower": {
+        "total_games": 7,
+        "wins": 2,
+        "losses": 5,
+        "win_rate": 28.57
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "규리야": {
+        "total_games": 41,
+        "wins": 9,
+        "losses": 32,
+        "win_rate": 21.95
+      },
+      "태영": {
+        "total_games": 30,
+        "wins": 12,
+        "losses": 18,
+        "win_rate": 40.0
+      },
+      "오하얀": {
+        "total_games": 29,
+        "wins": 21,
+        "losses": 8,
+        "win_rate": 72.41
+      },
+      "연애인": {
+        "total_games": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_rate": 50.0
+      },
+      "햇살": {
+        "total_games": 28,
+        "wins": 9,
+        "losses": 19,
+        "win_rate": 32.14
+      },
+      "금선2": {
+        "total_games": 22,
+        "wins": 6,
+        "losses": 16,
+        "win_rate": 27.27
+      },
+      "주서리": {
+        "total_games": 19,
+        "wins": 12,
+        "losses": 7,
+        "win_rate": 63.16
+      },
+      "라운이": {
+        "total_games": 15,
+        "wins": 10,
+        "losses": 5,
+        "win_rate": 66.67
+      }
+    }
+  },
+  "규리야": {
+    "basic_info": {
+      "name": "규리야",
+      "race": "테란",
+      "first_tier": "5티어",
+      "last_tier": "4티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 992,
+      "wins": 580,
+      "losses": 412,
+      "win_rate": 58.47
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 918,
+        "wins": 530,
+        "losses": 388,
+        "win_rate": 57.73
+      },
+      "대회": {
+        "total_games": 74,
+        "wins": 50,
+        "losses": 24,
+        "win_rate": 67.57
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 95,
+        "wins": 55,
+        "losses": 40,
+        "win_rate": 57.89
+      },
+      "2025-02": {
+        "total_games": 93,
+        "wins": 54,
+        "losses": 39,
+        "win_rate": 58.06
+      },
+      "2025-03": {
+        "total_games": 125,
+        "wins": 62,
+        "losses": 63,
+        "win_rate": 49.6
+      },
+      "2025-04": {
+        "total_games": 73,
+        "wins": 41,
+        "losses": 32,
+        "win_rate": 56.16
+      },
+      "2025-05": {
+        "total_games": 63,
+        "wins": 34,
+        "losses": 29,
+        "win_rate": 53.97
+      },
+      "2025-06": {
+        "total_games": 62,
+        "wins": 39,
+        "losses": 23,
+        "win_rate": 62.9
+      },
+      "2025-07": {
+        "total_games": 66,
+        "wins": 37,
+        "losses": 29,
+        "win_rate": 56.06
+      },
+      "2025-08": {
+        "total_games": 59,
+        "wins": 41,
+        "losses": 18,
+        "win_rate": 69.49
+      },
+      "2025-09": {
+        "total_games": 138,
+        "wins": 80,
+        "losses": 58,
+        "win_rate": 57.97
+      },
+      "2025-10": {
+        "total_games": 174,
+        "wins": 107,
+        "losses": 67,
+        "win_rate": 61.49
+      },
+      "2025-11": {
+        "total_games": 4,
+        "wins": 3,
+        "losses": 1,
+        "win_rate": 75.0
+      },
+      "2025-12": {
+        "total_games": 40,
+        "wins": 27,
+        "losses": 13,
+        "win_rate": 67.5
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 24,
+        "wins": 9,
+        "losses": 15,
+        "win_rate": 37.5
+      },
+      "저그": {
+        "total_games": 489,
+        "wins": 308,
+        "losses": 181,
+        "win_rate": 62.99
+      },
+      "프로토스": {
+        "total_games": 479,
+        "wins": 263,
+        "losses": 216,
+        "win_rate": 54.91
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 368,
+        "wins": 227,
+        "losses": 141,
+        "win_rate": 61.68
+      },
+      "라데온": {
+        "total_games": 271,
+        "wins": 155,
+        "losses": 116,
+        "win_rate": 57.2
+      },
+      "데자뷰": {
+        "total_games": 161,
+        "wins": 83,
+        "losses": 78,
+        "win_rate": 51.55
+      },
+      "이클립스": {
+        "total_games": 73,
+        "wins": 43,
+        "losses": 30,
+        "win_rate": 58.9
+      },
+      "녹아웃": {
+        "total_games": 72,
+        "wins": 46,
+        "losses": 26,
+        "win_rate": 63.89
+      },
+      "리트머스": {
+        "total_games": 31,
+        "wins": 14,
+        "losses": 17,
+        "win_rate": 45.16
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 777,
+        "wins": 480,
+        "losses": 297,
+        "win_rate": 61.78
+      },
+      "upper": {
+        "total_games": 116,
+        "wins": 43,
+        "losses": 73,
+        "win_rate": 37.07
+      },
+      "lower": {
+        "total_games": 99,
+        "wins": 57,
+        "losses": 42,
+        "win_rate": 57.58
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "늑대채린": {
+        "total_games": 86,
+        "wins": 44,
+        "losses": 42,
+        "win_rate": 51.16
+      },
+      "몽순": {
+        "total_games": 65,
+        "wins": 35,
+        "losses": 30,
+        "win_rate": 53.85
+      },
+      "공다츠": {
+        "total_games": 58,
+        "wins": 30,
+        "losses": 28,
+        "win_rate": 51.72
+      },
+      "찌킹": {
+        "total_games": 57,
+        "wins": 39,
+        "losses": 18,
+        "win_rate": 68.42
+      },
+      "졈니": {
+        "total_games": 52,
+        "wins": 29,
+        "losses": 23,
+        "win_rate": 55.77
+      },
+      "빵리나": {
+        "total_games": 47,
+        "wins": 28,
+        "losses": 19,
+        "win_rate": 59.57
+      },
+      "최도랑": {
+        "total_games": 46,
+        "wins": 29,
+        "losses": 17,
+        "win_rate": 63.04
+      },
+      "은똥": {
+        "total_games": 44,
+        "wins": 22,
+        "losses": 22,
+        "win_rate": 50.0
+      },
+      "구루미": {
+        "total_games": 42,
+        "wins": 33,
+        "losses": 9,
+        "win_rate": 78.57
+      },
+      "연애인": {
+        "total_games": 39,
+        "wins": 28,
+        "losses": 11,
+        "win_rate": 71.79
+      },
+      "하리": {
+        "total_games": 37,
+        "wins": 17,
+        "losses": 20,
+        "win_rate": 45.95
+      },
+      "림예이": {
+        "total_games": 25,
+        "wins": 21,
+        "losses": 4,
+        "win_rate": 84.0
+      },
+      "요닝": {
+        "total_games": 25,
+        "wins": 16,
+        "losses": 9,
+        "win_rate": 64.0
+      },
+      "김뽀뇨": {
+        "total_games": 25,
+        "wins": 6,
+        "losses": 19,
+        "win_rate": 24.0
+      },
+      "토마토": {
+        "total_games": 24,
+        "wins": 13,
+        "losses": 11,
+        "win_rate": 54.17
+      },
+      "렘레미": {
+        "total_games": 22,
+        "wins": 19,
+        "losses": 3,
+        "win_rate": 86.36
+      },
+      "링고": {
+        "total_games": 20,
+        "wins": 9,
+        "losses": 11,
+        "win_rate": 45.0
+      },
+      "슬아": {
+        "total_games": 19,
+        "wins": 14,
+        "losses": 5,
+        "win_rate": 73.68
+      },
+      "두디": {
+        "total_games": 19,
+        "wins": 10,
+        "losses": 9,
+        "win_rate": 52.63
+      },
+      "임밍지": {
+        "total_games": 18,
+        "wins": 11,
+        "losses": 7,
+        "win_rate": 61.11
+      },
+      "앵지": {
+        "total_games": 16,
+        "wins": 14,
+        "losses": 2,
+        "win_rate": 87.5
+      },
+      "뿌리": {
+        "total_games": 15,
+        "wins": 10,
+        "losses": 5,
+        "win_rate": 66.67
+      }
+    }
+  },
+  "김뽀뇨": {
+    "basic_info": {
+      "name": "김뽀뇨",
+      "race": "프로토스",
+      "first_tier": "3티어",
+      "last_tier": "3티어",
+      "tier_changes": 1
+    },
+    "overall": {
+      "total_games": 625,
+      "wins": 316,
+      "losses": 309,
+      "win_rate": 50.56
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 573,
+        "wins": 291,
+        "losses": 282,
+        "win_rate": 50.79
+      },
+      "대회": {
+        "total_games": 52,
+        "wins": 25,
+        "losses": 27,
+        "win_rate": 48.08
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 73,
+        "wins": 37,
+        "losses": 36,
+        "win_rate": 50.68
+      },
+      "2025-02": {
+        "total_games": 84,
+        "wins": 38,
+        "losses": 46,
+        "win_rate": 45.24
+      },
+      "2025-03": {
+        "total_games": 61,
+        "wins": 33,
+        "losses": 28,
+        "win_rate": 54.1
+      },
+      "2025-04": {
+        "total_games": 77,
+        "wins": 41,
+        "losses": 36,
+        "win_rate": 53.25
+      },
+      "2025-05": {
+        "total_games": 46,
+        "wins": 24,
+        "losses": 22,
+        "win_rate": 52.17
+      },
+      "2025-06": {
+        "total_games": 36,
+        "wins": 20,
+        "losses": 16,
+        "win_rate": 55.56
+      },
+      "2025-07": {
+        "total_games": 25,
+        "wins": 13,
+        "losses": 12,
+        "win_rate": 52.0
+      },
+      "2025-08": {
+        "total_games": 40,
+        "wins": 22,
+        "losses": 18,
+        "win_rate": 55.0
+      },
+      "2025-09": {
+        "total_games": 65,
+        "wins": 33,
+        "losses": 32,
+        "win_rate": 50.77
+      },
+      "2025-10": {
+        "total_games": 95,
+        "wins": 42,
+        "losses": 53,
+        "win_rate": 44.21
+      },
+      "2025-11": {
+        "total_games": 12,
+        "wins": 5,
+        "losses": 7,
+        "win_rate": 41.67
+      },
+      "2025-12": {
+        "total_games": 11,
+        "wins": 8,
+        "losses": 3,
+        "win_rate": 72.73
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 300,
+        "wins": 157,
+        "losses": 143,
+        "win_rate": 52.33
+      },
+      "저그": {
+        "total_games": 298,
+        "wins": 149,
+        "losses": 149,
+        "win_rate": 50.0
+      },
+      "프로토스": {
+        "total_games": 27,
+        "wins": 10,
+        "losses": 17,
+        "win_rate": 37.04
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 181,
+        "wins": 83,
+        "losses": 98,
+        "win_rate": 45.86
+      },
+      "라데온": {
+        "total_games": 168,
+        "wins": 92,
+        "losses": 76,
+        "win_rate": 54.76
+      },
+      "데자뷰": {
+        "total_games": 138,
+        "wins": 71,
+        "losses": 67,
+        "win_rate": 51.45
+      },
+      "이클립스": {
+        "total_games": 59,
+        "wins": 36,
+        "losses": 23,
+        "win_rate": 61.02
+      },
+      "녹아웃": {
+        "total_games": 40,
+        "wins": 18,
+        "losses": 22,
+        "win_rate": 45.0
+      },
+      "리트머스": {
+        "total_games": 29,
+        "wins": 10,
+        "losses": 19,
+        "win_rate": 34.48
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 467,
+        "wins": 234,
+        "losses": 233,
+        "win_rate": 50.11
+      },
+      "upper": {
+        "total_games": 69,
+        "wins": 23,
+        "losses": 46,
+        "win_rate": 33.33
+      },
+      "lower": {
+        "total_games": 89,
+        "wins": 59,
+        "losses": 30,
+        "win_rate": 66.29
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "나예리": {
+        "total_games": 65,
+        "wins": 45,
+        "losses": 20,
+        "win_rate": 69.23
+      },
+      "다예": {
+        "total_games": 65,
+        "wins": 40,
+        "losses": 25,
+        "win_rate": 61.54
+      },
+      "모꿀몬": {
+        "total_games": 49,
+        "wins": 16,
+        "losses": 33,
+        "win_rate": 32.65
+      },
+      "소심": {
+        "total_games": 44,
+        "wins": 22,
+        "losses": 22,
+        "win_rate": 50.0
+      },
+      "지두두": {
+        "total_games": 44,
+        "wins": 23,
+        "losses": 21,
+        "win_rate": 52.27
+      },
+      "나무늘봉순": {
+        "total_games": 42,
+        "wins": 15,
+        "losses": 27,
+        "win_rate": 35.71
+      },
+      "라미": {
+        "total_games": 42,
+        "wins": 17,
+        "losses": 25,
+        "win_rate": 40.48
+      },
+      "이유란": {
+        "total_games": 32,
+        "wins": 18,
+        "losses": 14,
+        "win_rate": 56.25
+      },
+      "규리야": {
+        "total_games": 25,
+        "wins": 19,
+        "losses": 6,
+        "win_rate": 76.0
+      },
+      "뚜미언니": {
+        "total_games": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_rate": 47.83
+      },
+      "히엉": {
+        "total_games": 22,
+        "wins": 7,
+        "losses": 15,
+        "win_rate": 31.82
+      },
+      "카히리": {
+        "total_games": 20,
+        "wins": 10,
+        "losses": 10,
+        "win_rate": 50.0
+      },
+      "늑대채린": {
+        "total_games": 19,
+        "wins": 10,
+        "losses": 9,
+        "win_rate": 52.63
+      },
+      "야리": {
+        "total_games": 17,
+        "wins": 10,
+        "losses": 7,
+        "win_rate": 58.82
+      }
+    }
+  },
+  "내가먼지": {
+    "basic_info": {
+      "name": "내가먼지",
+      "race": "테란",
+      "first_tier": "7티어",
+      "last_tier": "6티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 495,
+      "wins": 328,
+      "losses": 167,
+      "win_rate": 66.26
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 440,
+        "wins": 297,
+        "losses": 143,
+        "win_rate": 67.5
+      },
+      "대회": {
+        "total_games": 55,
+        "wins": 31,
+        "losses": 24,
+        "win_rate": 56.36
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 38,
+        "wins": 26,
+        "losses": 12,
+        "win_rate": 68.42
+      },
+      "2025-02": {
+        "total_games": 26,
+        "wins": 18,
+        "losses": 8,
+        "win_rate": 69.23
+      },
+      "2025-03": {
+        "total_games": 56,
+        "wins": 41,
+        "losses": 15,
+        "win_rate": 73.21
+      },
+      "2025-04": {
+        "total_games": 46,
+        "wins": 28,
+        "losses": 18,
+        "win_rate": 60.87
+      },
+      "2025-05": {
+        "total_games": 47,
+        "wins": 33,
+        "losses": 14,
+        "win_rate": 70.21
+      },
+      "2025-06": {
+        "total_games": 37,
+        "wins": 22,
+        "losses": 15,
+        "win_rate": 59.46
+      },
+      "2025-07": {
+        "total_games": 63,
+        "wins": 43,
+        "losses": 20,
+        "win_rate": 68.25
+      },
+      "2025-09": {
+        "total_games": 62,
+        "wins": 34,
+        "losses": 28,
+        "win_rate": 54.84
+      },
+      "2025-10": {
+        "total_games": 107,
+        "wins": 76,
+        "losses": 31,
+        "win_rate": 71.03
+      },
+      "2025-11": {
+        "total_games": 3,
+        "wins": 3,
+        "losses": 0,
+        "win_rate": 100.0
+      },
+      "2025-12": {
+        "total_games": 10,
+        "wins": 4,
+        "losses": 6,
+        "win_rate": 40.0
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 2,
+        "wins": 1,
+        "losses": 1,
+        "win_rate": 50.0
+      },
+      "저그": {
+        "total_games": 253,
+        "wins": 166,
+        "losses": 87,
+        "win_rate": 65.61
+      },
+      "프로토스": {
+        "total_games": 240,
+        "wins": 161,
+        "losses": 79,
+        "win_rate": 67.08
+      }
+    },
+    "by_map": {
+      "라데온": {
+        "total_games": 191,
+        "wins": 119,
+        "losses": 72,
+        "win_rate": 62.3
+      },
+      "폴리포이드": {
+        "total_games": 189,
+        "wins": 133,
+        "losses": 56,
+        "win_rate": 70.37
+      },
+      "이클립스": {
+        "total_games": 42,
+        "wins": 28,
+        "losses": 14,
+        "win_rate": 66.67
+      },
+      "데자뷰": {
+        "total_games": 35,
+        "wins": 23,
+        "losses": 12,
+        "win_rate": 65.71
+      },
+      "녹아웃": {
+        "total_games": 28,
+        "wins": 18,
+        "losses": 10,
+        "win_rate": 64.29
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 411,
+        "wins": 267,
+        "losses": 144,
+        "win_rate": 64.96
+      },
+      "upper": {
+        "total_games": 44,
+        "wins": 30,
+        "losses": 14,
+        "win_rate": 68.18
+      },
+      "lower": {
+        "total_games": 40,
+        "wins": 31,
+        "losses": 9,
+        "win_rate": 77.5
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "박하악": {
+        "total_games": 49,
+        "wins": 28,
+        "losses": 21,
+        "win_rate": 57.14
+      },
+      "효짱": {
+        "total_games": 35,
+        "wins": 22,
+        "losses": 13,
+        "win_rate": 62.86
+      },
+      "빵미유": {
+        "total_games": 32,
+        "wins": 22,
+        "losses": 10,
+        "win_rate": 68.75
+      },
+      "임조이": {
+        "total_games": 30,
+        "wins": 16,
+        "losses": 14,
+        "win_rate": 53.33
+      },
+      "엄보리": {
+        "total_games": 23,
+        "wins": 16,
+        "losses": 7,
+        "win_rate": 69.57
+      },
+      "먼진": {
+        "total_games": 23,
+        "wins": 13,
+        "losses": 10,
+        "win_rate": 56.52
+      },
+      "양유정": {
+        "total_games": 23,
+        "wins": 19,
+        "losses": 4,
+        "win_rate": 82.61
+      },
+      "김무아": {
+        "total_games": 17,
+        "wins": 14,
+        "losses": 3,
+        "win_rate": 82.35
+      },
+      "슈슈": {
+        "total_games": 16,
+        "wins": 13,
+        "losses": 3,
+        "win_rate": 81.25
+      },
+      "남수댕": {
+        "total_games": 16,
+        "wins": 7,
+        "losses": 9,
+        "win_rate": 43.75
+      },
+      "2라니": {
+        "total_games": 16,
+        "wins": 11,
+        "losses": 5,
+        "win_rate": 68.75
+      },
+      "짱다": {
+        "total_games": 16,
+        "wins": 9,
+        "losses": 7,
+        "win_rate": 56.25
+      },
+      "밍가": {
+        "total_games": 15,
+        "wins": 8,
+        "losses": 7,
+        "win_rate": 53.33
+      }
+    }
+  },
+  "냥수디": {
+    "basic_info": {
+      "name": "냥수디",
+      "race": "저그",
+      "first_tier": "베이비",
+      "last_tier": "7티어",
+      "tier_changes": 3
+    },
+    "overall": {
+      "total_games": 262,
+      "wins": 175,
+      "losses": 87,
+      "win_rate": 66.79
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 247,
+        "wins": 166,
+        "losses": 81,
+        "win_rate": 67.21
+      },
+      "대회": {
+        "total_games": 15,
+        "wins": 9,
+        "losses": 6,
+        "win_rate": 60.0
+      }
+    },
+    "by_month": {
+      "2025-06": {
+        "total_games": 29,
+        "wins": 18,
+        "losses": 11,
+        "win_rate": 62.07
+      },
+      "2025-07": {
+        "total_games": 34,
+        "wins": 28,
+        "losses": 6,
+        "win_rate": 82.35
+      },
+      "2025-08": {
+        "total_games": 48,
+        "wins": 28,
+        "losses": 20,
+        "win_rate": 58.33
+      },
+      "2025-09": {
+        "total_games": 81,
+        "wins": 55,
+        "losses": 26,
+        "win_rate": 67.9
+      },
+      "2025-10": {
+        "total_games": 59,
+        "wins": 38,
+        "losses": 21,
+        "win_rate": 64.41
+      },
+      "2025-11": {
+        "total_games": 3,
+        "wins": 2,
+        "losses": 1,
+        "win_rate": 66.67
+      },
+      "2025-12": {
+        "total_games": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 75.0
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 108,
+        "wins": 63,
+        "losses": 45,
+        "win_rate": 58.33
+      },
+      "저그": {
+        "total_games": 3,
+        "wins": 0,
+        "losses": 3,
+        "win_rate": 0.0
+      },
+      "프로토스": {
+        "total_games": 151,
+        "wins": 112,
+        "losses": 39,
+        "win_rate": 74.17
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 198,
+        "wins": 141,
+        "losses": 57,
+        "win_rate": 71.21
+      },
+      "라데온": {
+        "total_games": 33,
+        "wins": 17,
+        "losses": 16,
+        "win_rate": 51.52
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 224,
+        "wins": 147,
+        "losses": 77,
+        "win_rate": 65.62
+      },
+      "upper": {
+        "total_games": 17,
+        "wins": 14,
+        "losses": 3,
+        "win_rate": 82.35
+      },
+      "lower": {
+        "total_games": 21,
+        "wins": 14,
+        "losses": 7,
+        "win_rate": 66.67
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "엄키키": {
+        "total_games": 32,
+        "wins": 18,
+        "losses": 14,
+        "win_rate": 56.25
+      },
+      "허로아": {
+        "total_games": 30,
+        "wins": 19,
+        "losses": 11,
+        "win_rate": 63.33
+      },
+      "은서": {
+        "total_games": 18,
+        "wins": 10,
+        "losses": 8,
+        "win_rate": 55.56
+      },
+      "정서린": {
+        "total_games": 15,
+        "wins": 7,
+        "losses": 8,
+        "win_rate": 46.67
+      },
+      "김세주": {
+        "total_games": 15,
+        "wins": 10,
+        "losses": 5,
+        "win_rate": 66.67
+      }
+    }
+  },
+  "늑대채린": {
+    "basic_info": {
+      "name": "늑대채린",
+      "race": "저그",
+      "first_tier": "4티어",
+      "last_tier": "4티어",
+      "tier_changes": 1
+    },
+    "overall": {
+      "total_games": 617,
+      "wins": 306,
+      "losses": 311,
+      "win_rate": 49.59
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 583,
+        "wins": 291,
+        "losses": 292,
+        "win_rate": 49.91
+      },
+      "대회": {
+        "total_games": 34,
+        "wins": 15,
+        "losses": 19,
+        "win_rate": 44.12
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 41,
+        "wins": 21,
+        "losses": 20,
+        "win_rate": 51.22
+      },
+      "2025-02": {
+        "total_games": 75,
+        "wins": 36,
+        "losses": 39,
+        "win_rate": 48.0
+      },
+      "2025-03": {
+        "total_games": 86,
+        "wins": 41,
+        "losses": 45,
+        "win_rate": 47.67
+      },
+      "2025-04": {
+        "total_games": 64,
+        "wins": 33,
+        "losses": 31,
+        "win_rate": 51.56
+      },
+      "2025-05": {
+        "total_games": 44,
+        "wins": 24,
+        "losses": 20,
+        "win_rate": 54.55
+      },
+      "2025-06": {
+        "total_games": 39,
+        "wins": 18,
+        "losses": 21,
+        "win_rate": 46.15
+      },
+      "2025-07": {
+        "total_games": 58,
+        "wins": 35,
+        "losses": 23,
+        "win_rate": 60.34
+      },
+      "2025-08": {
+        "total_games": 32,
+        "wins": 19,
+        "losses": 13,
+        "win_rate": 59.38
+      },
+      "2025-09": {
+        "total_games": 75,
+        "wins": 27,
+        "losses": 48,
+        "win_rate": 36.0
+      },
+      "2025-10": {
+        "total_games": 97,
+        "wins": 48,
+        "losses": 49,
+        "win_rate": 49.48
+      },
+      "2025-11": {
+        "total_games": 6,
+        "wins": 4,
+        "losses": 2,
+        "win_rate": 66.67
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 425,
+        "wins": 214,
+        "losses": 211,
+        "win_rate": 50.35
+      },
+      "저그": {
+        "total_games": 12,
+        "wins": 4,
+        "losses": 8,
+        "win_rate": 33.33
+      },
+      "프로토스": {
+        "total_games": 180,
+        "wins": 88,
+        "losses": 92,
+        "win_rate": 48.89
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 238,
+        "wins": 120,
+        "losses": 118,
+        "win_rate": 50.42
+      },
+      "라데온": {
+        "total_games": 201,
+        "wins": 100,
+        "losses": 101,
+        "win_rate": 49.75
+      },
+      "데자뷰": {
+        "total_games": 86,
+        "wins": 40,
+        "losses": 46,
+        "win_rate": 46.51
+      },
+      "이클립스": {
+        "total_games": 43,
+        "wins": 21,
+        "losses": 22,
+        "win_rate": 48.84
+      },
+      "녹아웃": {
+        "total_games": 31,
+        "wins": 14,
+        "losses": 17,
+        "win_rate": 45.16
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 400,
+        "wins": 180,
+        "losses": 220,
+        "win_rate": 45.0
+      },
+      "upper": {
+        "total_games": 102,
+        "wins": 44,
+        "losses": 58,
+        "win_rate": 43.14
+      },
+      "lower": {
+        "total_games": 115,
+        "wins": 82,
+        "losses": 33,
+        "win_rate": 71.3
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "규리야": {
+        "total_games": 86,
+        "wins": 42,
+        "losses": 44,
+        "win_rate": 48.84
+      },
+      "햇살": {
+        "total_games": 72,
+        "wins": 36,
+        "losses": 36,
+        "win_rate": 50.0
+      },
+      "뚜밥": {
+        "total_games": 38,
+        "wins": 15,
+        "losses": 23,
+        "win_rate": 39.47
+      },
+      "태영": {
+        "total_games": 34,
+        "wins": 11,
+        "losses": 23,
+        "win_rate": 32.35
+      },
+      "빵리나": {
+        "total_games": 32,
+        "wins": 10,
+        "losses": 22,
+        "win_rate": 31.25
+      },
+      "뚜미언니": {
+        "total_games": 29,
+        "wins": 13,
+        "losses": 16,
+        "win_rate": 44.83
+      },
+      "하리": {
+        "total_games": 26,
+        "wins": 15,
+        "losses": 11,
+        "win_rate": 57.69
+      },
+      "뽀누나": {
+        "total_games": 24,
+        "wins": 14,
+        "losses": 10,
+        "win_rate": 58.33
+      },
+      "우리밍": {
+        "total_games": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_rate": 47.83
+      },
+      "강덕구": {
+        "total_games": 21,
+        "wins": 20,
+        "losses": 1,
+        "win_rate": 95.24
+      },
+      "김뽀뇨": {
+        "total_games": 19,
+        "wins": 9,
+        "losses": 10,
+        "win_rate": 47.37
+      },
+      "구보라": {
+        "total_games": 18,
+        "wins": 9,
+        "losses": 9,
+        "win_rate": 50.0
+      },
+      "토마토": {
+        "total_games": 18,
+        "wins": 5,
+        "losses": 13,
+        "win_rate": 27.78
+      },
+      "무찌": {
+        "total_games": 17,
+        "wins": 12,
+        "losses": 5,
+        "win_rate": 70.59
+      }
+    }
+  },
+  "다예나": {
+    "basic_info": {
+      "name": "다예나",
+      "race": "프로토스",
+      "first_tier": "베이비",
+      "last_tier": "8티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 343,
+      "wins": 204,
+      "losses": 139,
+      "win_rate": 59.48
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 328,
+        "wins": 199,
+        "losses": 129,
+        "win_rate": 60.67
+      },
+      "대회": {
+        "total_games": 15,
+        "wins": 5,
+        "losses": 10,
+        "win_rate": 33.33
+      }
+    },
+    "by_month": {
+      "2025-06": {
+        "total_games": 24,
+        "wins": 10,
+        "losses": 14,
+        "win_rate": 41.67
+      },
+      "2025-07": {
+        "total_games": 59,
+        "wins": 37,
+        "losses": 22,
+        "win_rate": 62.71
+      },
+      "2025-08": {
+        "total_games": 66,
+        "wins": 36,
+        "losses": 30,
+        "win_rate": 54.55
+      },
+      "2025-09": {
+        "total_games": 69,
+        "wins": 43,
+        "losses": 26,
+        "win_rate": 62.32
+      },
+      "2025-10": {
+        "total_games": 98,
+        "wins": 56,
+        "losses": 42,
+        "win_rate": 57.14
+      },
+      "2025-11": {
+        "total_games": 10,
+        "wins": 8,
+        "losses": 2,
+        "win_rate": 80.0
+      },
+      "2025-12": {
+        "total_games": 17,
+        "wins": 14,
+        "losses": 3,
+        "win_rate": 82.35
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 101,
+        "wins": 50,
+        "losses": 51,
+        "win_rate": 49.5
+      },
+      "저그": {
+        "total_games": 214,
+        "wins": 140,
+        "losses": 74,
+        "win_rate": 65.42
+      },
+      "프로토스": {
+        "total_games": 28,
+        "wins": 14,
+        "losses": 14,
+        "win_rate": 50.0
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 215,
+        "wins": 127,
+        "losses": 88,
+        "win_rate": 59.07
+      },
+      "라데온": {
+        "total_games": 59,
+        "wins": 36,
+        "losses": 23,
+        "win_rate": 61.02
+      },
+      "데자뷰": {
+        "total_games": 36,
+        "wins": 20,
+        "losses": 16,
+        "win_rate": 55.56
+      },
+      "녹아웃": {
+        "total_games": 23,
+        "wins": 18,
+        "losses": 5,
+        "win_rate": 78.26
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 282,
+        "wins": 173,
+        "losses": 109,
+        "win_rate": 61.35
+      },
+      "upper": {
+        "total_games": 32,
+        "wins": 13,
+        "losses": 19,
+        "win_rate": 40.62
+      },
+      "lower": {
+        "total_games": 29,
+        "wins": 18,
+        "losses": 11,
+        "win_rate": 62.07
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "수붕e": {
+        "total_games": 39,
+        "wins": 28,
+        "losses": 11,
+        "win_rate": 71.79
+      },
+      "루다": {
+        "total_games": 33,
+        "wins": 21,
+        "losses": 12,
+        "win_rate": 63.64
+      },
+      "김말랑": {
+        "total_games": 23,
+        "wins": 13,
+        "losses": 10,
+        "win_rate": 56.52
+      },
+      "다라츄": {
+        "total_games": 19,
+        "wins": 12,
+        "losses": 7,
+        "win_rate": 63.16
+      },
+      "구쁘": {
+        "total_games": 16,
+        "wins": 10,
+        "losses": 6,
+        "win_rate": 62.5
+      },
+      "냥수디": {
+        "total_games": 16,
+        "wins": 5,
+        "losses": 11,
+        "win_rate": 31.25
+      },
+      "송혜림": {
+        "total_games": 16,
+        "wins": 12,
+        "losses": 4,
+        "win_rate": 75.0
+      },
+      "김세주": {
+        "total_games": 15,
+        "wins": 8,
+        "losses": 7,
+        "win_rate": 53.33
+      }
+    }
+  },
+  "단비송": {
+    "basic_info": {
+      "name": "단비송",
+      "race": "테란",
+      "first_tier": "베이비",
+      "last_tier": "8티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 169,
+      "wins": 73,
+      "losses": 96,
+      "win_rate": 43.2
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 167,
+        "wins": 72,
+        "losses": 95,
+        "win_rate": 43.11
+      },
+      "대회": {
+        "total_games": 2,
+        "wins": 1,
+        "losses": 1,
+        "win_rate": 50.0
+      }
+    },
+    "by_month": {
+      "2025-09": {
+        "total_games": 16,
+        "wins": 4,
+        "losses": 12,
+        "win_rate": 25.0
+      },
+      "2025-10": {
+        "total_games": 46,
+        "wins": 19,
+        "losses": 27,
+        "win_rate": 41.3
+      },
+      "2025-11": {
+        "total_games": 33,
+        "wins": 14,
+        "losses": 19,
+        "win_rate": 42.42
+      },
+      "2025-12": {
+        "total_games": 74,
+        "wins": 36,
+        "losses": 38,
+        "win_rate": 48.65
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 3,
+        "wins": 3,
+        "losses": 0,
+        "win_rate": 100.0
+      },
+      "저그": {
+        "total_games": 63,
+        "wins": 23,
+        "losses": 40,
+        "win_rate": 36.51
+      },
+      "프로토스": {
+        "total_games": 103,
+        "wins": 47,
+        "losses": 56,
+        "win_rate": 45.63
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 160,
+        "wins": 69,
+        "losses": 91,
+        "win_rate": 43.12
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 142,
+        "wins": 63,
+        "losses": 79,
+        "win_rate": 44.37
+      },
+      "upper": {
+        "total_games": 22,
+        "wins": 5,
+        "losses": 17,
+        "win_rate": 22.73
+      },
+      "lower": {
+        "total_games": 5,
+        "wins": 5,
+        "losses": 0,
+        "win_rate": 100.0
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "뀨알": {
+        "total_games": 17,
+        "wins": 12,
+        "losses": 5,
+        "win_rate": 70.59
+      }
+    }
+  },
+  "또해영": {
+    "basic_info": {
+      "name": "또해영",
+      "race": "저그",
+      "first_tier": "8티어",
+      "last_tier": "7티어",
+      "tier_changes": 3
+    },
+    "overall": {
+      "total_games": 680,
+      "wins": 375,
+      "losses": 305,
+      "win_rate": 55.15
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 629,
+        "wins": 344,
+        "losses": 285,
+        "win_rate": 54.69
+      },
+      "대회": {
+        "total_games": 51,
+        "wins": 31,
+        "losses": 20,
+        "win_rate": 60.78
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 81,
+        "wins": 44,
+        "losses": 37,
+        "win_rate": 54.32
+      },
+      "2025-02": {
+        "total_games": 42,
+        "wins": 25,
+        "losses": 17,
+        "win_rate": 59.52
+      },
+      "2025-03": {
+        "total_games": 73,
+        "wins": 47,
+        "losses": 26,
+        "win_rate": 64.38
+      },
+      "2025-04": {
+        "total_games": 40,
+        "wins": 25,
+        "losses": 15,
+        "win_rate": 62.5
+      },
+      "2025-05": {
+        "total_games": 58,
+        "wins": 30,
+        "losses": 28,
+        "win_rate": 51.72
+      },
+      "2025-06": {
+        "total_games": 52,
+        "wins": 34,
+        "losses": 18,
+        "win_rate": 65.38
+      },
+      "2025-07": {
+        "total_games": 33,
+        "wins": 19,
+        "losses": 14,
+        "win_rate": 57.58
+      },
+      "2025-08": {
+        "total_games": 44,
+        "wins": 25,
+        "losses": 19,
+        "win_rate": 56.82
+      },
+      "2025-09": {
+        "total_games": 126,
+        "wins": 63,
+        "losses": 63,
+        "win_rate": 50.0
+      },
+      "2025-10": {
+        "total_games": 79,
+        "wins": 37,
+        "losses": 42,
+        "win_rate": 46.84
+      },
+      "2025-11": {
+        "total_games": 17,
+        "wins": 8,
+        "losses": 9,
+        "win_rate": 47.06
+      },
+      "2025-12": {
+        "total_games": 35,
+        "wins": 18,
+        "losses": 17,
+        "win_rate": 51.43
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 331,
+        "wins": 169,
+        "losses": 162,
+        "win_rate": 51.06
+      },
+      "저그": {
+        "total_games": 15,
+        "wins": 9,
+        "losses": 6,
+        "win_rate": 60.0
+      },
+      "프로토스": {
+        "total_games": 334,
+        "wins": 197,
+        "losses": 137,
+        "win_rate": 58.98
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 258,
+        "wins": 139,
+        "losses": 119,
+        "win_rate": 53.88
+      },
+      "라데온": {
+        "total_games": 198,
+        "wins": 104,
+        "losses": 94,
+        "win_rate": 52.53
+      },
+      "데자뷰": {
+        "total_games": 136,
+        "wins": 81,
+        "losses": 55,
+        "win_rate": 59.56
+      },
+      "이클립스": {
+        "total_games": 43,
+        "wins": 29,
+        "losses": 14,
+        "win_rate": 67.44
+      },
+      "녹아웃": {
+        "total_games": 25,
+        "wins": 14,
+        "losses": 11,
+        "win_rate": 56.0
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 533,
+        "wins": 297,
+        "losses": 236,
+        "win_rate": 55.72
+      },
+      "upper": {
+        "total_games": 69,
+        "wins": 31,
+        "losses": 38,
+        "win_rate": 44.93
+      },
+      "lower": {
+        "total_games": 78,
+        "wins": 47,
+        "losses": 31,
+        "win_rate": 60.26
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "사사삼": {
+        "total_games": 63,
+        "wins": 38,
+        "losses": 25,
+        "win_rate": 60.32
+      },
+      "밥새": {
+        "total_games": 53,
+        "wins": 24,
+        "losses": 29,
+        "win_rate": 45.28
+      },
+      "하이현": {
+        "total_games": 48,
+        "wins": 32,
+        "losses": 16,
+        "win_rate": 66.67
+      },
+      "하루묭": {
+        "total_games": 44,
+        "wins": 27,
+        "losses": 17,
+        "win_rate": 61.36
+      },
+      "수니양": {
+        "total_games": 36,
+        "wins": 23,
+        "losses": 13,
+        "win_rate": 63.89
+      },
+      "비타밍": {
+        "total_games": 35,
+        "wins": 12,
+        "losses": 23,
+        "win_rate": 34.29
+      },
+      "한쪼니": {
+        "total_games": 34,
+        "wins": 24,
+        "losses": 10,
+        "win_rate": 70.59
+      },
+      "효짱": {
+        "total_games": 33,
+        "wins": 17,
+        "losses": 16,
+        "win_rate": 51.52
+      },
+      "빵지니": {
+        "total_games": 28,
+        "wins": 21,
+        "losses": 7,
+        "win_rate": 75.0
+      },
+      "모리": {
+        "total_games": 27,
+        "wins": 7,
+        "losses": 20,
+        "win_rate": 25.93
+      },
+      "메옹이": {
+        "total_games": 26,
+        "wins": 6,
+        "losses": 20,
+        "win_rate": 23.08
+      },
+      "막내현진": {
+        "total_games": 20,
+        "wins": 10,
+        "losses": 10,
+        "win_rate": 50.0
+      },
+      "짱다": {
+        "total_games": 18,
+        "wins": 6,
+        "losses": 12,
+        "win_rate": 33.33
+      },
+      "양유정": {
+        "total_games": 17,
+        "wins": 11,
+        "losses": 6,
+        "win_rate": 64.71
+      },
+      "엄보리": {
+        "total_games": 17,
+        "wins": 9,
+        "losses": 8,
+        "win_rate": 52.94
+      }
+    }
+  },
+  "박하악": {
+    "basic_info": {
+      "name": "박하악",
+      "race": "저그",
+      "first_tier": "6티어",
+      "last_tier": "6티어",
+      "tier_changes": 1
+    },
+    "overall": {
+      "total_games": 778,
+      "wins": 370,
+      "losses": 408,
+      "win_rate": 47.56
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 714,
+        "wins": 330,
+        "losses": 384,
+        "win_rate": 46.22
+      },
+      "대회": {
+        "total_games": 64,
+        "wins": 40,
+        "losses": 24,
+        "win_rate": 62.5
+      }
+    },
+    "by_month": {
+      "2025-02": {
+        "total_games": 17,
+        "wins": 7,
+        "losses": 10,
+        "win_rate": 41.18
+      },
+      "2025-03": {
+        "total_games": 93,
+        "wins": 35,
+        "losses": 58,
+        "win_rate": 37.63
+      },
+      "2025-04": {
+        "total_games": 94,
+        "wins": 46,
+        "losses": 48,
+        "win_rate": 48.94
+      },
+      "2025-05": {
+        "total_games": 89,
+        "wins": 61,
+        "losses": 28,
+        "win_rate": 68.54
+      },
+      "2025-06": {
+        "total_games": 81,
+        "wins": 38,
+        "losses": 43,
+        "win_rate": 46.91
+      },
+      "2025-07": {
+        "total_games": 46,
+        "wins": 22,
+        "losses": 24,
+        "win_rate": 47.83
+      },
+      "2025-08": {
+        "total_games": 62,
+        "wins": 31,
+        "losses": 31,
+        "win_rate": 50.0
+      },
+      "2025-09": {
+        "total_games": 65,
+        "wins": 25,
+        "losses": 40,
+        "win_rate": 38.46
+      },
+      "2025-10": {
+        "total_games": 169,
+        "wins": 70,
+        "losses": 99,
+        "win_rate": 41.42
+      },
+      "2025-11": {
+        "total_games": 23,
+        "wins": 15,
+        "losses": 8,
+        "win_rate": 65.22
+      },
+      "2025-12": {
+        "total_games": 39,
+        "wins": 20,
+        "losses": 19,
+        "win_rate": 51.28
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 380,
+        "wins": 172,
+        "losses": 208,
+        "win_rate": 45.26
+      },
+      "저그": {
+        "total_games": 44,
+        "wins": 27,
+        "losses": 17,
+        "win_rate": 61.36
+      },
+      "프로토스": {
+        "total_games": 354,
+        "wins": 171,
+        "losses": 183,
+        "win_rate": 48.31
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 339,
+        "wins": 166,
+        "losses": 173,
+        "win_rate": 48.97
+      },
+      "라데온": {
+        "total_games": 231,
+        "wins": 108,
+        "losses": 123,
+        "win_rate": 46.75
+      },
+      "데자뷰": {
+        "total_games": 91,
+        "wins": 47,
+        "losses": 44,
+        "win_rate": 51.65
+      },
+      "녹아웃": {
+        "total_games": 52,
+        "wins": 20,
+        "losses": 32,
+        "win_rate": 38.46
+      },
+      "리트머스": {
+        "total_games": 29,
+        "wins": 9,
+        "losses": 20,
+        "win_rate": 31.03
+      },
+      "이클립스": {
+        "total_games": 26,
+        "wins": 15,
+        "losses": 11,
+        "win_rate": 57.69
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 369,
+        "wins": 152,
+        "losses": 217,
+        "win_rate": 41.19
+      },
+      "upper": {
+        "total_games": 33,
+        "wins": 13,
+        "losses": 20,
+        "win_rate": 39.39
+      },
+      "lower": {
+        "total_games": 376,
+        "wins": 205,
+        "losses": 171,
+        "win_rate": 54.52
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "내가먼지": {
+        "total_games": 49,
+        "wins": 21,
+        "losses": 28,
+        "win_rate": 42.86
+      },
+      "모리": {
+        "total_games": 49,
+        "wins": 16,
+        "losses": 33,
+        "win_rate": 32.65
+      },
+      "하랑e": {
+        "total_games": 46,
+        "wins": 18,
+        "losses": 28,
+        "win_rate": 39.13
+      },
+      "밥새": {
+        "total_games": 37,
+        "wins": 22,
+        "losses": 15,
+        "win_rate": 59.46
+      },
+      "링가": {
+        "total_games": 29,
+        "wins": 9,
+        "losses": 20,
+        "win_rate": 31.03
+      },
+      "으냉이": {
+        "total_games": 26,
+        "wins": 4,
+        "losses": 22,
+        "win_rate": 15.38
+      },
+      "짱다": {
+        "total_games": 26,
+        "wins": 8,
+        "losses": 18,
+        "win_rate": 30.77
+      },
+      "비타밍": {
+        "total_games": 25,
+        "wins": 9,
+        "losses": 16,
+        "win_rate": 36.0
+      },
+      "선정은": {
+        "total_games": 24,
+        "wins": 13,
+        "losses": 11,
+        "win_rate": 54.17
+      },
+      "임조이": {
+        "total_games": 24,
+        "wins": 15,
+        "losses": 9,
+        "win_rate": 62.5
+      },
+      "백갑숙": {
+        "total_games": 23,
+        "wins": 10,
+        "losses": 13,
+        "win_rate": 43.48
+      },
+      "빵지니": {
+        "total_games": 22,
+        "wins": 14,
+        "losses": 8,
+        "win_rate": 63.64
+      },
+      "제티": {
+        "total_games": 22,
+        "wins": 14,
+        "losses": 8,
+        "win_rate": 63.64
+      },
+      "김무아": {
+        "total_games": 22,
+        "wins": 14,
+        "losses": 8,
+        "win_rate": 63.64
+      },
+      "김채이": {
+        "total_games": 21,
+        "wins": 12,
+        "losses": 9,
+        "win_rate": 57.14
+      },
+      "하루묭": {
+        "total_games": 20,
+        "wins": 11,
+        "losses": 9,
+        "win_rate": 55.0
+      },
+      "효짱": {
+        "total_games": 19,
+        "wins": 11,
+        "losses": 8,
+        "win_rate": 57.89
+      },
+      "엄보리": {
+        "total_games": 17,
+        "wins": 9,
+        "losses": 8,
+        "win_rate": 52.94
+      },
+      "남수댕": {
+        "total_games": 16,
+        "wins": 3,
+        "losses": 13,
+        "win_rate": 18.75
+      },
+      "막내현진": {
+        "total_games": 16,
+        "wins": 10,
+        "losses": 6,
+        "win_rate": 62.5
+      },
+      "하이현": {
+        "total_games": 15,
+        "wins": 10,
+        "losses": 5,
+        "win_rate": 66.67
+      }
+    }
+  },
+  "슬돌이": {
+    "basic_info": {
+      "name": "슬돌이",
+      "race": "프로토스",
+      "first_tier": "3티어",
+      "last_tier": "2티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 442,
+      "wins": 256,
+      "losses": 186,
+      "win_rate": 57.92
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 368,
+        "wins": 217,
+        "losses": 151,
+        "win_rate": 58.97
+      },
+      "대회": {
+        "total_games": 74,
+        "wins": 39,
+        "losses": 35,
+        "win_rate": 52.7
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 58,
+        "wins": 31,
+        "losses": 27,
+        "win_rate": 53.45
+      },
+      "2025-02": {
+        "total_games": 42,
+        "wins": 25,
+        "losses": 17,
+        "win_rate": 59.52
+      },
+      "2025-03": {
+        "total_games": 49,
+        "wins": 34,
+        "losses": 15,
+        "win_rate": 69.39
+      },
+      "2025-04": {
+        "total_games": 32,
+        "wins": 17,
+        "losses": 15,
+        "win_rate": 53.12
+      },
+      "2025-05": {
+        "total_games": 42,
+        "wins": 22,
+        "losses": 20,
+        "win_rate": 52.38
+      },
+      "2025-06": {
+        "total_games": 30,
+        "wins": 17,
+        "losses": 13,
+        "win_rate": 56.67
+      },
+      "2025-07": {
+        "total_games": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_rate": 54.55
+      },
+      "2025-08": {
+        "total_games": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100.0
+      },
+      "2025-09": {
+        "total_games": 81,
+        "wins": 45,
+        "losses": 36,
+        "win_rate": 55.56
+      },
+      "2025-10": {
+        "total_games": 53,
+        "wins": 35,
+        "losses": 18,
+        "win_rate": 66.04
+      },
+      "2025-11": {
+        "total_games": 16,
+        "wins": 9,
+        "losses": 7,
+        "win_rate": 56.25
+      },
+      "2025-12": {
+        "total_games": 26,
+        "wins": 13,
+        "losses": 13,
+        "win_rate": 50.0
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 207,
+        "wins": 119,
+        "losses": 88,
+        "win_rate": 57.49
+      },
+      "저그": {
+        "total_games": 199,
+        "wins": 112,
+        "losses": 87,
+        "win_rate": 56.28
+      },
+      "프로토스": {
+        "total_games": 36,
+        "wins": 25,
+        "losses": 11,
+        "win_rate": 69.44
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 148,
+        "wins": 85,
+        "losses": 63,
+        "win_rate": 57.43
+      },
+      "라데온": {
+        "total_games": 126,
+        "wins": 75,
+        "losses": 51,
+        "win_rate": 59.52
+      },
+      "데자뷰": {
+        "total_games": 83,
+        "wins": 48,
+        "losses": 35,
+        "win_rate": 57.83
+      },
+      "이클립스": {
+        "total_games": 37,
+        "wins": 22,
+        "losses": 15,
+        "win_rate": 59.46
+      },
+      "녹아웃": {
+        "total_games": 28,
+        "wins": 17,
+        "losses": 11,
+        "win_rate": 60.71
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 322,
+        "wins": 184,
+        "losses": 138,
+        "win_rate": 57.14
+      },
+      "upper": {
+        "total_games": 60,
+        "wins": 31,
+        "losses": 29,
+        "win_rate": 51.67
+      },
+      "lower": {
+        "total_games": 60,
+        "wins": 41,
+        "losses": 19,
+        "win_rate": 68.33
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "카히리": {
+        "total_games": 63,
+        "wins": 36,
+        "losses": 27,
+        "win_rate": 57.14
+      },
+      "히엉": {
+        "total_games": 44,
+        "wins": 18,
+        "losses": 26,
+        "win_rate": 40.91
+      },
+      "모꿀몬": {
+        "total_games": 41,
+        "wins": 17,
+        "losses": 24,
+        "win_rate": 41.46
+      },
+      "나예리": {
+        "total_games": 34,
+        "wins": 23,
+        "losses": 11,
+        "win_rate": 67.65
+      },
+      "소심": {
+        "total_games": 32,
+        "wins": 18,
+        "losses": 14,
+        "win_rate": 56.25
+      },
+      "라미": {
+        "total_games": 27,
+        "wins": 10,
+        "losses": 17,
+        "win_rate": 37.04
+      },
+      "다예": {
+        "total_games": 25,
+        "wins": 14,
+        "losses": 11,
+        "win_rate": 56.0
+      },
+      "지두두": {
+        "total_games": 19,
+        "wins": 16,
+        "losses": 3,
+        "win_rate": 84.21
+      },
+      "또봉순": {
+        "total_games": 16,
+        "wins": 6,
+        "losses": 10,
+        "win_rate": 37.5
+      }
+    }
+  },
+  "정서린": {
+    "basic_info": {
+      "name": "정서린",
+      "race": "프로토스",
+      "first_tier": "베이비",
+      "last_tier": "7티어",
+      "tier_changes": 3
+    },
+    "overall": {
+      "total_games": 439,
+      "wins": 296,
+      "losses": 143,
+      "win_rate": 67.43
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 405,
+        "wins": 270,
+        "losses": 135,
+        "win_rate": 66.67
+      },
+      "대회": {
+        "total_games": 34,
+        "wins": 26,
+        "losses": 8,
+        "win_rate": 76.47
+      }
+    },
+    "by_month": {
+      "2025-06": {
+        "total_games": 30,
+        "wins": 19,
+        "losses": 11,
+        "win_rate": 63.33
+      },
+      "2025-07": {
+        "total_games": 78,
+        "wins": 59,
+        "losses": 19,
+        "win_rate": 75.64
+      },
+      "2025-08": {
+        "total_games": 101,
+        "wins": 68,
+        "losses": 33,
+        "win_rate": 67.33
+      },
+      "2025-09": {
+        "total_games": 101,
+        "wins": 66,
+        "losses": 35,
+        "win_rate": 65.35
+      },
+      "2025-10": {
+        "total_games": 97,
+        "wins": 62,
+        "losses": 35,
+        "win_rate": 63.92
+      },
+      "2025-11": {
+        "total_games": 10,
+        "wins": 7,
+        "losses": 3,
+        "win_rate": 70.0
+      },
+      "2025-12": {
+        "total_games": 22,
+        "wins": 15,
+        "losses": 7,
+        "win_rate": 68.18
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 176,
+        "wins": 110,
+        "losses": 66,
+        "win_rate": 62.5
+      },
+      "저그": {
+        "total_games": 223,
+        "wins": 157,
+        "losses": 66,
+        "win_rate": 70.4
+      },
+      "프로토스": {
+        "total_games": 40,
+        "wins": 29,
+        "losses": 11,
+        "win_rate": 72.5
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 223,
+        "wins": 158,
+        "losses": 65,
+        "win_rate": 70.85
+      },
+      "라데온": {
+        "total_games": 118,
+        "wins": 70,
+        "losses": 48,
+        "win_rate": 59.32
+      },
+      "데자뷰": {
+        "total_games": 64,
+        "wins": 45,
+        "losses": 19,
+        "win_rate": 70.31
+      },
+      "녹아웃": {
+        "total_games": 24,
+        "wins": 16,
+        "losses": 8,
+        "win_rate": 66.67
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 290,
+        "wins": 204,
+        "losses": 86,
+        "win_rate": 70.34
+      },
+      "upper": {
+        "total_games": 108,
+        "wins": 57,
+        "losses": 51,
+        "win_rate": 52.78
+      },
+      "lower": {
+        "total_games": 41,
+        "wins": 35,
+        "losses": 6,
+        "win_rate": 85.37
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "수붕e": {
+        "total_games": 31,
+        "wins": 31,
+        "losses": 0,
+        "win_rate": 100.0
+      },
+      "김말랑": {
+        "total_games": 30,
+        "wins": 20,
+        "losses": 10,
+        "win_rate": 66.67
+      },
+      "경콩": {
+        "total_games": 24,
+        "wins": 13,
+        "losses": 11,
+        "win_rate": 54.17
+      },
+      "루다": {
+        "total_games": 24,
+        "wins": 21,
+        "losses": 3,
+        "win_rate": 87.5
+      },
+      "밥새": {
+        "total_games": 21,
+        "wins": 12,
+        "losses": 9,
+        "win_rate": 57.14
+      },
+      "쟈닌": {
+        "total_games": 17,
+        "wins": 10,
+        "losses": 7,
+        "win_rate": 58.82
+      },
+      "빵지니": {
+        "total_games": 17,
+        "wins": 14,
+        "losses": 3,
+        "win_rate": 82.35
+      },
+      "하이현": {
+        "total_games": 17,
+        "wins": 6,
+        "losses": 11,
+        "win_rate": 35.29
+      },
+      "뷰러": {
+        "total_games": 15,
+        "wins": 11,
+        "losses": 4,
+        "win_rate": 73.33
+      },
+      "냥수디": {
+        "total_games": 15,
+        "wins": 8,
+        "losses": 7,
+        "win_rate": 53.33
+      }
+    }
+  },
+  "찌킹": {
+    "basic_info": {
+      "name": "찌킹",
+      "race": "저그",
+      "first_tier": "5티어",
+      "last_tier": "4티어",
+      "tier_changes": 2
+    },
+    "overall": {
+      "total_games": 729,
+      "wins": 361,
+      "losses": 368,
+      "win_rate": 49.52
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 636,
+        "wins": 310,
+        "losses": 326,
+        "win_rate": 48.74
+      },
+      "대회": {
+        "total_games": 93,
+        "wins": 51,
+        "losses": 42,
+        "win_rate": 54.84
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 79,
+        "wins": 54,
+        "losses": 25,
+        "win_rate": 68.35
+      },
+      "2025-02": {
+        "total_games": 71,
+        "wins": 32,
+        "losses": 39,
+        "win_rate": 45.07
+      },
+      "2025-03": {
+        "total_games": 100,
+        "wins": 45,
+        "losses": 55,
+        "win_rate": 45.0
+      },
+      "2025-04": {
+        "total_games": 74,
+        "wins": 36,
+        "losses": 38,
+        "win_rate": 48.65
+      },
+      "2025-05": {
+        "total_games": 60,
+        "wins": 27,
+        "losses": 33,
+        "win_rate": 45.0
+      },
+      "2025-06": {
+        "total_games": 46,
+        "wins": 18,
+        "losses": 28,
+        "win_rate": 39.13
+      },
+      "2025-07": {
+        "total_games": 60,
+        "wins": 32,
+        "losses": 28,
+        "win_rate": 53.33
+      },
+      "2025-08": {
+        "total_games": 34,
+        "wins": 19,
+        "losses": 15,
+        "win_rate": 55.88
+      },
+      "2025-09": {
+        "total_games": 66,
+        "wins": 32,
+        "losses": 34,
+        "win_rate": 48.48
+      },
+      "2025-10": {
+        "total_games": 71,
+        "wins": 29,
+        "losses": 42,
+        "win_rate": 40.85
+      },
+      "2025-11": {
+        "total_games": 26,
+        "wins": 14,
+        "losses": 12,
+        "win_rate": 53.85
+      },
+      "2025-12": {
+        "total_games": 42,
+        "wins": 23,
+        "losses": 19,
+        "win_rate": 54.76
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 382,
+        "wins": 199,
+        "losses": 183,
+        "win_rate": 52.09
+      },
+      "저그": {
+        "total_games": 45,
+        "wins": 21,
+        "losses": 24,
+        "win_rate": 46.67
+      },
+      "프로토스": {
+        "total_games": 302,
+        "wins": 141,
+        "losses": 161,
+        "win_rate": 46.69
+      }
+    },
+    "by_map": {
+      "폴리포이드": {
+        "total_games": 291,
+        "wins": 157,
+        "losses": 134,
+        "win_rate": 53.95
+      },
+      "라데온": {
+        "total_games": 187,
+        "wins": 97,
+        "losses": 90,
+        "win_rate": 51.87
+      },
+      "데자뷰": {
+        "total_games": 111,
+        "wins": 49,
+        "losses": 62,
+        "win_rate": 44.14
+      },
+      "이클립스": {
+        "total_games": 64,
+        "wins": 31,
+        "losses": 33,
+        "win_rate": 48.44
+      },
+      "녹아웃": {
+        "total_games": 41,
+        "wins": 14,
+        "losses": 27,
+        "win_rate": 34.15
+      },
+      "리트머스": {
+        "total_games": 27,
+        "wins": 9,
+        "losses": 18,
+        "win_rate": 33.33
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 518,
+        "wins": 236,
+        "losses": 282,
+        "win_rate": 45.56
+      },
+      "upper": {
+        "total_games": 61,
+        "wins": 24,
+        "losses": 37,
+        "win_rate": 39.34
+      },
+      "lower": {
+        "total_games": 150,
+        "wins": 101,
+        "losses": 49,
+        "win_rate": 67.33
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "햇살": {
+        "total_games": 94,
+        "wins": 49,
+        "losses": 45,
+        "win_rate": 52.13
+      },
+      "규리야": {
+        "total_games": 58,
+        "wins": 19,
+        "losses": 39,
+        "win_rate": 32.76
+      },
+      "태영": {
+        "total_games": 44,
+        "wins": 18,
+        "losses": 26,
+        "win_rate": 40.91
+      },
+      "최도랑": {
+        "total_games": 43,
+        "wins": 22,
+        "losses": 21,
+        "win_rate": 51.16
+      },
+      "조은": {
+        "total_games": 36,
+        "wins": 16,
+        "losses": 20,
+        "win_rate": 44.44
+      },
+      "연애인": {
+        "total_games": 33,
+        "wins": 17,
+        "losses": 16,
+        "win_rate": 51.52
+      },
+      "임밍지": {
+        "total_games": 29,
+        "wins": 17,
+        "losses": 12,
+        "win_rate": 58.62
+      },
+      "졈니": {
+        "total_games": 28,
+        "wins": 8,
+        "losses": 20,
+        "win_rate": 28.57
+      },
+      "토마토": {
+        "total_games": 27,
+        "wins": 8,
+        "losses": 19,
+        "win_rate": 29.63
+      },
+      "빵리나": {
+        "total_games": 26,
+        "wins": 9,
+        "losses": 17,
+        "win_rate": 34.62
+      },
+      "강덕구": {
+        "total_games": 23,
+        "wins": 18,
+        "losses": 5,
+        "win_rate": 78.26
+      },
+      "링고": {
+        "total_games": 23,
+        "wins": 11,
+        "losses": 12,
+        "win_rate": 47.83
+      },
+      "은똥": {
+        "total_games": 20,
+        "wins": 9,
+        "losses": 11,
+        "win_rate": 45.0
+      },
+      "우리밍": {
+        "total_games": 16,
+        "wins": 5,
+        "losses": 11,
+        "win_rate": 31.25
+      },
+      "뚜미언니": {
+        "total_games": 15,
+        "wins": 9,
+        "losses": 6,
+        "win_rate": 60.0
+      }
+    }
+  },
+  "팥순": {
+    "basic_info": {
+      "name": "팥순",
+      "race": "프로토스",
+      "first_tier": "6티어",
+      "last_tier": "6티어",
+      "tier_changes": 1
+    },
+    "overall": {
+      "total_games": 510,
+      "wins": 183,
+      "losses": 327,
+      "win_rate": 35.88
+    },
+    "by_type": {
+      "스폰": {
+        "total_games": 478,
+        "wins": 170,
+        "losses": 308,
+        "win_rate": 35.56
+      },
+      "대회": {
+        "total_games": 32,
+        "wins": 13,
+        "losses": 19,
+        "win_rate": 40.62
+      }
+    },
+    "by_month": {
+      "2025-01": {
+        "total_games": 60,
+        "wins": 22,
+        "losses": 38,
+        "win_rate": 36.67
+      },
+      "2025-02": {
+        "total_games": 38,
+        "wins": 17,
+        "losses": 21,
+        "win_rate": 44.74
+      },
+      "2025-03": {
+        "total_games": 60,
+        "wins": 26,
+        "losses": 34,
+        "win_rate": 43.33
+      },
+      "2025-04": {
+        "total_games": 44,
+        "wins": 16,
+        "losses": 28,
+        "win_rate": 36.36
+      },
+      "2025-05": {
+        "total_games": 57,
+        "wins": 18,
+        "losses": 39,
+        "win_rate": 31.58
+      },
+      "2025-06": {
+        "total_games": 43,
+        "wins": 16,
+        "losses": 27,
+        "win_rate": 37.21
+      },
+      "2025-07": {
+        "total_games": 31,
+        "wins": 10,
+        "losses": 21,
+        "win_rate": 32.26
+      },
+      "2025-08": {
+        "total_games": 21,
+        "wins": 4,
+        "losses": 17,
+        "win_rate": 19.05
+      },
+      "2025-09": {
+        "total_games": 59,
+        "wins": 19,
+        "losses": 40,
+        "win_rate": 32.2
+      },
+      "2025-10": {
+        "total_games": 49,
+        "wins": 17,
+        "losses": 32,
+        "win_rate": 34.69
+      },
+      "2025-11": {
+        "total_games": 10,
+        "wins": 4,
+        "losses": 6,
+        "win_rate": 40.0
+      },
+      "2025-12": {
+        "total_games": 38,
+        "wins": 14,
+        "losses": 24,
+        "win_rate": 36.84
+      }
+    },
+    "by_opponent_race": {
+      "테란": {
+        "total_games": 207,
+        "wins": 85,
+        "losses": 122,
+        "win_rate": 41.06
+      },
+      "저그": {
+        "total_games": 284,
+        "wins": 90,
+        "losses": 194,
+        "win_rate": 31.69
+      },
+      "프로토스": {
+        "total_games": 19,
+        "wins": 8,
+        "losses": 11,
+        "win_rate": 42.11
+      }
+    },
+    "by_map": {
+      "라데온": {
+        "total_games": 179,
+        "wins": 68,
+        "losses": 111,
+        "win_rate": 37.99
+      },
+      "폴리포이드": {
+        "total_games": 175,
+        "wins": 64,
+        "losses": 111,
+        "win_rate": 36.57
+      },
+      "데자뷰": {
+        "total_games": 91,
+        "wins": 33,
+        "losses": 58,
+        "win_rate": 36.26
+      },
+      "이클립스": {
+        "total_games": 32,
+        "wins": 7,
+        "losses": 25,
+        "win_rate": 21.88
+      },
+      "녹아웃": {
+        "total_games": 20,
+        "wins": 8,
+        "losses": 12,
+        "win_rate": 40.0
+      }
+    },
+    "by_tier_matchup": {
+      "same": {
+        "total_games": 428,
+        "wins": 152,
+        "losses": 276,
+        "win_rate": 35.51
+      },
+      "upper": {
+        "total_games": 73,
+        "wins": 26,
+        "losses": 47,
+        "win_rate": 35.62
+      },
+      "lower": {
+        "total_games": 9,
+        "wins": 5,
+        "losses": 4,
+        "win_rate": 55.56
+      },
+      "unknown": {
+        "total_games": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": 0
+      }
+    },
+    "by_opponent": {
+      "비재희": {
+        "total_games": 68,
+        "wins": 18,
+        "losses": 50,
+        "win_rate": 26.47
+      },
+      "밍도릿": {
+        "total_games": 43,
+        "wins": 23,
+        "losses": 20,
+        "win_rate": 53.49
+      },
+      "연수": {
+        "total_games": 42,
+        "wins": 14,
+        "losses": 28,
+        "win_rate": 33.33
+      },
+      "슈슈": {
+        "total_games": 33,
+        "wins": 9,
+        "losses": 24,
+        "win_rate": 27.27
+      },
+      "뽀누나": {
+        "total_games": 30,
+        "wins": 15,
+        "losses": 15,
+        "win_rate": 50.0
+      },
+      "치리": {
+        "total_games": 28,
+        "wins": 7,
+        "losses": 21,
+        "win_rate": 25.0
+      },
+      "뚜비": {
+        "total_games": 25,
+        "wins": 10,
+        "losses": 15,
+        "win_rate": 40.0
+      },
+      "귀요민정": {
+        "total_games": 25,
+        "wins": 10,
+        "losses": 15,
+        "win_rate": 40.0
+      },
+      "이아깽": {
+        "total_games": 23,
+        "wins": 10,
+        "losses": 13,
+        "win_rate": 43.48
+      },
+      "서윤": {
+        "total_games": 22,
+        "wins": 8,
+        "losses": 14,
+        "win_rate": 36.36
+      },
+      "링가": {
+        "total_games": 21,
+        "wins": 8,
+        "losses": 13,
+        "win_rate": 38.1
+      },
+      "시녕뭉": {
+        "total_games": 18,
+        "wins": 4,
+        "losses": 14,
+        "win_rate": 22.22
+      },
+      "최세상": {
+        "total_games": 17,
+        "wins": 7,
+        "losses": 10,
+        "win_rate": 41.18
+      }
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "name": "슬돌이",
+  "basic_info": {
+    "name": "슬돌이",
+    "race": "프로토스",
+    "first_tier": "3티어",
+    "last_tier": "2티어",
+    "tier_changes": 2
+  },
+  "overall_stats": {
+    "total_games": 442,
+    "wins": 256,
+    "losses": 186,
+    "win_rate": 57.92
+  },
+  "strengths": [
+    {
+      "category": "race_matchup",
+      "type": "프로토스_strength",
+      "value": 69.44,
+      "description": "프로토스전 69.44% (우수한 성과)",
+      "priority": "medium"
+    },
+    {
+      "category": "tier_challenge",
+      "type": "upper_tier_success",
+      "value": 51.67,
+      "description": "상위 티어 도전 성공 51.67% (60경기)",
+      "priority": "medium"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "race_matchup",
+      "type": "저그_weakness",
+      "value": 56.28,
+      "description": "저그전 56.28% (최강 프로토스전 69.44% 대비 -13.16%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "저그",
+        "weak_wr": 56.28,
+        "strong_race": "프로토스",
+        "strong_wr": 69.44,
+        "total_games": 199
+      }
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "라미_weakness",
+      "value": 37.04,
+      "description": "라미 상대 27경기 37.04% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "라미",
+        "win_rate": 37.04,
+        "games": 27
+      }
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "3티어에서 2티어로 승급",
+      "description": "슬돌이는 시즌 중 2티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {
+    "저그전_약점": {
+      "reason": "저그전 약점 원인 규명",
+      "map_breakdown": {
+        "폴리포이드": {
+          "games": 72,
+          "wins": 43,
+          "win_rate": 59.72
+        },
+        "라데온": {
+          "games": 55,
+          "wins": 27,
+          "win_rate": 49.09
+        },
+        "데자뷰": {
+          "games": 33,
+          "wins": 18,
+          "win_rate": 54.55
+        },
+        "이클립스": {
+          "games": 21,
+          "wins": 13,
+          "win_rate": 61.9
+        },
+        "녹아웃": {
+          "games": 13,
+          "wins": 8,
+          "win_rate": 61.54
+        }
+      },
+      "opponent_breakdown": {
+        "카히리": {
+          "games": 63,
+          "wins": 36,
+          "win_rate": 57.14
+        },
+        "라미": {
+          "games": 27,
+          "wins": 10,
+          "win_rate": 37.04
+        },
+        "다예": {
+          "games": 25,
+          "wins": 14,
+          "win_rate": 56.0
+        },
+        "또봉순": {
+          "games": 16,
+          "wins": 6,
+          "win_rate": 37.5
+        },
+        "늑대채린": {
+          "games": 12,
+          "wins": 8,
+          "win_rate": 66.67
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "저그_weakness"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "저그전 맵별 세부 분석",
+          "race": "저그"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "대회 승률 52.7%는 스폰 58.97%에 비해 다소 낮음. 3티어에서 2티어로 승급하며 성장세를 보임.",
+    "page_3_race": "세 종족전 모두 양호한 승률을 보였으나, 저그전은 타 종족전에 비해 소폭 낮은 승률. 라미&또봉순 상대로의 경기가 다소 약세였음을 참조하여 교육 및 연습이 필요해 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 57.43%의 우수한 성과.",
+    "page_5_tier": "동일 티어 상대로 57.14%의 준수한 성과. 상위 티어 상대로도 51.67%의 선전."
+  }
+}

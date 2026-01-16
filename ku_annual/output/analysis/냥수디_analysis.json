@@ -1,0 +1,174 @@
+{
+  "name": "냥수디",
+  "basic_info": {
+    "name": "냥수디",
+    "race": "저그",
+    "first_tier": "베이비",
+    "last_tier": "7티어",
+    "tier_changes": 3
+  },
+  "overall_stats": {
+    "total_games": 262,
+    "wins": 175,
+    "losses": 87,
+    "win_rate": 66.79
+  },
+  "strengths": [
+    {
+      "category": "overall_performance",
+      "type": "exceptional",
+      "value": 66.79,
+      "description": "전체 승률 66.79% (팀 평균 53.52% 대비 +13.27%p)",
+      "priority": "high"
+    },
+    {
+      "category": "race_matchup",
+      "type": "프로토스_strength",
+      "value": 74.17,
+      "description": "프로토스전 74.17% (우수한 성과)",
+      "priority": "medium"
+    },
+    {
+      "category": "map_performance",
+      "type": "폴리포이드_strength",
+      "value": 71.21,
+      "description": "폴리포이드 198경기 71.21% (최다 경기 맵에서 우수)",
+      "priority": "medium"
+    },
+    {
+      "category": "tier_dominance",
+      "type": "same_tier_dominance",
+      "value": 65.62,
+      "description": "동일 티어 지배력 65.62% (224경기)",
+      "priority": "high"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "race_matchup",
+      "type": "테란_weakness",
+      "value": 58.33,
+      "description": "테란전 58.33% (최강 프로토스전 74.17% 대비 -15.84%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "테란",
+        "weak_wr": 58.33,
+        "strong_race": "프로토스",
+        "strong_wr": 74.17,
+        "total_games": 108
+      }
+    }
+  ],
+  "stories": [
+    {
+      "type": "explosive_growth",
+      "title": "베이비에서 7티어로 2단계 승급",
+      "description": "냥수디는 시즌 시작 베이비에서 7티어까지 2단계 상승하며 폭발적인 성장을 보였습니다.",
+      "priority": "high"
+    },
+    {
+      "type": "rookie_star",
+      "title": "신인왕 후보",
+      "description": "냥수디는 베이비 티어에서 시작하여 66.79%의 뛰어난 승률을 기록하며 신인왕 후보로 떠올랐습니다.",
+      "priority": "high"
+    }
+  ],
+  "deep_analysis": {
+    "테란전_약점": {
+      "reason": "테란전 약점 원인 규명",
+      "map_breakdown": {
+        "폴리포이드": {
+          "games": 75,
+          "wins": 48,
+          "win_rate": 64.0
+        },
+        "라데온": {
+          "games": 17,
+          "wins": 8,
+          "win_rate": 47.06
+        }
+      },
+      "opponent_breakdown": {
+        "허로아": {
+          "games": 30,
+          "wins": 19,
+          "win_rate": 63.33
+        },
+        "김세주": {
+          "games": 15,
+          "wins": 10,
+          "win_rate": 66.67
+        },
+        "정다닝": {
+          "games": 12,
+          "wins": 7,
+          "win_rate": 58.33
+        },
+        "김말랑": {
+          "games": 10,
+          "wins": 5,
+          "win_rate": 50.0
+        },
+        "모모": {
+          "games": 10,
+          "wins": 6,
+          "win_rate": 60.0
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "exceptional",
+        "same_tier_dominance",
+        "테란_weakness"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "테란전 맵별 세부 분석",
+          "race": "테란"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "대회 승률 60.0%는 스폰 67.21%에 비해 다소 낮음. 베이비에서 7티어까지 2단계 상승하며 폭발적인 성장을 보였습니다. 하지만 아직 초반이니 조금 더 지켜볼 필요가 있음.",
+    "page_3_race": "테란전 승률 58.33%는 타 종족전(프로토스 74.17%)에 비해 소폭 낮음.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 71.21%의 뛰어난 성과.",
+    "page_5_tier": "동일 티어 상대로 65.62%의 우수한 승률을 기록하며 티어 지배력을 보임. 상위 티어 상대로도 82.35%의 선전. 승급을 대비해 상위 티어 상대와의 경험 쌓기가 필요해 보임."
+  }
+}

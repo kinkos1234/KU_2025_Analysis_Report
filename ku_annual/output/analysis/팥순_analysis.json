@@ -1,0 +1,161 @@
+{
+  "name": "팥순",
+  "basic_info": {
+    "name": "팥순",
+    "race": "프로토스",
+    "first_tier": "6티어",
+    "last_tier": "6티어",
+    "tier_changes": 1
+  },
+  "overall_stats": {
+    "total_games": 510,
+    "wins": 183,
+    "losses": 327,
+    "win_rate": 35.88
+  },
+  "strengths": [],
+  "weaknesses": [
+    {
+      "category": "overall_performance",
+      "type": "struggling",
+      "value": 35.88,
+      "description": "전체 승률 35.88% (팀 평균 53.52% 대비 -17.64%p)",
+      "priority": "high"
+    },
+    {
+      "category": "map_performance",
+      "type": "라데온_weakness",
+      "value": 37.99,
+      "description": "라데온 179경기 37.99% (최다 경기 맵에서 약세)",
+      "priority": "high",
+      "details": {
+        "map": "라데온",
+        "total_games": 179,
+        "win_rate": 37.99
+      }
+    },
+    {
+      "category": "tier_performance",
+      "type": "same_tier_struggle",
+      "value": 35.51,
+      "description": "동일 티어 부진 35.51% (428경기)",
+      "priority": "high"
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "비재희_weakness",
+      "value": 26.47,
+      "description": "비재희 상대 68경기 26.47% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "비재희",
+        "win_rate": 26.47,
+        "games": 68
+      }
+    }
+  ],
+  "stories": [],
+  "deep_analysis": {
+    "라데온_약점": {
+      "reason": "라데온 맵 약점 원인 규명",
+      "race_breakdown": {
+        "테란": {
+          "games": 67,
+          "wins": 26,
+          "win_rate": 38.81
+        },
+        "저그": {
+          "games": 103,
+          "wins": 37,
+          "win_rate": 35.92
+        },
+        "프로토스": {
+          "games": 9,
+          "wins": 5,
+          "win_rate": 55.56
+        }
+      },
+      "opponent_breakdown": {
+        "비재희": {
+          "games": 31,
+          "wins": 11,
+          "win_rate": 35.48
+        },
+        "밍도릿": {
+          "games": 21,
+          "wins": 11,
+          "win_rate": 52.38
+        },
+        "연수": {
+          "games": 16,
+          "wins": 3,
+          "win_rate": 18.75
+        },
+        "슈슈": {
+          "games": 11,
+          "wins": 2,
+          "win_rate": 18.18
+        },
+        "뽀누나": {
+          "games": 10,
+          "wins": 6,
+          "win_rate": 60.0
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "struggling",
+        "라데온_weakness",
+        "same_tier_struggle"
+      ]
+    },
+    "page_3": {
+      "type": "standard_race_comparison",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "map_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        },
+        {
+          "type": "weak_map_race_breakdown",
+          "title": "라데온 종족별 세부 분석",
+          "map": "라데온"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 35.56%, 대회 40.62% 기록. 2월 44.74% 이후 8월 19.05%로 다소 하락.",
+    "page_3_race": "세 종족전 모두 양호한 승률을 보였으나, 저그전은 타 종족전에 비해 소폭 낮은 승률.",
+    "page_4_map": "가장 많은 경기를 진행한 라데온에서 37.99%로 개선 시급. 저그전에서 다소 어려움, 슈슈&연수 상대로의 약세. 이클립스은 21.88%로 약세. 라데온 테란전 연습 및 교육이 더 필요해 보임.",
+    "page_5_tier": "동일 티어 상대로 35.51%로 다소 부진한 모습. 상위 티어 상대로는 35.62%로 경험 쌓기가 필요. 동일 티어 내 경쟁력 강화가 우선적으로 필요."
+  }
+}

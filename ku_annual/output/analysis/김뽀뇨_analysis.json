@@ -1,0 +1,170 @@
+{
+  "name": "김뽀뇨",
+  "basic_info": {
+    "name": "김뽀뇨",
+    "race": "프로토스",
+    "first_tier": "3티어",
+    "last_tier": "3티어",
+    "tier_changes": 1
+  },
+  "overall_stats": {
+    "total_games": 625,
+    "wins": 316,
+    "losses": 309,
+    "win_rate": 50.56
+  },
+  "strengths": [],
+  "weaknesses": [
+    {
+      "category": "race_matchup",
+      "type": "프로토스_weakness",
+      "value": 37.04,
+      "description": "프로토스전 37.04% (최강 테란전 52.33% 대비 -15.29%p)",
+      "priority": "high",
+      "details": {
+        "weak_race": "프로토스",
+        "weak_wr": 37.04,
+        "strong_race": "테란",
+        "strong_wr": 52.33,
+        "total_games": 27
+      }
+    },
+    {
+      "category": "map_performance",
+      "type": "폴리포이드_weakness",
+      "value": 45.86,
+      "description": "폴리포이드 181경기 45.86% (최다 경기 맵에서 약세)",
+      "priority": "high",
+      "details": {
+        "map": "폴리포이드",
+        "total_games": 181,
+        "win_rate": 45.86
+      }
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "모꿀몬_weakness",
+      "value": 32.65,
+      "description": "모꿀몬 상대 49경기 32.65% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "모꿀몬",
+        "win_rate": 32.65,
+        "games": 49
+      }
+    }
+  ],
+  "stories": [],
+  "deep_analysis": {
+    "프로토스전_약점": {
+      "reason": "프로토스전 약점 원인 규명",
+      "map_breakdown": {},
+      "opponent_breakdown": {}
+    },
+    "폴리포이드_약점": {
+      "reason": "폴리포이드 맵 약점 원인 규명",
+      "race_breakdown": {
+        "테란": {
+          "games": 95,
+          "wins": 47,
+          "win_rate": 49.47
+        },
+        "저그": {
+          "games": 78,
+          "wins": 33,
+          "win_rate": 42.31
+        },
+        "프로토스": {
+          "games": 8,
+          "wins": 3,
+          "win_rate": 37.5
+        }
+      },
+      "opponent_breakdown": {
+        "소심": {
+          "games": 18,
+          "wins": 9,
+          "win_rate": 50.0
+        },
+        "다예": {
+          "games": 17,
+          "wins": 12,
+          "win_rate": 70.59
+        },
+        "나예리": {
+          "games": 17,
+          "wins": 9,
+          "win_rate": 52.94
+        },
+        "지두두": {
+          "games": 15,
+          "wins": 8,
+          "win_rate": 53.33
+        },
+        "규리야": {
+          "games": 12,
+          "wins": 9,
+          "win_rate": 75.0
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "프로토스_weakness",
+        "폴리포이드_weakness"
+      ]
+    },
+    "page_3": {
+      "type": "race_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        },
+        {
+          "type": "weak_race_map_breakdown",
+          "title": "프로토스전 맵별 세부 분석",
+          "race": "프로토스"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "map_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        },
+        {
+          "type": "weak_map_race_breakdown",
+          "title": "폴리포이드 종족별 세부 분석",
+          "map": "폴리포이드"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 50.79%, 대회 48.08%로 안정적인 성과. 11월 부진(41.67%) 이후 12월 72.73%까지 개선된 점은 고무적.",
+    "page_3_race": "프로토스전 승률 37.04%는 타 종족전(테란 52.33%)에 비해 소폭 낮음. 프로토스전 집중 연습이 더 필요해 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 45.86%로 다소 아쉬움. 프로토스전에서 다소 어려움. 리트머스은 34.48%로 약세. 폴리포이드 테란전 연습 및 교육이 더 필요해 보임.",
+    "page_5_tier": "동일 티어 상대로 50.11%의 준수한 성과. 다만, 동일 티어 중에도 프로토스전은 다소 부족한 모습. 상위 티어 상대로는 33.33%로 경험 쌓기가 필요."
+  }
+}

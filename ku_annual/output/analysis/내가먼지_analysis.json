@@ -1,0 +1,104 @@
+{
+  "name": "내가먼지",
+  "basic_info": {
+    "name": "내가먼지",
+    "race": "테란",
+    "first_tier": "7티어",
+    "last_tier": "6티어",
+    "tier_changes": 2
+  },
+  "overall_stats": {
+    "total_games": 495,
+    "wins": 328,
+    "losses": 167,
+    "win_rate": 66.26
+  },
+  "strengths": [
+    {
+      "category": "overall_performance",
+      "type": "exceptional",
+      "value": 66.26,
+      "description": "전체 승률 66.26% (팀 평균 53.52% 대비 +12.74%p)",
+      "priority": "high"
+    },
+    {
+      "category": "map_performance",
+      "type": "라데온_strength",
+      "value": 62.3,
+      "description": "라데온 191경기 62.3% (최다 경기 맵에서 우수)",
+      "priority": "medium"
+    },
+    {
+      "category": "tier_challenge",
+      "type": "upper_tier_success",
+      "value": 68.18,
+      "description": "상위 티어 도전 성공 68.18% (44경기)",
+      "priority": "medium"
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "tournament_performance",
+      "type": "tournament_struggle",
+      "value": -11.14,
+      "description": "대회 승률 56.36% (스폰 대비 -11.14%p)",
+      "priority": "medium"
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "7티어에서 6티어로 승급",
+      "description": "내가먼지는 시즌 중 6티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {},
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "exceptional"
+      ]
+    },
+    "page_3": {
+      "type": "standard_race_comparison",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 승률 67.5%에 비해 대회 56.36%로 다소 아쉬운 모습. 3월 73.21% 이후 12월 40.0%로 다소 하락. 7티어에서 6티어로 승급하며 성장세를 보임. 대회 경기에서의 안정성 보완이 필요해 보임.",
+    "page_3_race": "세 종족전 모두 우수한 승률을 기록.",
+    "page_4_map": "가장 많은 경기를 진행한 라데온에서 62.3%의 우수한 성과.",
+    "page_5_tier": "동일 티어 상대로 64.96%의 준수한 성과. 상위 티어 상대로도 68.18%의 선전."
+  }
+}

@@ -1,0 +1,201 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>단비송 - 2025 Performance Report</title>
+            <style>
+                
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            width: 1920px;
+            height: 1080px;
+            font-family: 'Malgun Gothic', sans-serif;
+            background: linear-gradient(135deg, #0a0e1a 0%, #1a2332 100%);
+            color: #ffffff;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .container {
+            width: 100%;
+            height: 100%;
+            padding: 80px 100px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .title {
+            font-size: 72px;
+            font-weight: bold;
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        
+        .subtitle {
+            font-size: 36px;
+            color: #9ca3af;
+            margin-bottom: 60px;
+        }
+        
+        .section-title {
+            font-size: 48px;
+            font-weight: bold;
+            color: #3b82f6;
+            margin-bottom: 30px;
+        }
+        
+        .content {
+            flex: 1;
+            display: flex;
+            gap: 60px;
+        }
+        
+        .left-column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+        
+        .right-column {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .stat-box {
+            background: rgba(59, 130, 246, 0.1);
+            border: 2px solid #3b82f6;
+            border-radius: 16px;
+            padding: 30px 40px;
+        }
+        
+        .stat-label {
+            font-size: 28px;
+            color: #9ca3af;
+            margin-bottom: 12px;
+        }
+        
+        .stat-value {
+            font-size: 56px;
+            font-weight: bold;
+            color: #ffffff;
+        }
+        
+        .comment-box {
+            background: rgba(255, 255, 255, 0.05);
+            border-left: 4px solid #3b82f6;
+            border-radius: 8px;
+            padding: 30px 40px;
+        }
+        
+        .comment-text {
+            font-size: 28px;
+            line-height: 1.6;
+            color: #e5e7eb;
+        }
+        
+        .chart-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .chart-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+        
+        .watermark {
+            position: absolute;
+            bottom: 30px;
+            right: 50px;
+            font-size: 24px;
+            color: rgba(255, 255, 255, 0.3);
+            font-weight: bold;
+        }
+        
+                
+                .cover-container {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    height: 100%;
+                }
+                
+                .member-name {
+                    font-size: 120px;
+                    font-weight: bold;
+                    color: #ffffff;
+                    margin-bottom: 40px;
+                }
+                
+                .member-info {
+                    font-size: 48px;
+                    color: #3b82f6;
+                    margin-bottom: 80px;
+                }
+                
+                .stats-grid {
+                    display: grid;
+                    grid-template-columns: repeat(3, 1fr);
+                    gap: 40px;
+                    width: 100%;
+                    max-width: 1400px;
+                }
+                
+                .cover-stat-box {
+                    background: rgba(59, 130, 246, 0.1);
+                    border: 2px solid #3b82f6;
+                    border-radius: 16px;
+                    padding: 40px;
+                    text-align: center;
+                }
+                
+                .cover-stat-label {
+                    font-size: 32px;
+                    color: #9ca3af;
+                    margin-bottom: 20px;
+                }
+                
+                .cover-stat-value {
+                    font-size: 64px;
+                    font-weight: bold;
+                    color: #ffffff;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="cover-container">
+                <div class="member-name">단비송</div>
+                <div class="member-info">테란 · 8티어</div>
+                <div class="stats-grid">
+                    <div class="cover-stat-box">
+                        <div class="cover-stat-label">총 경기수</div>
+                        <div class="cover-stat-value">169</div>
+                    </div>
+                    <div class="cover-stat-box">
+                        <div class="cover-stat-label">전체 승률</div>
+                        <div class="cover-stat-value">43.2%</div>
+                    </div>
+                    <div class="cover-stat-box">
+                        <div class="cover-stat-label">승 / 패</div>
+                        <div class="cover-stat-value">73 / 96</div>
+                    </div>
+                </div>
+            </div>
+            <div class="watermark">HMD</div>
+        </body>
+        </html>
+        

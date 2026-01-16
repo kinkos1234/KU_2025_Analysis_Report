@@ -1,0 +1,151 @@
+{
+  "name": "단비송",
+  "basic_info": {
+    "name": "단비송",
+    "race": "테란",
+    "first_tier": "베이비",
+    "last_tier": "8티어",
+    "tier_changes": 2
+  },
+  "overall_stats": {
+    "total_games": 169,
+    "wins": 73,
+    "losses": 96,
+    "win_rate": 43.2
+  },
+  "strengths": [],
+  "weaknesses": [
+    {
+      "category": "overall_performance",
+      "type": "struggling",
+      "value": 43.2,
+      "description": "전체 승률 43.2% (팀 평균 53.52% 대비 -10.32%p)",
+      "priority": "high"
+    },
+    {
+      "category": "map_performance",
+      "type": "폴리포이드_weakness",
+      "value": 43.12,
+      "description": "폴리포이드 160경기 43.12% (최다 경기 맵에서 약세)",
+      "priority": "high",
+      "details": {
+        "map": "폴리포이드",
+        "total_games": 160,
+        "win_rate": 43.12
+      }
+    },
+    {
+      "category": "tier_performance",
+      "type": "same_tier_struggle",
+      "value": 44.37,
+      "description": "동일 티어 부진 44.37% (142경기)",
+      "priority": "high"
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "베이비에서 8티어로 승급",
+      "description": "단비송는 시즌 중 8티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {
+    "폴리포이드_약점": {
+      "reason": "폴리포이드 맵 약점 원인 규명",
+      "race_breakdown": {
+        "저그": {
+          "games": 60,
+          "wins": 21,
+          "win_rate": 35.0
+        },
+        "프로토스": {
+          "games": 97,
+          "wins": 45,
+          "win_rate": 46.39
+        }
+      },
+      "opponent_breakdown": {
+        "뀨알": {
+          "games": 16,
+          "wins": 12,
+          "win_rate": 75.0
+        },
+        "아리송이": {
+          "games": 14,
+          "wins": 2,
+          "win_rate": 14.29
+        },
+        "냥냥코기": {
+          "games": 13,
+          "wins": 4,
+          "win_rate": 30.77
+        },
+        "헤요이": {
+          "games": 12,
+          "wins": 4,
+          "win_rate": 33.33
+        },
+        "삼교": {
+          "games": 11,
+          "wins": 2,
+          "win_rate": 18.18
+        }
+      }
+    }
+  },
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "struggling",
+        "폴리포이드_weakness",
+        "same_tier_struggle"
+      ]
+    },
+    "page_3": {
+      "type": "standard_race_comparison",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "map_comparison_with_deep_dive",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        },
+        {
+          "type": "weak_map_race_breakdown",
+          "title": "폴리포이드 종족별 세부 분석",
+          "map": "폴리포이드"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 167경기 43.11% 기록. 베이비에서 8티어로 승급하며 성장세를 보임.",
+    "page_3_race": "세 종족전 모두 균형잡힌 승률을 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 43.12%로 개선 시급. 저그전에서 다소 어려움, 아리송이&삼교 상대로의 약세. 폴리포이드 저그전 연습 및 교육이 더 필요해 보임.",
+    "page_5_tier": "동일 티어 상대로 44.37%로 다소 부진한 모습. 상위 티어 상대로는 22.73%로 경험 쌓기가 필요. 동일 티어 내 경쟁력 강화가 우선적으로 필요."
+  }
+}

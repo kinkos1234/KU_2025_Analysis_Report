@@ -1,0 +1,92 @@
+{
+  "name": "또해영",
+  "basic_info": {
+    "name": "또해영",
+    "race": "저그",
+    "first_tier": "8티어",
+    "last_tier": "7티어",
+    "tier_changes": 3
+  },
+  "overall_stats": {
+    "total_games": 680,
+    "wins": 375,
+    "losses": 305,
+    "win_rate": 55.15
+  },
+  "strengths": [],
+  "weaknesses": [
+    {
+      "category": "opponent_matchup",
+      "type": "비타밍_weakness",
+      "value": 34.29,
+      "description": "비타밍 상대 35경기 34.29% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "비타밍",
+        "win_rate": 34.29,
+        "games": 35
+      }
+    },
+    {
+      "category": "trend",
+      "type": "declining_trend",
+      "value": -8.35035132048042,
+      "description": "하락세 (전반기 59.25% → 후반기 50.90%, -8.35%p)",
+      "priority": "medium"
+    }
+  ],
+  "stories": [
+    {
+      "type": "promotion",
+      "title": "8티어에서 7티어로 승급",
+      "description": "또해영는 시즌 중 7티어로 승급하며 성장세를 보였습니다.",
+      "priority": "medium"
+    }
+  ],
+  "deep_analysis": {},
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": []
+    },
+    "page_3": {
+      "type": "standard_race_comparison",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "스폰 54.69%, 대회 60.78% 기록. 8티어에서 7티어로 승급하며 성장세를 보임.",
+    "page_3_race": "세 종족전 모두 균형잡힌 승률을 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 53.88%의 안정적인 성과.",
+    "page_5_tier": "동일 티어 상대로 55.72%의 준수한 성과. 상위 티어 상대로는 44.93%로 경험 쌓기가 필요."
+  }
+}

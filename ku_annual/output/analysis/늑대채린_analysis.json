@@ -1,0 +1,87 @@
+{
+  "name": "늑대채린",
+  "basic_info": {
+    "name": "늑대채린",
+    "race": "저그",
+    "first_tier": "4티어",
+    "last_tier": "4티어",
+    "tier_changes": 1
+  },
+  "overall_stats": {
+    "total_games": 617,
+    "wins": 306,
+    "losses": 311,
+    "win_rate": 49.59
+  },
+  "strengths": [],
+  "weaknesses": [
+    {
+      "category": "tier_performance",
+      "type": "same_tier_struggle",
+      "value": 45.0,
+      "description": "동일 티어 부진 45.0% (400경기)",
+      "priority": "high"
+    },
+    {
+      "category": "opponent_matchup",
+      "type": "뚜밥_weakness",
+      "value": 39.47,
+      "description": "뚜밥 상대 38경기 39.47% (특정 상대 약세)",
+      "priority": "medium",
+      "details": {
+        "opponent": "뚜밥",
+        "win_rate": 39.47,
+        "games": 38
+      }
+    }
+  ],
+  "stories": [],
+  "deep_analysis": {},
+  "page_customization": {
+    "cover": {
+      "standard": true
+    },
+    "page_1_monthly": {
+      "standard": true
+    },
+    "page_2_performance": {
+      "standard": true,
+      "comment_focus": [
+        "same_tier_struggle"
+      ]
+    },
+    "page_3": {
+      "type": "standard_race_comparison",
+      "charts": [
+        {
+          "type": "race_bar_chart",
+          "title": "상대 종족별 성과"
+        }
+      ]
+    },
+    "page_4": {
+      "type": "standard_map_comparison",
+      "charts": [
+        {
+          "type": "map_bar_chart",
+          "title": "주요 맵별 성과"
+        }
+      ]
+    },
+    "page_5": {
+      "type": "standard_tier_comparison",
+      "charts": [
+        {
+          "type": "tier_bar_chart",
+          "title": "상대 티어별 성과"
+        }
+      ]
+    }
+  },
+  "comments": {
+    "page_2_performance": "대회 승률 44.12%는 스폰 49.91%에 비해 다소 낮음.",
+    "page_3_race": "저그전 승률 33.33%는 타 종족전(테란 50.35%)에 비해 소폭 낮음. 저그전 집중 연습이 더 필요해 보임.",
+    "page_4_map": "가장 많은 경기를 진행한 폴리포이드에서 50.42%의 안정적인 성과. 녹아웃은 45.16%로 약세.",
+    "page_5_tier": "동일 티어 상대로 45.0%로 다소 부진한 모습. 상위 티어 상대로는 43.14%로 경험 쌓기가 필요. 동일 티어 내 경쟁력 강화가 우선적으로 필요."
+  }
+}
