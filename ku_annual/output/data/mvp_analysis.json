@@ -1,0 +1,3009 @@
+{
+  "mvp_ranking": [
+    {
+      "member_name": "정서린",
+      "total_score": 76.76,
+      "scores": {
+        "activity_consistency": {
+          "score": 58.98,
+          "weight": 0.15,
+          "details": {
+            "total_games": 439,
+            "active_months": 7,
+            "avg_per_month": 62.7,
+            "consistency": 0.608,
+            "coverage": 0.636,
+            "games_score": 54.87,
+            "consistency_score": 60.75,
+            "coverage_score": 63.64,
+            "final_score": 58.98
+          }
+        },
+        "growth_rate": {
+          "score": 43.74,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 4.39,
+            "trend_slope": -0.109,
+            "recent_improvement": 0,
+            "growth_score": 48.78,
+            "trend_score": 37.82,
+            "recent_score": 40.0,
+            "final_score": 43.74
+          }
+        },
+        "same_tier_dominance": {
+          "score": 100.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 199,
+            "same_tier_wr": 70.85,
+            "max_streak": 13,
+            "wr_score": 100,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 100.0
+          }
+        },
+        "upward_challenge": {
+          "score": 100.0,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 160,
+            "upward_wr": 57.5,
+            "challenge_rate": 36.45,
+            "tier_gap_performance": {
+              "1tier_gap": 61.72,
+              "2tier_gap": 59.6,
+              "3tier_gap": 57.86
+            },
+            "wr_score": 100,
+            "frequency_score": 100,
+            "reliability": 1.0,
+            "final_score": 100.0
+          }
+        },
+        "downward_defense": {
+          "score": 80.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 80,
+            "downward_wr": 78.75,
+            "max_defense_streak": 31,
+            "wr_score": 75.0,
+            "defense_score": 100,
+            "final_score": 80.0
+          }
+        },
+        "map_adaptability": {
+          "score": 77.63,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 5,
+            "avg_map_wr": 67.72,
+            "wr_std": 4.51,
+            "wr_range": 12.11,
+            "best_map": "리트머스",
+            "worst_map": "라데온",
+            "diversity_score": 50.0,
+            "consistency_score": 81.58,
+            "avg_wr_score": 100,
+            "final_score": 77.63
+          }
+        },
+        "tournament_performance": {
+          "score": 95.2,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 34,
+            "tournament_wr": 76.47,
+            "spon_wr": 66.67,
+            "clutch_factor": 9.8,
+            "tournament_rate": 7.74,
+            "wr_score": 100,
+            "clutch_score": 99.02,
+            "participation_score": 77.45,
+            "final_score": 95.2
+          }
+        }
+      }
+    },
+    {
+      "member_name": "내가먼지",
+      "total_score": 72.24,
+      "scores": {
+        "activity_consistency": {
+          "score": 69.24,
+          "weight": 0.15,
+          "details": {
+            "total_games": 493,
+            "active_months": 11,
+            "avg_per_month": 44.8,
+            "consistency": 0.615,
+            "coverage": 1.0,
+            "games_score": 61.62,
+            "consistency_score": 61.47,
+            "coverage_score": 100.0,
+            "final_score": 69.24
+          }
+        },
+        "growth_rate": {
+          "score": 30.7,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -2.18,
+            "trend_slope": -0.723,
+            "recent_improvement": -6.94,
+            "growth_score": 35.64,
+            "trend_score": 25.53,
+            "recent_score": 26.11,
+            "final_score": 30.7
+          }
+        },
+        "same_tier_dominance": {
+          "score": 92.49,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "7티어",
+            "same_tier_games": 289,
+            "same_tier_wr": 66.78,
+            "max_streak": 11,
+            "wr_score": 89.27,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 92.49
+          }
+        },
+        "upward_challenge": {
+          "score": 100.0,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 180,
+            "upward_wr": 62.22,
+            "challenge_rate": 36.51,
+            "tier_gap_performance": {
+              "1tier_gap": 59.51,
+              "2tier_gap": 62.22,
+              "3tier_gap": 62.22
+            },
+            "wr_score": 100,
+            "frequency_score": 100,
+            "reliability": 1.0,
+            "final_score": 100.0
+          }
+        },
+        "downward_defense": {
+          "score": 100.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 24,
+            "downward_wr": 87.5,
+            "max_defense_streak": 13,
+            "wr_score": 100,
+            "defense_score": 100,
+            "final_score": 100.0
+          }
+        },
+        "map_adaptability": {
+          "score": 82.55,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 66.74,
+            "wr_std": 3.15,
+            "wr_range": 9.12,
+            "best_map": "리트머스",
+            "worst_map": "라데온",
+            "diversity_score": 60.0,
+            "consistency_score": 86.37,
+            "avg_wr_score": 100,
+            "final_score": 82.55
+          }
+        },
+        "tournament_performance": {
+          "score": 44.53,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 53,
+            "tournament_wr": 54.72,
+            "spon_wr": 67.5,
+            "clutch_factor": -12.78,
+            "tournament_rate": 10.75,
+            "wr_score": 49.06,
+            "clutch_score": 0,
+            "participation_score": 100,
+            "final_score": 44.53
+          }
+        }
+      }
+    },
+    {
+      "member_name": "규리야",
+      "total_score": 66.08,
+      "scores": {
+        "activity_consistency": {
+          "score": 87.53,
+          "weight": 0.15,
+          "details": {
+            "total_games": 992,
+            "active_months": 12,
+            "avg_per_month": 82.7,
+            "consistency": 0.643,
+            "coverage": 1.091,
+            "games_score": 100,
+            "consistency_score": 64.28,
+            "coverage_score": 109.09,
+            "final_score": 87.53
+          }
+        },
+        "growth_rate": {
+          "score": 53.17,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 5.56,
+            "trend_slope": 0.847,
+            "recent_improvement": 6.32,
+            "growth_score": 51.12,
+            "trend_score": 56.95,
+            "recent_score": 52.64,
+            "final_score": 53.17
+          }
+        },
+        "same_tier_dominance": {
+          "score": 79.04,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "4티어",
+            "same_tier_games": 708,
+            "same_tier_wr": 61.02,
+            "max_streak": 18,
+            "wr_score": 70.06,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 79.04
+          }
+        },
+        "upward_challenge": {
+          "score": 53.07,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 91,
+            "upward_wr": 37.36,
+            "challenge_rate": 9.17,
+            "tier_gap_performance": {
+              "1tier_gap": 37.08,
+              "2tier_gap": 37.78,
+              "3tier_gap": 37.36
+            },
+            "wr_score": 57.88,
+            "frequency_score": 45.87,
+            "reliability": 1.0,
+            "final_score": 53.07
+          }
+        },
+        "downward_defense": {
+          "score": 20.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 193,
+            "downward_wr": 59.07,
+            "max_defense_streak": 10,
+            "wr_score": 0,
+            "defense_score": 100.0,
+            "final_score": 20.0
+          }
+        },
+        "map_adaptability": {
+          "score": 76.25,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 8,
+            "avg_map_wr": 60.16,
+            "wr_std": 8.51,
+            "wr_range": 26.27,
+            "best_map": "도미네이터",
+            "worst_map": "리트머스",
+            "diversity_score": 80.0,
+            "consistency_score": 70.15,
+            "avg_wr_score": 80.62,
+            "final_score": 76.25
+          }
+        },
+        "tournament_performance": {
+          "score": 90.62,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 74,
+            "tournament_wr": 67.57,
+            "spon_wr": 57.73,
+            "clutch_factor": 9.83,
+            "tournament_rate": 7.46,
+            "wr_score": 91.89,
+            "clutch_score": 99.17,
+            "participation_score": 74.6,
+            "final_score": 90.62
+          }
+        }
+      }
+    },
+    {
+      "member_name": "슬돌이",
+      "total_score": 63.34,
+      "scores": {
+        "activity_consistency": {
+          "score": 68.93,
+          "weight": 0.15,
+          "details": {
+            "total_games": 442,
+            "active_months": 12,
+            "avg_per_month": 36.8,
+            "consistency": 0.625,
+            "coverage": 1.091,
+            "games_score": 55.25,
+            "consistency_score": 62.52,
+            "coverage_score": 109.09,
+            "final_score": 68.93
+          }
+        },
+        "growth_rate": {
+          "score": 40.07,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 0.49,
+            "trend_slope": 0.093,
+            "recent_improvement": -2.45,
+            "growth_score": 40.98,
+            "trend_score": 41.87,
+            "recent_score": 35.1,
+            "final_score": 40.07
+          }
+        },
+        "same_tier_dominance": {
+          "score": 72.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "3티어",
+            "same_tier_games": 300,
+            "same_tier_wr": 58.0,
+            "max_streak": 12,
+            "wr_score": 60.0,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 72.0
+          }
+        },
+        "upward_challenge": {
+          "score": 99.37,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 87,
+            "upward_wr": 50.57,
+            "challenge_rate": 19.68,
+            "tier_gap_performance": {
+              "1tier_gap": 50.57,
+              "2tier_gap": 50.57,
+              "3tier_gap": 50.57
+            },
+            "wr_score": 100,
+            "frequency_score": 98.42,
+            "reliability": 1.0,
+            "final_score": 99.37
+          }
+        },
+        "downward_defense": {
+          "score": 43.09,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 55,
+            "downward_wr": 69.09,
+            "max_defense_streak": 7,
+            "wr_score": 36.36,
+            "defense_score": 70.0,
+            "final_score": 43.09
+          }
+        },
+        "map_adaptability": {
+          "score": 68.61,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 7,
+            "avg_map_wr": 55.9,
+            "wr_std": 8.05,
+            "wr_range": 24.35,
+            "best_map": "녹아웃",
+            "worst_map": "리트머스",
+            "diversity_score": 70.0,
+            "consistency_score": 71.3,
+            "avg_wr_score": 63.61,
+            "final_score": 68.61
+          }
+        },
+        "tournament_performance": {
+          "score": 46.77,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 74,
+            "tournament_wr": 52.7,
+            "spon_wr": 58.97,
+            "clutch_factor": -6.26,
+            "tournament_rate": 16.74,
+            "wr_score": 42.34,
+            "clutch_score": 18.68,
+            "participation_score": 100,
+            "final_score": 46.77
+          }
+        }
+      }
+    },
+    {
+      "member_name": "늑대채린",
+      "total_score": 55.94,
+      "scores": {
+        "activity_consistency": {
+          "score": 77.96,
+          "weight": 0.15,
+          "details": {
+            "total_games": 617,
+            "active_months": 11,
+            "avg_per_month": 56.1,
+            "consistency": 0.678,
+            "coverage": 1.0,
+            "games_score": 77.12,
+            "consistency_score": 67.79,
+            "coverage_score": 100.0,
+            "final_score": 77.96
+          }
+        },
+        "growth_rate": {
+          "score": 42.2,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 0.06,
+            "trend_slope": 0.633,
+            "recent_improvement": -4.13,
+            "growth_score": 40.12,
+            "trend_score": 52.65,
+            "recent_score": 31.73,
+            "final_score": 42.2
+          }
+        },
+        "same_tier_dominance": {
+          "score": 41.67,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "4티어",
+            "same_tier_games": 400,
+            "same_tier_wr": 45.0,
+            "max_streak": 6,
+            "wr_score": 16.67,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 41.67
+          }
+        },
+        "upward_challenge": {
+          "score": 79.34,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 102,
+            "upward_wr": 43.14,
+            "challenge_rate": 16.53,
+            "tier_gap_performance": {
+              "1tier_gap": 43.43,
+              "2tier_gap": 43.14,
+              "3tier_gap": 43.14
+            },
+            "wr_score": 77.12,
+            "frequency_score": 82.66,
+            "reliability": 1.0,
+            "final_score": 79.34
+          }
+        },
+        "downward_defense": {
+          "score": 56.17,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 115,
+            "downward_wr": 71.3,
+            "max_defense_streak": 11,
+            "wr_score": 45.22,
+            "defense_score": 100,
+            "final_score": 56.17
+          }
+        },
+        "map_adaptability": {
+          "score": 64.11,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 49.0,
+            "wr_std": 2.66,
+            "wr_range": 8.17,
+            "best_map": "리트머스",
+            "worst_map": "녹아웃",
+            "diversity_score": 60.0,
+            "consistency_score": 88.28,
+            "avg_wr_score": 36.01,
+            "final_score": 64.11
+          }
+        },
+        "tournament_performance": {
+          "score": 24.19,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 34,
+            "tournament_wr": 44.12,
+            "spon_wr": 49.91,
+            "clutch_factor": -5.8,
+            "tournament_rate": 5.51,
+            "wr_score": 13.73,
+            "clutch_score": 21.02,
+            "participation_score": 55.11,
+            "final_score": 24.19
+          }
+        }
+      }
+    },
+    {
+      "member_name": "또해영",
+      "total_score": 53.33,
+      "scores": {
+        "activity_consistency": {
+          "score": 82.18,
+          "weight": 0.15,
+          "details": {
+            "total_games": 680,
+            "active_months": 12,
+            "avg_per_month": 56.7,
+            "consistency": 0.659,
+            "coverage": 1.091,
+            "games_score": 85.0,
+            "consistency_score": 65.92,
+            "coverage_score": 109.09,
+            "final_score": 82.18
+          }
+        },
+        "growth_rate": {
+          "score": 20.18,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -8.35,
+            "trend_slope": -1.234,
+            "recent_improvement": -10.16,
+            "growth_score": 23.3,
+            "trend_score": 15.32,
+            "recent_score": 19.69,
+            "final_score": 20.18
+          }
+        },
+        "same_tier_dominance": {
+          "score": 58.78,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "7티어",
+            "same_tier_games": 407,
+            "same_tier_wr": 52.33,
+            "max_streak": 13,
+            "wr_score": 41.11,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 58.78
+          }
+        },
+        "upward_challenge": {
+          "score": 56.14,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 46,
+            "upward_wr": 41.3,
+            "challenge_rate": 6.76,
+            "tier_gap_performance": {
+              "1tier_gap": 41.86,
+              "2tier_gap": 40.91,
+              "3tier_gap": 41.3
+            },
+            "wr_score": 71.01,
+            "frequency_score": 33.82,
+            "reliability": 1.0,
+            "final_score": 56.14
+          }
+        },
+        "downward_defense": {
+          "score": 29.59,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 227,
+            "downward_wr": 63.0,
+            "max_defense_streak": 13,
+            "wr_score": 11.98,
+            "defense_score": 100,
+            "final_score": 29.59
+          }
+        },
+        "map_adaptability": {
+          "score": 62.62,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 54.37,
+            "wr_std": 9.23,
+            "wr_range": 30.6,
+            "best_map": "이클립스",
+            "worst_map": "리트머스",
+            "diversity_score": 60.0,
+            "consistency_score": 68.42,
+            "avg_wr_score": 57.5,
+            "final_score": 62.62
+          }
+        },
+        "tournament_performance": {
+          "score": 73.78,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 51,
+            "tournament_wr": 60.78,
+            "spon_wr": 54.69,
+            "clutch_factor": 6.09,
+            "tournament_rate": 7.5,
+            "wr_score": 69.28,
+            "clutch_score": 80.47,
+            "participation_score": 75.0,
+            "final_score": 73.78
+          }
+        }
+      }
+    },
+    {
+      "member_name": "냥수디",
+      "total_score": 52.62,
+      "scores": {
+        "activity_consistency": {
+          "score": 48.81,
+          "weight": 0.15,
+          "details": {
+            "total_games": 262,
+            "active_months": 7,
+            "avg_per_month": 37.4,
+            "consistency": 0.575,
+            "coverage": 0.636,
+            "games_score": 32.75,
+            "consistency_score": 57.45,
+            "coverage_score": 63.64,
+            "final_score": 48.81
+          }
+        },
+        "growth_rate": {
+          "score": 39.44,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 5.31,
+            "trend_slope": -0.978,
+            "recent_improvement": 0,
+            "growth_score": 50.62,
+            "trend_score": 20.45,
+            "recent_score": 40.0,
+            "final_score": 39.44
+          }
+        },
+        "same_tier_dominance": {
+          "score": 89.33,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 188,
+            "same_tier_wr": 65.43,
+            "max_streak": 12,
+            "wr_score": 84.75,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 89.33
+          }
+        },
+        "upward_challenge": {
+          "score": 30.09,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 9,
+            "upward_wr": 77.78,
+            "challenge_rate": 3.44,
+            "tier_gap_performance": {
+              "1tier_gap": 77.78,
+              "2tier_gap": 77.78,
+              "3tier_gap": 77.78
+            },
+            "wr_score": 100,
+            "frequency_score": 17.18,
+            "reliability": 0.45,
+            "final_score": 30.09
+          }
+        },
+        "downward_defense": {
+          "score": 49.54,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 65,
+            "downward_wr": 69.23,
+            "max_defense_streak": 13,
+            "wr_score": 36.92,
+            "defense_score": 100,
+            "final_score": 49.54
+          }
+        },
+        "map_adaptability": {
+          "score": 64.31,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 5,
+            "avg_map_wr": 56.98,
+            "wr_std": 7.65,
+            "wr_range": 21.21,
+            "best_map": "폴리포이드",
+            "worst_map": "리트머스",
+            "diversity_score": 50.0,
+            "consistency_score": 72.33,
+            "avg_wr_score": 67.93,
+            "final_score": 64.31
+          }
+        },
+        "tournament_performance": {
+          "score": 48.97,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 15,
+            "tournament_wr": 60.0,
+            "spon_wr": 67.21,
+            "clutch_factor": -7.21,
+            "tournament_rate": 5.73,
+            "wr_score": 66.67,
+            "clutch_score": 13.97,
+            "participation_score": 57.25,
+            "final_score": 48.97
+          }
+        }
+      }
+    },
+    {
+      "member_name": "찌킹",
+      "total_score": 52.12,
+      "scores": {
+        "activity_consistency": {
+          "score": 88.05,
+          "weight": 0.15,
+          "details": {
+            "total_games": 729,
+            "active_months": 12,
+            "avg_per_month": 60.8,
+            "consistency": 0.745,
+            "coverage": 1.091,
+            "games_score": 91.12,
+            "consistency_score": 74.45,
+            "coverage_score": 109.09,
+            "final_score": 88.05
+          }
+        },
+        "growth_rate": {
+          "score": 35.63,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 0.53,
+            "trend_slope": -0.511,
+            "recent_improvement": -4.6,
+            "growth_score": 41.06,
+            "trend_score": 29.78,
+            "recent_score": 30.81,
+            "final_score": 35.63
+          }
+        },
+        "same_tier_dominance": {
+          "score": 38.91,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "4티어",
+            "same_tier_games": 461,
+            "same_tier_wr": 43.82,
+            "max_streak": 7,
+            "wr_score": 12.73,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 38.91
+          }
+        },
+        "upward_challenge": {
+          "score": 51.45,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 55,
+            "upward_wr": 38.18,
+            "challenge_rate": 7.54,
+            "tier_gap_performance": {
+              "1tier_gap": 38.46,
+              "2tier_gap": 38.89,
+              "3tier_gap": 38.18
+            },
+            "wr_score": 60.61,
+            "frequency_score": 37.72,
+            "reliability": 1.0,
+            "final_score": 51.45
+          }
+        },
+        "downward_defense": {
+          "score": 33.32,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 213,
+            "downward_wr": 64.79,
+            "max_defense_streak": 9,
+            "wr_score": 19.15,
+            "defense_score": 90.0,
+            "final_score": 33.32
+          }
+        },
+        "map_adaptability": {
+          "score": 56.2,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 7,
+            "avg_map_wr": 46.55,
+            "wr_std": 9.27,
+            "wr_range": 26.67,
+            "best_map": "버미어",
+            "worst_map": "리트머스",
+            "diversity_score": 70.0,
+            "consistency_score": 68.32,
+            "avg_wr_score": 26.22,
+            "final_score": 56.2
+          }
+        },
+        "tournament_performance": {
+          "score": 64.76,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 82,
+            "tournament_wr": 53.66,
+            "spon_wr": 49.0,
+            "clutch_factor": 4.66,
+            "tournament_rate": 11.25,
+            "wr_score": 45.53,
+            "clutch_score": 73.32,
+            "participation_score": 100,
+            "final_score": 64.76
+          }
+        }
+      }
+    },
+    {
+      "member_name": "김뽀뇨",
+      "total_score": 51.28,
+      "scores": {
+        "activity_consistency": {
+          "score": 79.08,
+          "weight": 0.15,
+          "details": {
+            "total_games": 625,
+            "active_months": 12,
+            "avg_per_month": 52.1,
+            "consistency": 0.65,
+            "coverage": 1.091,
+            "games_score": 78.12,
+            "consistency_score": 65.02,
+            "coverage_score": 109.09,
+            "final_score": 79.08
+          }
+        },
+        "growth_rate": {
+          "score": 34.77,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -1.6,
+            "trend_slope": -0.508,
+            "recent_improvement": -1.45,
+            "growth_score": 36.8,
+            "trend_score": 29.84,
+            "recent_score": 37.09,
+            "final_score": 34.77
+          }
+        },
+        "same_tier_dominance": {
+          "score": 53.58,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "3티어",
+            "same_tier_games": 467,
+            "same_tier_wr": 50.11,
+            "max_streak": 8,
+            "wr_score": 33.69,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 53.58
+          }
+        },
+        "upward_challenge": {
+          "score": 48.75,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 69,
+            "upward_wr": 33.33,
+            "challenge_rate": 11.04,
+            "tier_gap_performance": {
+              "1tier_gap": 33.33,
+              "2tier_gap": 33.33,
+              "3tier_gap": 33.33
+            },
+            "wr_score": 44.44,
+            "frequency_score": 55.2,
+            "reliability": 1.0,
+            "final_score": 48.75
+          }
+        },
+        "downward_defense": {
+          "score": 38.13,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 89,
+            "downward_wr": 66.29,
+            "max_defense_streak": 9,
+            "wr_score": 25.17,
+            "defense_score": 90.0,
+            "final_score": 38.13
+          }
+        },
+        "map_adaptability": {
+          "score": 61.33,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 7,
+            "avg_map_wr": 50.37,
+            "wr_std": 8.69,
+            "wr_range": 26.53,
+            "best_map": "이클립스",
+            "worst_map": "리트머스",
+            "diversity_score": 70.0,
+            "consistency_score": 69.72,
+            "avg_wr_score": 41.47,
+            "final_score": 61.33
+          }
+        },
+        "tournament_performance": {
+          "score": 41.04,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 52,
+            "tournament_wr": 48.08,
+            "spon_wr": 50.79,
+            "clutch_factor": -2.71,
+            "tournament_rate": 8.32,
+            "wr_score": 26.92,
+            "clutch_score": 36.46,
+            "participation_score": 83.2,
+            "final_score": 41.04
+          }
+        }
+      }
+    },
+    {
+      "member_name": "박하악",
+      "total_score": 50.34,
+      "scores": {
+        "activity_consistency": {
+          "score": 83.9,
+          "weight": 0.15,
+          "details": {
+            "total_games": 778,
+            "active_months": 11,
+            "avg_per_month": 70.7,
+            "consistency": 0.625,
+            "coverage": 1.0,
+            "games_score": 97.25,
+            "consistency_score": 62.49,
+            "coverage_score": 100.0,
+            "final_score": 83.9
+          }
+        },
+        "growth_rate": {
+          "score": 42.53,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -4.7,
+            "trend_slope": 0.823,
+            "recent_improvement": 5.74,
+            "growth_score": 30.6,
+            "trend_score": 56.46,
+            "recent_score": 51.47,
+            "final_score": 42.53
+          }
+        },
+        "same_tier_dominance": {
+          "score": 32.78,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "6티어",
+            "same_tier_games": 369,
+            "same_tier_wr": 41.19,
+            "max_streak": 6,
+            "wr_score": 3.97,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 32.78
+          }
+        },
+        "upward_challenge": {
+          "score": 41.48,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 36,
+            "upward_wr": 36.11,
+            "challenge_rate": 4.63,
+            "tier_gap_performance": {
+              "1tier_gap": 39.39,
+              "2tier_gap": 39.39,
+              "3tier_gap": 39.39
+            },
+            "wr_score": 53.7,
+            "frequency_score": 23.14,
+            "reliability": 1.0,
+            "final_score": 41.48
+          }
+        },
+        "downward_defense": {
+          "score": 18.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 373,
+            "downward_wr": 54.96,
+            "max_defense_streak": 9,
+            "wr_score": 0,
+            "defense_score": 90.0,
+            "final_score": 18.0
+          }
+        },
+        "map_adaptability": {
+          "score": 52.75,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 45.76,
+            "wr_std": 8.74,
+            "wr_range": 26.66,
+            "best_map": "이클립스",
+            "worst_map": "리트머스",
+            "diversity_score": 60.0,
+            "consistency_score": 69.59,
+            "avg_wr_score": 23.04,
+            "final_score": 52.75
+          }
+        },
+        "tournament_performance": {
+          "score": 83.95,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 64,
+            "tournament_wr": 62.5,
+            "spon_wr": 46.22,
+            "clutch_factor": 16.28,
+            "tournament_rate": 8.23,
+            "wr_score": 75.0,
+            "clutch_score": 100,
+            "participation_score": 82.26,
+            "final_score": 83.95
+          }
+        }
+      }
+    },
+    {
+      "member_name": "다예나",
+      "total_score": 47.63,
+      "scores": {
+        "activity_consistency": {
+          "score": 53.91,
+          "weight": 0.15,
+          "details": {
+            "total_games": 343,
+            "active_months": 7,
+            "avg_per_month": 49.0,
+            "consistency": 0.601,
+            "coverage": 0.636,
+            "games_score": 42.88,
+            "consistency_score": 60.08,
+            "coverage_score": 63.64,
+            "final_score": 53.91
+          }
+        },
+        "growth_rate": {
+          "score": 77.15,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 19.15,
+            "trend_slope": 5.221,
+            "recent_improvement": 0,
+            "growth_score": 78.3,
+            "trend_score": 100,
+            "recent_score": 40.0,
+            "final_score": 77.15
+          }
+        },
+        "same_tier_dominance": {
+          "score": 78.53,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 250,
+            "same_tier_wr": 60.8,
+            "max_streak": 12,
+            "wr_score": 69.33,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 78.53
+          }
+        },
+        "upward_challenge": {
+          "score": 2.36,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 9,
+            "upward_wr": 11.11,
+            "challenge_rate": 2.62,
+            "tier_gap_performance": {
+              "1tier_gap": 0.0,
+              "2tier_gap": 11.11,
+              "3tier_gap": 11.11
+            },
+            "wr_score": 0,
+            "frequency_score": 13.12,
+            "reliability": 0.45,
+            "final_score": 2.36
+          }
+        },
+        "downward_defense": {
+          "score": 22.29,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 84,
+            "downward_wr": 60.71,
+            "max_defense_streak": 12,
+            "wr_score": 2.86,
+            "defense_score": 100,
+            "final_score": 22.29
+          }
+        },
+        "map_adaptability": {
+          "score": 59.21,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 5,
+            "avg_map_wr": 57.45,
+            "wr_std": 14.38,
+            "wr_range": 44.93,
+            "best_map": "녹아웃",
+            "worst_map": "리트머스",
+            "diversity_score": 50.0,
+            "consistency_score": 58.18,
+            "avg_wr_score": 69.79,
+            "final_score": 59.21
+          }
+        },
+        "tournament_performance": {
+          "score": 8.75,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 15,
+            "tournament_wr": 33.33,
+            "spon_wr": 60.67,
+            "clutch_factor": -27.34,
+            "tournament_rate": 4.37,
+            "wr_score": 0,
+            "clutch_score": 0,
+            "participation_score": 43.73,
+            "final_score": 8.75
+          }
+        }
+      }
+    },
+    {
+      "member_name": "구루미",
+      "total_score": 45.46,
+      "scores": {
+        "activity_consistency": {
+          "score": 61.41,
+          "weight": 0.15,
+          "details": {
+            "total_games": 340,
+            "active_months": 11,
+            "avg_per_month": 30.9,
+            "consistency": 0.61,
+            "coverage": 1.0,
+            "games_score": 42.5,
+            "consistency_score": 61.04,
+            "coverage_score": 100.0,
+            "final_score": 61.41
+          }
+        },
+        "growth_rate": {
+          "score": 5.79,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -18.38,
+            "trend_slope": -1.304,
+            "recent_improvement": -23.18,
+            "growth_score": 3.24,
+            "trend_score": 13.92,
+            "recent_score": 0,
+            "final_score": 5.79
+          }
+        },
+        "same_tier_dominance": {
+          "score": 64.54,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "5티어",
+            "same_tier_games": 177,
+            "same_tier_wr": 54.8,
+            "max_streak": 13,
+            "wr_score": 49.34,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 64.54
+          }
+        },
+        "upward_challenge": {
+          "score": 62.89,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 159,
+            "upward_wr": 31.45,
+            "challenge_rate": 46.76,
+            "tier_gap_performance": {
+              "1tier_gap": 31.65,
+              "2tier_gap": 31.45,
+              "3tier_gap": 31.45
+            },
+            "wr_score": 38.16,
+            "frequency_score": 100,
+            "reliability": 1.0,
+            "final_score": 62.89
+          }
+        },
+        "downward_defense": {
+          "score": 0,
+          "weight": 0.1,
+          "details": {
+            "reason": "하위티어 경기 부족"
+          }
+        },
+        "map_adaptability": {
+          "score": 46.51,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 43.29,
+            "wr_std": 12.57,
+            "wr_range": 39.5,
+            "best_map": "리트머스",
+            "worst_map": "녹아웃",
+            "diversity_score": 60.0,
+            "consistency_score": 61.41,
+            "avg_wr_score": 13.17,
+            "final_score": 46.51
+          }
+        },
+        "tournament_performance": {
+          "score": 90.0,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 17,
+            "tournament_wr": 76.47,
+            "spon_wr": 42.11,
+            "clutch_factor": 34.37,
+            "tournament_rate": 5.0,
+            "wr_score": 100,
+            "clutch_score": 100,
+            "participation_score": 50.0,
+            "final_score": 90.0
+          }
+        }
+      }
+    },
+    {
+      "member_name": "팥순",
+      "total_score": 41.41,
+      "scores": {
+        "activity_consistency": {
+          "score": 76.36,
+          "weight": 0.15,
+          "details": {
+            "total_games": 510,
+            "active_months": 12,
+            "avg_per_month": 42.5,
+            "consistency": 0.726,
+            "coverage": 1.091,
+            "games_score": 63.75,
+            "consistency_score": 72.6,
+            "coverage_score": 109.09,
+            "final_score": 76.36
+          }
+        },
+        "growth_rate": {
+          "score": 27.05,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -5.39,
+            "trend_slope": -0.826,
+            "recent_improvement": -6.52,
+            "growth_score": 29.22,
+            "trend_score": 23.48,
+            "recent_score": 26.95,
+            "final_score": 27.05
+          }
+        },
+        "same_tier_dominance": {
+          "score": 30.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "6티어",
+            "same_tier_games": 428,
+            "same_tier_wr": 35.51,
+            "max_streak": 6,
+            "wr_score": 0,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 30.0
+          }
+        },
+        "upward_challenge": {
+          "score": 59.86,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 73,
+            "upward_wr": 35.62,
+            "challenge_rate": 14.31,
+            "tier_gap_performance": {
+              "1tier_gap": 38.1,
+              "2tier_gap": 35.62,
+              "3tier_gap": 35.62
+            },
+            "wr_score": 52.05,
+            "frequency_score": 71.57,
+            "reliability": 1.0,
+            "final_score": 59.86
+          }
+        },
+        "downward_defense": {
+          "score": 6.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 9,
+            "downward_wr": 55.56,
+            "max_defense_streak": 3,
+            "wr_score": 0,
+            "defense_score": 30.0,
+            "final_score": 6.0
+          }
+        },
+        "map_adaptability": {
+          "score": 45.68,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 31.56,
+            "wr_std": 8.9,
+            "wr_range": 23.33,
+            "best_map": "녹아웃",
+            "worst_map": "리트머스",
+            "diversity_score": 60.0,
+            "consistency_score": 69.2,
+            "avg_wr_score": 0,
+            "final_score": 45.68
+          }
+        },
+        "tournament_performance": {
+          "score": 36.18,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 32,
+            "tournament_wr": 40.62,
+            "spon_wr": 35.56,
+            "clutch_factor": 5.06,
+            "tournament_rate": 6.27,
+            "wr_score": 2.08,
+            "clutch_score": 75.3,
+            "participation_score": 62.75,
+            "final_score": 36.18
+          }
+        }
+      }
+    },
+    {
+      "member_name": "단비송",
+      "total_score": 11.87,
+      "scores": {
+        "activity_consistency": {
+          "score": 41.05,
+          "weight": 0.15,
+          "details": {
+            "total_games": 169,
+            "active_months": 4,
+            "avg_per_month": 42.2,
+            "consistency": 0.633,
+            "coverage": 0.364,
+            "games_score": 21.12,
+            "consistency_score": 63.32,
+            "coverage_score": 36.36,
+            "final_score": 41.05
+          }
+        },
+        "growth_rate": {
+          "score": 0,
+          "weight": 0.2,
+          "details": {
+            "reason": "데이터 부족"
+          }
+        },
+        "same_tier_dominance": {
+          "score": 30.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 106,
+            "same_tier_wr": 39.62,
+            "max_streak": 6,
+            "wr_score": 0,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 30.0
+          }
+        },
+        "upward_challenge": {
+          "score": 0.06,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 1,
+            "upward_wr": 0.0,
+            "challenge_rate": 0.59,
+            "tier_gap_performance": {
+              "2tier_gap": 0.0,
+              "3tier_gap": 0.0
+            },
+            "wr_score": 0,
+            "frequency_score": 2.96,
+            "reliability": 0.05,
+            "final_score": 0.06
+          }
+        },
+        "downward_defense": {
+          "score": 12.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 62,
+            "downward_wr": 50.0,
+            "max_defense_streak": 6,
+            "wr_score": 0,
+            "defense_score": 60.0,
+            "final_score": 12.0
+          }
+        },
+        "map_adaptability": {
+          "score": 0,
+          "weight": 0.15,
+          "details": {
+            "reason": "플레이한 맵 다양성 부족"
+          }
+        },
+        "tournament_performance": {
+          "score": 0,
+          "weight": 0.1,
+          "details": {
+            "reason": "대회 참가 부족"
+          }
+        }
+      }
+    }
+  ],
+  "all_scores": {
+    "구루미": {
+      "member_name": "구루미",
+      "total_score": 45.46,
+      "scores": {
+        "activity_consistency": {
+          "score": 61.41,
+          "weight": 0.15,
+          "details": {
+            "total_games": 340,
+            "active_months": 11,
+            "avg_per_month": 30.9,
+            "consistency": 0.61,
+            "coverage": 1.0,
+            "games_score": 42.5,
+            "consistency_score": 61.04,
+            "coverage_score": 100.0,
+            "final_score": 61.41
+          }
+        },
+        "growth_rate": {
+          "score": 5.79,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -18.38,
+            "trend_slope": -1.304,
+            "recent_improvement": -23.18,
+            "growth_score": 3.24,
+            "trend_score": 13.92,
+            "recent_score": 0,
+            "final_score": 5.79
+          }
+        },
+        "same_tier_dominance": {
+          "score": 64.54,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "5티어",
+            "same_tier_games": 177,
+            "same_tier_wr": 54.8,
+            "max_streak": 13,
+            "wr_score": 49.34,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 64.54
+          }
+        },
+        "upward_challenge": {
+          "score": 62.89,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 159,
+            "upward_wr": 31.45,
+            "challenge_rate": 46.76,
+            "tier_gap_performance": {
+              "1tier_gap": 31.65,
+              "2tier_gap": 31.45,
+              "3tier_gap": 31.45
+            },
+            "wr_score": 38.16,
+            "frequency_score": 100,
+            "reliability": 1.0,
+            "final_score": 62.89
+          }
+        },
+        "downward_defense": {
+          "score": 0,
+          "weight": 0.1,
+          "details": {
+            "reason": "하위티어 경기 부족"
+          }
+        },
+        "map_adaptability": {
+          "score": 46.51,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 43.29,
+            "wr_std": 12.57,
+            "wr_range": 39.5,
+            "best_map": "리트머스",
+            "worst_map": "녹아웃",
+            "diversity_score": 60.0,
+            "consistency_score": 61.41,
+            "avg_wr_score": 13.17,
+            "final_score": 46.51
+          }
+        },
+        "tournament_performance": {
+          "score": 90.0,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 17,
+            "tournament_wr": 76.47,
+            "spon_wr": 42.11,
+            "clutch_factor": 34.37,
+            "tournament_rate": 5.0,
+            "wr_score": 100,
+            "clutch_score": 100,
+            "participation_score": 50.0,
+            "final_score": 90.0
+          }
+        }
+      }
+    },
+    "규리야": {
+      "member_name": "규리야",
+      "total_score": 66.08,
+      "scores": {
+        "activity_consistency": {
+          "score": 87.53,
+          "weight": 0.15,
+          "details": {
+            "total_games": 992,
+            "active_months": 12,
+            "avg_per_month": 82.7,
+            "consistency": 0.643,
+            "coverage": 1.091,
+            "games_score": 100,
+            "consistency_score": 64.28,
+            "coverage_score": 109.09,
+            "final_score": 87.53
+          }
+        },
+        "growth_rate": {
+          "score": 53.17,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 5.56,
+            "trend_slope": 0.847,
+            "recent_improvement": 6.32,
+            "growth_score": 51.12,
+            "trend_score": 56.95,
+            "recent_score": 52.64,
+            "final_score": 53.17
+          }
+        },
+        "same_tier_dominance": {
+          "score": 79.04,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "4티어",
+            "same_tier_games": 708,
+            "same_tier_wr": 61.02,
+            "max_streak": 18,
+            "wr_score": 70.06,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 79.04
+          }
+        },
+        "upward_challenge": {
+          "score": 53.07,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 91,
+            "upward_wr": 37.36,
+            "challenge_rate": 9.17,
+            "tier_gap_performance": {
+              "1tier_gap": 37.08,
+              "2tier_gap": 37.78,
+              "3tier_gap": 37.36
+            },
+            "wr_score": 57.88,
+            "frequency_score": 45.87,
+            "reliability": 1.0,
+            "final_score": 53.07
+          }
+        },
+        "downward_defense": {
+          "score": 20.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 193,
+            "downward_wr": 59.07,
+            "max_defense_streak": 10,
+            "wr_score": 0,
+            "defense_score": 100.0,
+            "final_score": 20.0
+          }
+        },
+        "map_adaptability": {
+          "score": 76.25,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 8,
+            "avg_map_wr": 60.16,
+            "wr_std": 8.51,
+            "wr_range": 26.27,
+            "best_map": "도미네이터",
+            "worst_map": "리트머스",
+            "diversity_score": 80.0,
+            "consistency_score": 70.15,
+            "avg_wr_score": 80.62,
+            "final_score": 76.25
+          }
+        },
+        "tournament_performance": {
+          "score": 90.62,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 74,
+            "tournament_wr": 67.57,
+            "spon_wr": 57.73,
+            "clutch_factor": 9.83,
+            "tournament_rate": 7.46,
+            "wr_score": 91.89,
+            "clutch_score": 99.17,
+            "participation_score": 74.6,
+            "final_score": 90.62
+          }
+        }
+      }
+    },
+    "김뽀뇨": {
+      "member_name": "김뽀뇨",
+      "total_score": 51.28,
+      "scores": {
+        "activity_consistency": {
+          "score": 79.08,
+          "weight": 0.15,
+          "details": {
+            "total_games": 625,
+            "active_months": 12,
+            "avg_per_month": 52.1,
+            "consistency": 0.65,
+            "coverage": 1.091,
+            "games_score": 78.12,
+            "consistency_score": 65.02,
+            "coverage_score": 109.09,
+            "final_score": 79.08
+          }
+        },
+        "growth_rate": {
+          "score": 34.77,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -1.6,
+            "trend_slope": -0.508,
+            "recent_improvement": -1.45,
+            "growth_score": 36.8,
+            "trend_score": 29.84,
+            "recent_score": 37.09,
+            "final_score": 34.77
+          }
+        },
+        "same_tier_dominance": {
+          "score": 53.58,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "3티어",
+            "same_tier_games": 467,
+            "same_tier_wr": 50.11,
+            "max_streak": 8,
+            "wr_score": 33.69,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 53.58
+          }
+        },
+        "upward_challenge": {
+          "score": 48.75,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 69,
+            "upward_wr": 33.33,
+            "challenge_rate": 11.04,
+            "tier_gap_performance": {
+              "1tier_gap": 33.33,
+              "2tier_gap": 33.33,
+              "3tier_gap": 33.33
+            },
+            "wr_score": 44.44,
+            "frequency_score": 55.2,
+            "reliability": 1.0,
+            "final_score": 48.75
+          }
+        },
+        "downward_defense": {
+          "score": 38.13,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 89,
+            "downward_wr": 66.29,
+            "max_defense_streak": 9,
+            "wr_score": 25.17,
+            "defense_score": 90.0,
+            "final_score": 38.13
+          }
+        },
+        "map_adaptability": {
+          "score": 61.33,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 7,
+            "avg_map_wr": 50.37,
+            "wr_std": 8.69,
+            "wr_range": 26.53,
+            "best_map": "이클립스",
+            "worst_map": "리트머스",
+            "diversity_score": 70.0,
+            "consistency_score": 69.72,
+            "avg_wr_score": 41.47,
+            "final_score": 61.33
+          }
+        },
+        "tournament_performance": {
+          "score": 41.04,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 52,
+            "tournament_wr": 48.08,
+            "spon_wr": 50.79,
+            "clutch_factor": -2.71,
+            "tournament_rate": 8.32,
+            "wr_score": 26.92,
+            "clutch_score": 36.46,
+            "participation_score": 83.2,
+            "final_score": 41.04
+          }
+        }
+      }
+    },
+    "내가먼지": {
+      "member_name": "내가먼지",
+      "total_score": 72.24,
+      "scores": {
+        "activity_consistency": {
+          "score": 69.24,
+          "weight": 0.15,
+          "details": {
+            "total_games": 493,
+            "active_months": 11,
+            "avg_per_month": 44.8,
+            "consistency": 0.615,
+            "coverage": 1.0,
+            "games_score": 61.62,
+            "consistency_score": 61.47,
+            "coverage_score": 100.0,
+            "final_score": 69.24
+          }
+        },
+        "growth_rate": {
+          "score": 30.7,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -2.18,
+            "trend_slope": -0.723,
+            "recent_improvement": -6.94,
+            "growth_score": 35.64,
+            "trend_score": 25.53,
+            "recent_score": 26.11,
+            "final_score": 30.7
+          }
+        },
+        "same_tier_dominance": {
+          "score": 92.49,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "7티어",
+            "same_tier_games": 289,
+            "same_tier_wr": 66.78,
+            "max_streak": 11,
+            "wr_score": 89.27,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 92.49
+          }
+        },
+        "upward_challenge": {
+          "score": 100.0,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 180,
+            "upward_wr": 62.22,
+            "challenge_rate": 36.51,
+            "tier_gap_performance": {
+              "1tier_gap": 59.51,
+              "2tier_gap": 62.22,
+              "3tier_gap": 62.22
+            },
+            "wr_score": 100,
+            "frequency_score": 100,
+            "reliability": 1.0,
+            "final_score": 100.0
+          }
+        },
+        "downward_defense": {
+          "score": 100.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 24,
+            "downward_wr": 87.5,
+            "max_defense_streak": 13,
+            "wr_score": 100,
+            "defense_score": 100,
+            "final_score": 100.0
+          }
+        },
+        "map_adaptability": {
+          "score": 82.55,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 66.74,
+            "wr_std": 3.15,
+            "wr_range": 9.12,
+            "best_map": "리트머스",
+            "worst_map": "라데온",
+            "diversity_score": 60.0,
+            "consistency_score": 86.37,
+            "avg_wr_score": 100,
+            "final_score": 82.55
+          }
+        },
+        "tournament_performance": {
+          "score": 44.53,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 53,
+            "tournament_wr": 54.72,
+            "spon_wr": 67.5,
+            "clutch_factor": -12.78,
+            "tournament_rate": 10.75,
+            "wr_score": 49.06,
+            "clutch_score": 0,
+            "participation_score": 100,
+            "final_score": 44.53
+          }
+        }
+      }
+    },
+    "냥수디": {
+      "member_name": "냥수디",
+      "total_score": 52.62,
+      "scores": {
+        "activity_consistency": {
+          "score": 48.81,
+          "weight": 0.15,
+          "details": {
+            "total_games": 262,
+            "active_months": 7,
+            "avg_per_month": 37.4,
+            "consistency": 0.575,
+            "coverage": 0.636,
+            "games_score": 32.75,
+            "consistency_score": 57.45,
+            "coverage_score": 63.64,
+            "final_score": 48.81
+          }
+        },
+        "growth_rate": {
+          "score": 39.44,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 5.31,
+            "trend_slope": -0.978,
+            "recent_improvement": 0,
+            "growth_score": 50.62,
+            "trend_score": 20.45,
+            "recent_score": 40.0,
+            "final_score": 39.44
+          }
+        },
+        "same_tier_dominance": {
+          "score": 89.33,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 188,
+            "same_tier_wr": 65.43,
+            "max_streak": 12,
+            "wr_score": 84.75,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 89.33
+          }
+        },
+        "upward_challenge": {
+          "score": 30.09,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 9,
+            "upward_wr": 77.78,
+            "challenge_rate": 3.44,
+            "tier_gap_performance": {
+              "1tier_gap": 77.78,
+              "2tier_gap": 77.78,
+              "3tier_gap": 77.78
+            },
+            "wr_score": 100,
+            "frequency_score": 17.18,
+            "reliability": 0.45,
+            "final_score": 30.09
+          }
+        },
+        "downward_defense": {
+          "score": 49.54,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 65,
+            "downward_wr": 69.23,
+            "max_defense_streak": 13,
+            "wr_score": 36.92,
+            "defense_score": 100,
+            "final_score": 49.54
+          }
+        },
+        "map_adaptability": {
+          "score": 64.31,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 5,
+            "avg_map_wr": 56.98,
+            "wr_std": 7.65,
+            "wr_range": 21.21,
+            "best_map": "폴리포이드",
+            "worst_map": "리트머스",
+            "diversity_score": 50.0,
+            "consistency_score": 72.33,
+            "avg_wr_score": 67.93,
+            "final_score": 64.31
+          }
+        },
+        "tournament_performance": {
+          "score": 48.97,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 15,
+            "tournament_wr": 60.0,
+            "spon_wr": 67.21,
+            "clutch_factor": -7.21,
+            "tournament_rate": 5.73,
+            "wr_score": 66.67,
+            "clutch_score": 13.97,
+            "participation_score": 57.25,
+            "final_score": 48.97
+          }
+        }
+      }
+    },
+    "늑대채린": {
+      "member_name": "늑대채린",
+      "total_score": 55.94,
+      "scores": {
+        "activity_consistency": {
+          "score": 77.96,
+          "weight": 0.15,
+          "details": {
+            "total_games": 617,
+            "active_months": 11,
+            "avg_per_month": 56.1,
+            "consistency": 0.678,
+            "coverage": 1.0,
+            "games_score": 77.12,
+            "consistency_score": 67.79,
+            "coverage_score": 100.0,
+            "final_score": 77.96
+          }
+        },
+        "growth_rate": {
+          "score": 42.2,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 0.06,
+            "trend_slope": 0.633,
+            "recent_improvement": -4.13,
+            "growth_score": 40.12,
+            "trend_score": 52.65,
+            "recent_score": 31.73,
+            "final_score": 42.2
+          }
+        },
+        "same_tier_dominance": {
+          "score": 41.67,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "4티어",
+            "same_tier_games": 400,
+            "same_tier_wr": 45.0,
+            "max_streak": 6,
+            "wr_score": 16.67,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 41.67
+          }
+        },
+        "upward_challenge": {
+          "score": 79.34,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 102,
+            "upward_wr": 43.14,
+            "challenge_rate": 16.53,
+            "tier_gap_performance": {
+              "1tier_gap": 43.43,
+              "2tier_gap": 43.14,
+              "3tier_gap": 43.14
+            },
+            "wr_score": 77.12,
+            "frequency_score": 82.66,
+            "reliability": 1.0,
+            "final_score": 79.34
+          }
+        },
+        "downward_defense": {
+          "score": 56.17,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 115,
+            "downward_wr": 71.3,
+            "max_defense_streak": 11,
+            "wr_score": 45.22,
+            "defense_score": 100,
+            "final_score": 56.17
+          }
+        },
+        "map_adaptability": {
+          "score": 64.11,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 49.0,
+            "wr_std": 2.66,
+            "wr_range": 8.17,
+            "best_map": "리트머스",
+            "worst_map": "녹아웃",
+            "diversity_score": 60.0,
+            "consistency_score": 88.28,
+            "avg_wr_score": 36.01,
+            "final_score": 64.11
+          }
+        },
+        "tournament_performance": {
+          "score": 24.19,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 34,
+            "tournament_wr": 44.12,
+            "spon_wr": 49.91,
+            "clutch_factor": -5.8,
+            "tournament_rate": 5.51,
+            "wr_score": 13.73,
+            "clutch_score": 21.02,
+            "participation_score": 55.11,
+            "final_score": 24.19
+          }
+        }
+      }
+    },
+    "다예나": {
+      "member_name": "다예나",
+      "total_score": 47.63,
+      "scores": {
+        "activity_consistency": {
+          "score": 53.91,
+          "weight": 0.15,
+          "details": {
+            "total_games": 343,
+            "active_months": 7,
+            "avg_per_month": 49.0,
+            "consistency": 0.601,
+            "coverage": 0.636,
+            "games_score": 42.88,
+            "consistency_score": 60.08,
+            "coverage_score": 63.64,
+            "final_score": 53.91
+          }
+        },
+        "growth_rate": {
+          "score": 77.15,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 19.15,
+            "trend_slope": 5.221,
+            "recent_improvement": 0,
+            "growth_score": 78.3,
+            "trend_score": 100,
+            "recent_score": 40.0,
+            "final_score": 77.15
+          }
+        },
+        "same_tier_dominance": {
+          "score": 78.53,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 250,
+            "same_tier_wr": 60.8,
+            "max_streak": 12,
+            "wr_score": 69.33,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 78.53
+          }
+        },
+        "upward_challenge": {
+          "score": 2.36,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 9,
+            "upward_wr": 11.11,
+            "challenge_rate": 2.62,
+            "tier_gap_performance": {
+              "1tier_gap": 0.0,
+              "2tier_gap": 11.11,
+              "3tier_gap": 11.11
+            },
+            "wr_score": 0,
+            "frequency_score": 13.12,
+            "reliability": 0.45,
+            "final_score": 2.36
+          }
+        },
+        "downward_defense": {
+          "score": 22.29,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 84,
+            "downward_wr": 60.71,
+            "max_defense_streak": 12,
+            "wr_score": 2.86,
+            "defense_score": 100,
+            "final_score": 22.29
+          }
+        },
+        "map_adaptability": {
+          "score": 59.21,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 5,
+            "avg_map_wr": 57.45,
+            "wr_std": 14.38,
+            "wr_range": 44.93,
+            "best_map": "녹아웃",
+            "worst_map": "리트머스",
+            "diversity_score": 50.0,
+            "consistency_score": 58.18,
+            "avg_wr_score": 69.79,
+            "final_score": 59.21
+          }
+        },
+        "tournament_performance": {
+          "score": 8.75,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 15,
+            "tournament_wr": 33.33,
+            "spon_wr": 60.67,
+            "clutch_factor": -27.34,
+            "tournament_rate": 4.37,
+            "wr_score": 0,
+            "clutch_score": 0,
+            "participation_score": 43.73,
+            "final_score": 8.75
+          }
+        }
+      }
+    },
+    "단비송": {
+      "member_name": "단비송",
+      "total_score": 11.87,
+      "scores": {
+        "activity_consistency": {
+          "score": 41.05,
+          "weight": 0.15,
+          "details": {
+            "total_games": 169,
+            "active_months": 4,
+            "avg_per_month": 42.2,
+            "consistency": 0.633,
+            "coverage": 0.364,
+            "games_score": 21.12,
+            "consistency_score": 63.32,
+            "coverage_score": 36.36,
+            "final_score": 41.05
+          }
+        },
+        "growth_rate": {
+          "score": 0,
+          "weight": 0.2,
+          "details": {
+            "reason": "데이터 부족"
+          }
+        },
+        "same_tier_dominance": {
+          "score": 30.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 106,
+            "same_tier_wr": 39.62,
+            "max_streak": 6,
+            "wr_score": 0,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 30.0
+          }
+        },
+        "upward_challenge": {
+          "score": 0.06,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 1,
+            "upward_wr": 0.0,
+            "challenge_rate": 0.59,
+            "tier_gap_performance": {
+              "2tier_gap": 0.0,
+              "3tier_gap": 0.0
+            },
+            "wr_score": 0,
+            "frequency_score": 2.96,
+            "reliability": 0.05,
+            "final_score": 0.06
+          }
+        },
+        "downward_defense": {
+          "score": 12.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 62,
+            "downward_wr": 50.0,
+            "max_defense_streak": 6,
+            "wr_score": 0,
+            "defense_score": 60.0,
+            "final_score": 12.0
+          }
+        },
+        "map_adaptability": {
+          "score": 0,
+          "weight": 0.15,
+          "details": {
+            "reason": "플레이한 맵 다양성 부족"
+          }
+        },
+        "tournament_performance": {
+          "score": 0,
+          "weight": 0.1,
+          "details": {
+            "reason": "대회 참가 부족"
+          }
+        }
+      }
+    },
+    "또해영": {
+      "member_name": "또해영",
+      "total_score": 53.33,
+      "scores": {
+        "activity_consistency": {
+          "score": 82.18,
+          "weight": 0.15,
+          "details": {
+            "total_games": 680,
+            "active_months": 12,
+            "avg_per_month": 56.7,
+            "consistency": 0.659,
+            "coverage": 1.091,
+            "games_score": 85.0,
+            "consistency_score": 65.92,
+            "coverage_score": 109.09,
+            "final_score": 82.18
+          }
+        },
+        "growth_rate": {
+          "score": 20.18,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -8.35,
+            "trend_slope": -1.234,
+            "recent_improvement": -10.16,
+            "growth_score": 23.3,
+            "trend_score": 15.32,
+            "recent_score": 19.69,
+            "final_score": 20.18
+          }
+        },
+        "same_tier_dominance": {
+          "score": 58.78,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "7티어",
+            "same_tier_games": 407,
+            "same_tier_wr": 52.33,
+            "max_streak": 13,
+            "wr_score": 41.11,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 58.78
+          }
+        },
+        "upward_challenge": {
+          "score": 56.14,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 46,
+            "upward_wr": 41.3,
+            "challenge_rate": 6.76,
+            "tier_gap_performance": {
+              "1tier_gap": 41.86,
+              "2tier_gap": 40.91,
+              "3tier_gap": 41.3
+            },
+            "wr_score": 71.01,
+            "frequency_score": 33.82,
+            "reliability": 1.0,
+            "final_score": 56.14
+          }
+        },
+        "downward_defense": {
+          "score": 29.59,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 227,
+            "downward_wr": 63.0,
+            "max_defense_streak": 13,
+            "wr_score": 11.98,
+            "defense_score": 100,
+            "final_score": 29.59
+          }
+        },
+        "map_adaptability": {
+          "score": 62.62,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 54.37,
+            "wr_std": 9.23,
+            "wr_range": 30.6,
+            "best_map": "이클립스",
+            "worst_map": "리트머스",
+            "diversity_score": 60.0,
+            "consistency_score": 68.42,
+            "avg_wr_score": 57.5,
+            "final_score": 62.62
+          }
+        },
+        "tournament_performance": {
+          "score": 73.78,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 51,
+            "tournament_wr": 60.78,
+            "spon_wr": 54.69,
+            "clutch_factor": 6.09,
+            "tournament_rate": 7.5,
+            "wr_score": 69.28,
+            "clutch_score": 80.47,
+            "participation_score": 75.0,
+            "final_score": 73.78
+          }
+        }
+      }
+    },
+    "박하악": {
+      "member_name": "박하악",
+      "total_score": 50.34,
+      "scores": {
+        "activity_consistency": {
+          "score": 83.9,
+          "weight": 0.15,
+          "details": {
+            "total_games": 778,
+            "active_months": 11,
+            "avg_per_month": 70.7,
+            "consistency": 0.625,
+            "coverage": 1.0,
+            "games_score": 97.25,
+            "consistency_score": 62.49,
+            "coverage_score": 100.0,
+            "final_score": 83.9
+          }
+        },
+        "growth_rate": {
+          "score": 42.53,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -4.7,
+            "trend_slope": 0.823,
+            "recent_improvement": 5.74,
+            "growth_score": 30.6,
+            "trend_score": 56.46,
+            "recent_score": 51.47,
+            "final_score": 42.53
+          }
+        },
+        "same_tier_dominance": {
+          "score": 32.78,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "6티어",
+            "same_tier_games": 369,
+            "same_tier_wr": 41.19,
+            "max_streak": 6,
+            "wr_score": 3.97,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 32.78
+          }
+        },
+        "upward_challenge": {
+          "score": 41.48,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 36,
+            "upward_wr": 36.11,
+            "challenge_rate": 4.63,
+            "tier_gap_performance": {
+              "1tier_gap": 39.39,
+              "2tier_gap": 39.39,
+              "3tier_gap": 39.39
+            },
+            "wr_score": 53.7,
+            "frequency_score": 23.14,
+            "reliability": 1.0,
+            "final_score": 41.48
+          }
+        },
+        "downward_defense": {
+          "score": 18.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 373,
+            "downward_wr": 54.96,
+            "max_defense_streak": 9,
+            "wr_score": 0,
+            "defense_score": 90.0,
+            "final_score": 18.0
+          }
+        },
+        "map_adaptability": {
+          "score": 52.75,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 45.76,
+            "wr_std": 8.74,
+            "wr_range": 26.66,
+            "best_map": "이클립스",
+            "worst_map": "리트머스",
+            "diversity_score": 60.0,
+            "consistency_score": 69.59,
+            "avg_wr_score": 23.04,
+            "final_score": 52.75
+          }
+        },
+        "tournament_performance": {
+          "score": 83.95,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 64,
+            "tournament_wr": 62.5,
+            "spon_wr": 46.22,
+            "clutch_factor": 16.28,
+            "tournament_rate": 8.23,
+            "wr_score": 75.0,
+            "clutch_score": 100,
+            "participation_score": 82.26,
+            "final_score": 83.95
+          }
+        }
+      }
+    },
+    "슬돌이": {
+      "member_name": "슬돌이",
+      "total_score": 63.34,
+      "scores": {
+        "activity_consistency": {
+          "score": 68.93,
+          "weight": 0.15,
+          "details": {
+            "total_games": 442,
+            "active_months": 12,
+            "avg_per_month": 36.8,
+            "consistency": 0.625,
+            "coverage": 1.091,
+            "games_score": 55.25,
+            "consistency_score": 62.52,
+            "coverage_score": 109.09,
+            "final_score": 68.93
+          }
+        },
+        "growth_rate": {
+          "score": 40.07,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 0.49,
+            "trend_slope": 0.093,
+            "recent_improvement": -2.45,
+            "growth_score": 40.98,
+            "trend_score": 41.87,
+            "recent_score": 35.1,
+            "final_score": 40.07
+          }
+        },
+        "same_tier_dominance": {
+          "score": 72.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "3티어",
+            "same_tier_games": 300,
+            "same_tier_wr": 58.0,
+            "max_streak": 12,
+            "wr_score": 60.0,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 72.0
+          }
+        },
+        "upward_challenge": {
+          "score": 99.37,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 87,
+            "upward_wr": 50.57,
+            "challenge_rate": 19.68,
+            "tier_gap_performance": {
+              "1tier_gap": 50.57,
+              "2tier_gap": 50.57,
+              "3tier_gap": 50.57
+            },
+            "wr_score": 100,
+            "frequency_score": 98.42,
+            "reliability": 1.0,
+            "final_score": 99.37
+          }
+        },
+        "downward_defense": {
+          "score": 43.09,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 55,
+            "downward_wr": 69.09,
+            "max_defense_streak": 7,
+            "wr_score": 36.36,
+            "defense_score": 70.0,
+            "final_score": 43.09
+          }
+        },
+        "map_adaptability": {
+          "score": 68.61,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 7,
+            "avg_map_wr": 55.9,
+            "wr_std": 8.05,
+            "wr_range": 24.35,
+            "best_map": "녹아웃",
+            "worst_map": "리트머스",
+            "diversity_score": 70.0,
+            "consistency_score": 71.3,
+            "avg_wr_score": 63.61,
+            "final_score": 68.61
+          }
+        },
+        "tournament_performance": {
+          "score": 46.77,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 74,
+            "tournament_wr": 52.7,
+            "spon_wr": 58.97,
+            "clutch_factor": -6.26,
+            "tournament_rate": 16.74,
+            "wr_score": 42.34,
+            "clutch_score": 18.68,
+            "participation_score": 100,
+            "final_score": 46.77
+          }
+        }
+      }
+    },
+    "정서린": {
+      "member_name": "정서린",
+      "total_score": 76.76,
+      "scores": {
+        "activity_consistency": {
+          "score": 58.98,
+          "weight": 0.15,
+          "details": {
+            "total_games": 439,
+            "active_months": 7,
+            "avg_per_month": 62.7,
+            "consistency": 0.608,
+            "coverage": 0.636,
+            "games_score": 54.87,
+            "consistency_score": 60.75,
+            "coverage_score": 63.64,
+            "final_score": 58.98
+          }
+        },
+        "growth_rate": {
+          "score": 43.74,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 4.39,
+            "trend_slope": -0.109,
+            "recent_improvement": 0,
+            "growth_score": 48.78,
+            "trend_score": 37.82,
+            "recent_score": 40.0,
+            "final_score": 43.74
+          }
+        },
+        "same_tier_dominance": {
+          "score": 100.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "8티어",
+            "same_tier_games": 199,
+            "same_tier_wr": 70.85,
+            "max_streak": 13,
+            "wr_score": 100,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 100.0
+          }
+        },
+        "upward_challenge": {
+          "score": 100.0,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 160,
+            "upward_wr": 57.5,
+            "challenge_rate": 36.45,
+            "tier_gap_performance": {
+              "1tier_gap": 61.72,
+              "2tier_gap": 59.6,
+              "3tier_gap": 57.86
+            },
+            "wr_score": 100,
+            "frequency_score": 100,
+            "reliability": 1.0,
+            "final_score": 100.0
+          }
+        },
+        "downward_defense": {
+          "score": 80.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 80,
+            "downward_wr": 78.75,
+            "max_defense_streak": 31,
+            "wr_score": 75.0,
+            "defense_score": 100,
+            "final_score": 80.0
+          }
+        },
+        "map_adaptability": {
+          "score": 77.63,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 5,
+            "avg_map_wr": 67.72,
+            "wr_std": 4.51,
+            "wr_range": 12.11,
+            "best_map": "리트머스",
+            "worst_map": "라데온",
+            "diversity_score": 50.0,
+            "consistency_score": 81.58,
+            "avg_wr_score": 100,
+            "final_score": 77.63
+          }
+        },
+        "tournament_performance": {
+          "score": 95.2,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 34,
+            "tournament_wr": 76.47,
+            "spon_wr": 66.67,
+            "clutch_factor": 9.8,
+            "tournament_rate": 7.74,
+            "wr_score": 100,
+            "clutch_score": 99.02,
+            "participation_score": 77.45,
+            "final_score": 95.2
+          }
+        }
+      }
+    },
+    "찌킹": {
+      "member_name": "찌킹",
+      "total_score": 52.12,
+      "scores": {
+        "activity_consistency": {
+          "score": 88.05,
+          "weight": 0.15,
+          "details": {
+            "total_games": 729,
+            "active_months": 12,
+            "avg_per_month": 60.8,
+            "consistency": 0.745,
+            "coverage": 1.091,
+            "games_score": 91.12,
+            "consistency_score": 74.45,
+            "coverage_score": 109.09,
+            "final_score": 88.05
+          }
+        },
+        "growth_rate": {
+          "score": 35.63,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": 0.53,
+            "trend_slope": -0.511,
+            "recent_improvement": -4.6,
+            "growth_score": 41.06,
+            "trend_score": 29.78,
+            "recent_score": 30.81,
+            "final_score": 35.63
+          }
+        },
+        "same_tier_dominance": {
+          "score": 38.91,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "4티어",
+            "same_tier_games": 461,
+            "same_tier_wr": 43.82,
+            "max_streak": 7,
+            "wr_score": 12.73,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 38.91
+          }
+        },
+        "upward_challenge": {
+          "score": 51.45,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 55,
+            "upward_wr": 38.18,
+            "challenge_rate": 7.54,
+            "tier_gap_performance": {
+              "1tier_gap": 38.46,
+              "2tier_gap": 38.89,
+              "3tier_gap": 38.18
+            },
+            "wr_score": 60.61,
+            "frequency_score": 37.72,
+            "reliability": 1.0,
+            "final_score": 51.45
+          }
+        },
+        "downward_defense": {
+          "score": 33.32,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 213,
+            "downward_wr": 64.79,
+            "max_defense_streak": 9,
+            "wr_score": 19.15,
+            "defense_score": 90.0,
+            "final_score": 33.32
+          }
+        },
+        "map_adaptability": {
+          "score": 56.2,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 7,
+            "avg_map_wr": 46.55,
+            "wr_std": 9.27,
+            "wr_range": 26.67,
+            "best_map": "버미어",
+            "worst_map": "리트머스",
+            "diversity_score": 70.0,
+            "consistency_score": 68.32,
+            "avg_wr_score": 26.22,
+            "final_score": 56.2
+          }
+        },
+        "tournament_performance": {
+          "score": 64.76,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 82,
+            "tournament_wr": 53.66,
+            "spon_wr": 49.0,
+            "clutch_factor": 4.66,
+            "tournament_rate": 11.25,
+            "wr_score": 45.53,
+            "clutch_score": 73.32,
+            "participation_score": 100,
+            "final_score": 64.76
+          }
+        }
+      }
+    },
+    "팥순": {
+      "member_name": "팥순",
+      "total_score": 41.41,
+      "scores": {
+        "activity_consistency": {
+          "score": 76.36,
+          "weight": 0.15,
+          "details": {
+            "total_games": 510,
+            "active_months": 12,
+            "avg_per_month": 42.5,
+            "consistency": 0.726,
+            "coverage": 1.091,
+            "games_score": 63.75,
+            "consistency_score": 72.6,
+            "coverage_score": 109.09,
+            "final_score": 76.36
+          }
+        },
+        "growth_rate": {
+          "score": 27.05,
+          "weight": 0.2,
+          "details": {
+            "overall_growth": -5.39,
+            "trend_slope": -0.826,
+            "recent_improvement": -6.52,
+            "growth_score": 29.22,
+            "trend_score": 23.48,
+            "recent_score": 26.95,
+            "final_score": 27.05
+          }
+        },
+        "same_tier_dominance": {
+          "score": 30.0,
+          "weight": 0.15,
+          "details": {
+            "main_tier": "6티어",
+            "same_tier_games": 428,
+            "same_tier_wr": 35.51,
+            "max_streak": 6,
+            "wr_score": 0,
+            "streak_score": 100,
+            "reliability": 1.0,
+            "final_score": 30.0
+          }
+        },
+        "upward_challenge": {
+          "score": 59.86,
+          "weight": 0.15,
+          "details": {
+            "upward_games": 73,
+            "upward_wr": 35.62,
+            "challenge_rate": 14.31,
+            "tier_gap_performance": {
+              "1tier_gap": 38.1,
+              "2tier_gap": 35.62,
+              "3tier_gap": 35.62
+            },
+            "wr_score": 52.05,
+            "frequency_score": 71.57,
+            "reliability": 1.0,
+            "final_score": 59.86
+          }
+        },
+        "downward_defense": {
+          "score": 6.0,
+          "weight": 0.1,
+          "details": {
+            "downward_games": 9,
+            "downward_wr": 55.56,
+            "max_defense_streak": 3,
+            "wr_score": 0,
+            "defense_score": 30.0,
+            "final_score": 6.0
+          }
+        },
+        "map_adaptability": {
+          "score": 45.68,
+          "weight": 0.15,
+          "details": {
+            "map_diversity": 6,
+            "avg_map_wr": 31.56,
+            "wr_std": 8.9,
+            "wr_range": 23.33,
+            "best_map": "녹아웃",
+            "worst_map": "리트머스",
+            "diversity_score": 60.0,
+            "consistency_score": 69.2,
+            "avg_wr_score": 0,
+            "final_score": 45.68
+          }
+        },
+        "tournament_performance": {
+          "score": 36.18,
+          "weight": 0.1,
+          "details": {
+            "tournament_games": 32,
+            "tournament_wr": 40.62,
+            "spon_wr": 35.56,
+            "clutch_factor": 5.06,
+            "tournament_rate": 6.27,
+            "wr_score": 2.08,
+            "clutch_score": 75.3,
+            "participation_score": 62.75,
+            "final_score": 36.18
+          }
+        }
+      }
+    }
+  },
+  "evaluation_criteria": {
+    "activity_consistency": "활동량 & 일관성 (15%)",
+    "growth_rate": "성장률 (20%)",
+    "same_tier_dominance": "동티어 경쟁력 (15%)",
+    "upward_challenge": "상위 도전 정신 (15%)",
+    "downward_defense": "하위 방어율 (10%)",
+    "map_adaptability": "맵 적응력 (15%)",
+    "tournament_performance": "대회 성과 (10%)"
+  }
+}
