@@ -1,0 +1,7093 @@
+{
+  "generated_at": "2026-01-14T00:46:27.663762",
+  "summary": {
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "months": 12
+    },
+    "overall": {
+      "total": 7422,
+      "wins": 3973,
+      "losses": 3449,
+      "winrate": 53.53
+    },
+    "by_type": {
+      "스폰": {
+        "total": 6821,
+        "wins": 3631,
+        "losses": 3190,
+        "winrate": 53.23
+      },
+      "대회": {
+        "total": 599,
+        "wins": 340,
+        "losses": 259,
+        "winrate": 56.76
+      },
+      "이벤트": {
+        "total": 2,
+        "wins": 2,
+        "losses": 0,
+        "winrate": 100.0
+      }
+    },
+    "members": {
+      "total": 14,
+      "list": [
+        "팥순",
+        "슬돌이",
+        "김뽀뇨",
+        "찌킹",
+        "구루미",
+        "규리야",
+        "내가먼지",
+        "늑대채린",
+        "냥수디",
+        "다예나",
+        "단비송",
+        "또해영",
+        "정서린",
+        "박하악"
+      ]
+    },
+    "highlights": {
+      "mvp": {
+        "name": "정서린",
+        "winrate": 67.43,
+        "total": 439
+      },
+      "most_games": {
+        "name": "규리야",
+        "total": 992
+      },
+      "mip": {
+        "name": "냥수디",
+        "tier_start": "베이비",
+        "tier_end": "7티어",
+        "improvement": 2
+      }
+    }
+  },
+  "monthly": {
+    "1": {
+      "total": 537,
+      "wins": 295,
+      "losses": 242,
+      "winrate": 54.93
+    },
+    "2": {
+      "total": 545,
+      "wins": 279,
+      "losses": 266,
+      "winrate": 51.19
+    },
+    "3": {
+      "total": 751,
+      "wins": 392,
+      "losses": 359,
+      "winrate": 52.2
+    },
+    "4": {
+      "total": 569,
+      "wins": 293,
+      "losses": 276,
+      "winrate": 51.49
+    },
+    "5": {
+      "total": 541,
+      "wins": 290,
+      "losses": 251,
+      "winrate": 53.6
+    },
+    "6": {
+      "total": 536,
+      "wins": 287,
+      "losses": 249,
+      "winrate": 53.54
+    },
+    "7": {
+      "total": 583,
+      "wins": 352,
+      "losses": 231,
+      "winrate": 60.38
+    },
+    "8": {
+      "total": 515,
+      "wins": 298,
+      "losses": 217,
+      "winrate": 57.86
+    },
+    "9": {
+      "total": 1064,
+      "wins": 543,
+      "losses": 521,
+      "winrate": 51.03
+    },
+    "10": {
+      "total": 1240,
+      "wins": 647,
+      "losses": 593,
+      "winrate": 52.18
+    },
+    "11": {
+      "total": 173,
+      "wins": 96,
+      "losses": 77,
+      "winrate": 55.49
+    },
+    "12": {
+      "total": 368,
+      "wins": 201,
+      "losses": 167,
+      "winrate": 54.62
+    }
+  },
+  "quarterly": {
+    "Q1": {
+      "total": 1833,
+      "wins": 966,
+      "losses": 867,
+      "winrate": 52.7
+    },
+    "Q2": {
+      "total": 1646,
+      "wins": 870,
+      "losses": 776,
+      "winrate": 52.86
+    },
+    "Q3": {
+      "total": 2162,
+      "wins": 1193,
+      "losses": 969,
+      "winrate": 55.18
+    },
+    "Q4": {
+      "total": 1781,
+      "wins": 944,
+      "losses": 837,
+      "winrate": 53.0
+    }
+  },
+  "race_stats": {
+    "member_race": {
+      "테란": {
+        "total": 1657,
+        "wins": 982,
+        "losses": 675,
+        "winrate": 59.26
+      },
+      "저그": {
+        "total": 3406,
+        "wins": 1736,
+        "losses": 1670,
+        "winrate": 50.97
+      },
+      "프로토스": {
+        "total": 2359,
+        "wins": 1255,
+        "losses": 1104,
+        "winrate": 53.2
+      }
+    },
+    "opponent_race": {
+      "테란": {
+        "total": 2843,
+        "wins": 1428,
+        "losses": 1415,
+        "winrate": 50.23
+      },
+      "저그": {
+        "total": 2147,
+        "wins": 1208,
+        "losses": 939,
+        "winrate": 56.26
+      },
+      "프로토스": {
+        "total": 2432,
+        "wins": 1337,
+        "losses": 1095,
+        "winrate": 54.98
+      }
+    },
+    "matchups": {
+      "테v테": {
+        "total": 29,
+        "wins": 13,
+        "losses": 16,
+        "winrate": 44.83,
+        "member_race": "테란",
+        "opponent_race": "테란"
+      },
+      "테v저": {
+        "total": 805,
+        "wins": 497,
+        "losses": 308,
+        "winrate": 61.74,
+        "member_race": "테란",
+        "opponent_race": "저그"
+      },
+      "테v프": {
+        "total": 823,
+        "wins": 472,
+        "losses": 351,
+        "winrate": 57.35,
+        "member_race": "테란",
+        "opponent_race": "프로토스"
+      },
+      "저v테": {
+        "total": 1823,
+        "wins": 894,
+        "losses": 929,
+        "winrate": 49.04,
+        "member_race": "저그",
+        "opponent_race": "테란"
+      },
+      "저v저": {
+        "total": 124,
+        "wins": 63,
+        "losses": 61,
+        "winrate": 50.81,
+        "member_race": "저그",
+        "opponent_race": "저그"
+      },
+      "저v프": {
+        "total": 1459,
+        "wins": 779,
+        "losses": 680,
+        "winrate": 53.39,
+        "member_race": "저그",
+        "opponent_race": "프로토스"
+      },
+      "프v테": {
+        "total": 991,
+        "wins": 521,
+        "losses": 470,
+        "winrate": 52.57,
+        "member_race": "프로토스",
+        "opponent_race": "테란"
+      },
+      "프v저": {
+        "total": 1218,
+        "wins": 648,
+        "losses": 570,
+        "winrate": 53.2,
+        "member_race": "프로토스",
+        "opponent_race": "저그"
+      },
+      "프v프": {
+        "total": 150,
+        "wins": 86,
+        "losses": 64,
+        "winrate": 57.33,
+        "member_race": "프로토스",
+        "opponent_race": "프로토스"
+      }
+    }
+  },
+  "map_stats": {
+    "폴리포이드": {
+      "total": 3113,
+      "wins": 1723,
+      "losses": 1390,
+      "winrate": 55.35,
+      "by_member_race": {
+        "테란": {
+          "total": 718,
+          "wins": 430,
+          "losses": 288,
+          "winrate": 59.89
+        },
+        "저그": {
+          "total": 1453,
+          "wins": 776,
+          "losses": 677,
+          "winrate": 53.41
+        },
+        "프로토스": {
+          "total": 942,
+          "wins": 517,
+          "losses": 425,
+          "winrate": 54.88
+        }
+      }
+    },
+    "라데온": {
+      "total": 2101,
+      "wins": 1105,
+      "losses": 996,
+      "winrate": 52.59,
+      "by_member_race": {
+        "테란": {
+          "total": 471,
+          "wins": 278,
+          "losses": 193,
+          "winrate": 59.02
+        },
+        "저그": {
+          "total": 980,
+          "wins": 486,
+          "losses": 494,
+          "winrate": 49.59
+        },
+        "프로토스": {
+          "total": 650,
+          "wins": 341,
+          "losses": 309,
+          "winrate": 52.46
+        }
+      }
+    },
+    "데자뷰": {
+      "total": 1088,
+      "wins": 570,
+      "losses": 518,
+      "winrate": 52.39,
+      "by_member_race": {
+        "테란": {
+          "total": 196,
+          "wins": 106,
+          "losses": 90,
+          "winrate": 54.08
+        },
+        "저그": {
+          "total": 480,
+          "wins": 247,
+          "losses": 233,
+          "winrate": 51.46
+        },
+        "프로토스": {
+          "total": 412,
+          "wins": 217,
+          "losses": 195,
+          "winrate": 52.67
+        }
+      }
+    },
+    "이클립스": {
+      "total": 430,
+      "wins": 237,
+      "losses": 193,
+      "winrate": 55.12,
+      "by_member_race": {
+        "테란": {
+          "total": 115,
+          "wins": 71,
+          "losses": 44,
+          "winrate": 61.74
+        },
+        "저그": {
+          "total": 187,
+          "wins": 101,
+          "losses": 86,
+          "winrate": 54.01
+        },
+        "프로토스": {
+          "total": 128,
+          "wins": 65,
+          "losses": 63,
+          "winrate": 50.78
+        }
+      }
+    },
+    "녹아웃": {
+      "total": 414,
+      "wins": 213,
+      "losses": 201,
+      "winrate": 51.45,
+      "by_member_race": {
+        "테란": {
+          "total": 100,
+          "wins": 64,
+          "losses": 36,
+          "winrate": 64.0
+        },
+        "저그": {
+          "total": 179,
+          "wins": 72,
+          "losses": 107,
+          "winrate": 40.22
+        },
+        "프로토스": {
+          "total": 135,
+          "wins": 77,
+          "losses": 58,
+          "winrate": 57.04
+        }
+      }
+    },
+    "리트머스": {
+      "total": 209,
+      "wins": 83,
+      "losses": 126,
+      "winrate": 39.71,
+      "by_member_race": {
+        "테란": {
+          "total": 38,
+          "wins": 19,
+          "losses": 19,
+          "winrate": 50.0
+        },
+        "저그": {
+          "total": 103,
+          "wins": 40,
+          "losses": 63,
+          "winrate": 38.83
+        },
+        "프로토스": {
+          "total": 68,
+          "wins": 24,
+          "losses": 44,
+          "winrate": 35.29
+        }
+      }
+    },
+    "도미네이터": {
+      "total": 23,
+      "wins": 16,
+      "losses": 7,
+      "winrate": 69.57,
+      "by_member_race": {
+        "테란": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "저그": {
+          "total": 5,
+          "wins": 4,
+          "losses": 1,
+          "winrate": 80.0
+        },
+        "프로토스": {
+          "total": 11,
+          "wins": 7,
+          "losses": 4,
+          "winrate": 63.64
+        }
+      }
+    },
+    "버미어": {
+      "total": 21,
+      "wins": 14,
+      "losses": 7,
+      "winrate": 66.67,
+      "by_member_race": {
+        "테란": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "저그": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "프로토스": {
+          "total": 7,
+          "wins": 4,
+          "losses": 3,
+          "winrate": 57.14
+        }
+      }
+    },
+    "투혼": {
+      "total": 8,
+      "wins": 5,
+      "losses": 3,
+      "winrate": 62.5,
+      "by_member_race": {
+        "테란": {
+          "total": 3,
+          "wins": 2,
+          "losses": 1,
+          "winrate": 66.67
+        },
+        "저그": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "프로토스": {
+          "total": 4,
+          "wins": 2,
+          "losses": 2,
+          "winrate": 50.0
+        }
+      }
+    },
+    "메트로폴리스": {
+      "total": 5,
+      "wins": 3,
+      "losses": 2,
+      "winrate": 60.0,
+      "by_member_race": {
+        "테란": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "저그": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "프로토스": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        }
+      }
+    },
+    "폴스타": {
+      "total": 2,
+      "wins": 1,
+      "losses": 1,
+      "winrate": 50.0,
+      "by_member_race": {
+        "테란": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "저그": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      }
+    },
+    "815": {
+      "total": 2,
+      "wins": 2,
+      "losses": 0,
+      "winrate": 100.0,
+      "by_member_race": {
+        "저그": {
+          "total": 2,
+          "wins": 2,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      }
+    },
+    "플라즈마": {
+      "total": 2,
+      "wins": 1,
+      "losses": 1,
+      "winrate": 50.0,
+      "by_member_race": {
+        "저그": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        }
+      }
+    },
+    "레트로": {
+      "total": 1,
+      "wins": 0,
+      "losses": 1,
+      "winrate": 0.0,
+      "by_member_race": {
+        "저그": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      }
+    },
+    "시타델": {
+      "total": 1,
+      "wins": 0,
+      "losses": 1,
+      "winrate": 0.0,
+      "by_member_race": {
+        "저그": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      }
+    },
+    "백마고지": {
+      "total": 1,
+      "wins": 0,
+      "losses": 1,
+      "winrate": 0.0,
+      "by_member_race": {
+        "저그": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      }
+    },
+    "카르타고": {
+      "total": 1,
+      "wins": 0,
+      "losses": 1,
+      "winrate": 0.0,
+      "by_member_race": {
+        "저그": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      }
+    }
+  },
+  "opponent_stats": {
+    "by_tier": {
+      "1티어": {
+        "total": 5,
+        "wins": 0,
+        "losses": 5,
+        "winrate": 0.0
+      },
+      "2티어": {
+        "total": 175,
+        "wins": 75,
+        "losses": 100,
+        "winrate": 42.86
+      },
+      "3티어": {
+        "total": 995,
+        "wins": 499,
+        "losses": 496,
+        "winrate": 50.15
+      },
+      "4티어": {
+        "total": 1880,
+        "wins": 961,
+        "losses": 919,
+        "winrate": 51.12
+      },
+      "5티어": {
+        "total": 764,
+        "wins": 443,
+        "losses": 321,
+        "winrate": 57.98
+      },
+      "6티어": {
+        "total": 1090,
+        "wins": 477,
+        "losses": 613,
+        "winrate": 43.76
+      },
+      "7티어": {
+        "total": 1212,
+        "wins": 698,
+        "losses": 514,
+        "winrate": 57.59
+      },
+      "8티어": {
+        "total": 988,
+        "wins": 616,
+        "losses": 372,
+        "winrate": 62.35
+      },
+      "베이비": {
+        "total": 296,
+        "wins": 195,
+        "losses": 101,
+        "winrate": 65.88
+      }
+    },
+    "top_opponents": [
+      {
+        "total": 223,
+        "wins": 100,
+        "losses": 123,
+        "winrate": 44.84,
+        "name": "규리야",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 195,
+        "wins": 95,
+        "losses": 100,
+        "winrate": 48.72,
+        "name": "햇살",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 119,
+        "wins": 62,
+        "losses": 57,
+        "winrate": 52.1,
+        "name": "늑대채린",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 116,
+        "wins": 58,
+        "losses": 58,
+        "winrate": 50.0,
+        "name": "밥새",
+        "race": "테란",
+        "tier": "7티어"
+      },
+      {
+        "total": 116,
+        "wins": 76,
+        "losses": 40,
+        "winrate": 65.52,
+        "name": "나예리",
+        "race": "테란",
+        "tier": "3티어"
+      },
+      {
+        "total": 113,
+        "wins": 52,
+        "losses": 61,
+        "winrate": 46.02,
+        "name": "빵리나",
+        "race": "프로토스",
+        "tier": "4티어"
+      },
+      {
+        "total": 110,
+        "wins": 43,
+        "losses": 67,
+        "winrate": 39.09,
+        "name": "태영",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 109,
+        "wins": 65,
+        "losses": 44,
+        "winrate": 59.63,
+        "name": "연애인",
+        "race": "프로토스",
+        "tier": "4티어"
+      },
+      {
+        "total": 105,
+        "wins": 60,
+        "losses": 45,
+        "winrate": 57.14,
+        "name": "최도랑",
+        "race": "프로토스",
+        "tier": "4티어"
+      },
+      {
+        "total": 105,
+        "wins": 50,
+        "losses": 55,
+        "winrate": 47.62,
+        "name": "졈니",
+        "race": "프로토스",
+        "tier": "4티어"
+      },
+      {
+        "total": 101,
+        "wins": 37,
+        "losses": 64,
+        "winrate": 36.63,
+        "name": "모꿀몬",
+        "race": "테란",
+        "tier": "2티어"
+      },
+      {
+        "total": 94,
+        "wins": 54,
+        "losses": 40,
+        "winrate": 57.45,
+        "name": "다예",
+        "race": "저그",
+        "tier": "3티어"
+      },
+      {
+        "total": 89,
+        "wins": 50,
+        "losses": 39,
+        "winrate": 56.18,
+        "name": "효짱",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 85,
+        "wins": 46,
+        "losses": 39,
+        "winrate": 54.12,
+        "name": "카히리",
+        "race": "저그",
+        "tier": "2티어"
+      },
+      {
+        "total": 84,
+        "wins": 48,
+        "losses": 36,
+        "winrate": 57.14,
+        "name": "하이현",
+        "race": "테란",
+        "tier": "7티어"
+      },
+      {
+        "total": 83,
+        "wins": 34,
+        "losses": 49,
+        "winrate": 40.96,
+        "name": "하리",
+        "race": "프로토스",
+        "tier": "3티어"
+      },
+      {
+        "total": 82,
+        "wins": 42,
+        "losses": 40,
+        "winrate": 51.22,
+        "name": "뽀누나",
+        "race": "테란",
+        "tier": "5티어"
+      },
+      {
+        "total": 82,
+        "wins": 25,
+        "losses": 57,
+        "winrate": 30.49,
+        "name": "비재희",
+        "race": "저그",
+        "tier": "6티어"
+      },
+      {
+        "total": 82,
+        "wins": 47,
+        "losses": 35,
+        "winrate": 57.32,
+        "name": "지두두",
+        "race": "테란",
+        "tier": "3티어"
+      },
+      {
+        "total": 81,
+        "wins": 26,
+        "losses": 55,
+        "winrate": 32.1,
+        "name": "모리",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 80,
+        "wins": 30,
+        "losses": 50,
+        "winrate": 37.5,
+        "name": "토마토",
+        "race": "프로토스",
+        "tier": "3티어"
+      },
+      {
+        "total": 79,
+        "wins": 39,
+        "losses": 40,
+        "winrate": 49.37,
+        "name": "뚜미언니",
+        "race": "테란",
+        "tier": "3티어"
+      },
+      {
+        "total": 78,
+        "wins": 48,
+        "losses": 30,
+        "winrate": 61.54,
+        "name": "사사삼",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 77,
+        "wins": 29,
+        "losses": 48,
+        "winrate": 37.66,
+        "name": "라미",
+        "race": "저그",
+        "tier": "3티어"
+      },
+      {
+        "total": 76,
+        "wins": 40,
+        "losses": 36,
+        "winrate": 52.63,
+        "name": "소심",
+        "race": "테란",
+        "tier": "3티어"
+      },
+      {
+        "total": 75,
+        "wins": 36,
+        "losses": 39,
+        "winrate": 48.0,
+        "name": "공다츠",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 74,
+        "wins": 46,
+        "losses": 28,
+        "winrate": 62.16,
+        "name": "김말랑",
+        "race": "테란",
+        "tier": "8티어"
+      },
+      {
+        "total": 74,
+        "wins": 47,
+        "losses": 27,
+        "winrate": 63.51,
+        "name": "하루묭",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 72,
+        "wins": 45,
+        "losses": 27,
+        "winrate": 62.5,
+        "name": "찌킹",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 71,
+        "wins": 26,
+        "losses": 45,
+        "winrate": 36.62,
+        "name": "히엉",
+        "race": "테란",
+        "tier": "2티어"
+      },
+      {
+        "total": 70,
+        "wins": 33,
+        "losses": 37,
+        "winrate": 47.14,
+        "name": "은똥",
+        "race": "프로토스",
+        "tier": "4티어"
+      },
+      {
+        "total": 70,
+        "wins": 59,
+        "losses": 11,
+        "winrate": 84.29,
+        "name": "수붕e",
+        "race": "저그",
+        "tier": "8티어"
+      },
+      {
+        "total": 69,
+        "wins": 38,
+        "losses": 31,
+        "winrate": 55.07,
+        "name": "몽순",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 68,
+        "wins": 49,
+        "losses": 19,
+        "winrate": 72.06,
+        "name": "빵지니",
+        "race": "테란",
+        "tier": "7티어"
+      },
+      {
+        "total": 65,
+        "wins": 21,
+        "losses": 44,
+        "winrate": 32.31,
+        "name": "비타밍",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 65,
+        "wins": 49,
+        "losses": 16,
+        "winrate": 75.38,
+        "name": "강덕구",
+        "race": "테란",
+        "tier": "5티어"
+      },
+      {
+        "total": 62,
+        "wins": 35,
+        "losses": 27,
+        "winrate": 56.45,
+        "name": "임조이",
+        "race": "저그",
+        "tier": "6티어"
+      },
+      {
+        "total": 62,
+        "wins": 30,
+        "losses": 32,
+        "winrate": 48.39,
+        "name": "연수",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 60,
+        "wins": 30,
+        "losses": 30,
+        "winrate": 50.0,
+        "name": "박하악",
+        "race": "저그",
+        "tier": "6티어"
+      },
+      {
+        "total": 60,
+        "wins": 23,
+        "losses": 37,
+        "winrate": 38.33,
+        "name": "짱다",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 57,
+        "wins": 42,
+        "losses": 15,
+        "winrate": 73.68,
+        "name": "루다",
+        "race": "저그",
+        "tier": "8티어"
+      },
+      {
+        "total": 57,
+        "wins": 34,
+        "losses": 23,
+        "winrate": 59.65,
+        "name": "엄보리",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 56,
+        "wins": 31,
+        "losses": 25,
+        "winrate": 55.36,
+        "name": "임밍지",
+        "race": "프로토스",
+        "tier": "5티어"
+      },
+      {
+        "total": 56,
+        "wins": 36,
+        "losses": 20,
+        "winrate": 64.29,
+        "name": "양유정",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 56,
+        "wins": 22,
+        "losses": 34,
+        "winrate": 39.29,
+        "name": "내가먼지",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 54,
+        "wins": 39,
+        "losses": 15,
+        "winrate": 72.22,
+        "name": "한쪼니",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 54,
+        "wins": 38,
+        "losses": 16,
+        "winrate": 70.37,
+        "name": "주서리",
+        "race": "프로토스",
+        "tier": "5티어"
+      },
+      {
+        "total": 53,
+        "wins": 37,
+        "losses": 16,
+        "winrate": 69.81,
+        "name": "허로아",
+        "race": "테란",
+        "tier": "8티어"
+      },
+      {
+        "total": 53,
+        "wins": 22,
+        "losses": 31,
+        "winrate": 41.51,
+        "name": "조은",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 52,
+        "wins": 19,
+        "losses": 33,
+        "winrate": 36.54,
+        "name": "링가",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 52,
+        "wins": 27,
+        "losses": 25,
+        "winrate": 51.92,
+        "name": "밍도릿",
+        "race": "저그",
+        "tier": "6티어"
+      },
+      {
+        "total": 52,
+        "wins": 23,
+        "losses": 29,
+        "winrate": 44.23,
+        "name": "슈슈",
+        "race": "저그",
+        "tier": "5티어"
+      },
+      {
+        "total": 51,
+        "wins": 17,
+        "losses": 34,
+        "winrate": 33.33,
+        "name": "김뽀뇨",
+        "race": "프로토스",
+        "tier": "3티어"
+      },
+      {
+        "total": 50,
+        "wins": 28,
+        "losses": 22,
+        "winrate": 56.0,
+        "name": "엄키키",
+        "race": "프로토스",
+        "tier": "8티어"
+      },
+      {
+        "total": 50,
+        "wins": 23,
+        "losses": 27,
+        "winrate": 46.0,
+        "name": "링고",
+        "race": "프로토스",
+        "tier": "5티어"
+      },
+      {
+        "total": 49,
+        "wins": 20,
+        "losses": 29,
+        "winrate": 40.82,
+        "name": "하랑e",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 47,
+        "wins": 21,
+        "losses": 26,
+        "winrate": 44.68,
+        "name": "구보라",
+        "race": "프로토스",
+        "tier": "3티어"
+      },
+      {
+        "total": 46,
+        "wins": 19,
+        "losses": 27,
+        "winrate": 41.3,
+        "name": "나무늘봉순",
+        "race": "저그",
+        "tier": "3티어"
+      },
+      {
+        "total": 46,
+        "wins": 32,
+        "losses": 14,
+        "winrate": 69.57,
+        "name": "김무아",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 46,
+        "wins": 19,
+        "losses": 27,
+        "winrate": 41.3,
+        "name": "우리밍",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 45,
+        "wins": 28,
+        "losses": 17,
+        "winrate": 62.22,
+        "name": "수니양",
+        "race": "테란",
+        "tier": "7티어"
+      },
+      {
+        "total": 45,
+        "wins": 22,
+        "losses": 23,
+        "winrate": 48.89,
+        "name": "금선2",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 44,
+        "wins": 11,
+        "losses": 33,
+        "winrate": 25.0,
+        "name": "으냉이",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 44,
+        "wins": 19,
+        "losses": 25,
+        "winrate": 43.18,
+        "name": "경콩",
+        "race": "테란",
+        "tier": "8티어"
+      },
+      {
+        "total": 42,
+        "wins": 17,
+        "losses": 25,
+        "winrate": 40.48,
+        "name": "뚜밥",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 42,
+        "wins": 33,
+        "losses": 9,
+        "winrate": 78.57,
+        "name": "구루미",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 42,
+        "wins": 30,
+        "losses": 12,
+        "winrate": 71.43,
+        "name": "오하얀",
+        "race": "테란",
+        "tier": "5티어"
+      },
+      {
+        "total": 41,
+        "wins": 24,
+        "losses": 17,
+        "winrate": 58.54,
+        "name": "이유란",
+        "race": "저그",
+        "tier": "3티어"
+      },
+      {
+        "total": 41,
+        "wins": 25,
+        "losses": 16,
+        "winrate": 60.98,
+        "name": "김채이",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 40,
+        "wins": 26,
+        "losses": 14,
+        "winrate": 65.0,
+        "name": "무찌",
+        "race": "테란",
+        "tier": "4티어"
+      },
+      {
+        "total": 40,
+        "wins": 19,
+        "losses": 21,
+        "winrate": 47.5,
+        "name": "선정은",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 39,
+        "wins": 15,
+        "losses": 24,
+        "winrate": 38.46,
+        "name": "뚜비",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 39,
+        "wins": 25,
+        "losses": 14,
+        "winrate": 64.1,
+        "name": "빵미유",
+        "race": "저그",
+        "tier": "6티어"
+      },
+      {
+        "total": 38,
+        "wins": 12,
+        "losses": 26,
+        "winrate": 31.58,
+        "name": "메옹이",
+        "race": "테란",
+        "tier": "7티어"
+      },
+      {
+        "total": 38,
+        "wins": 20,
+        "losses": 18,
+        "winrate": 52.63,
+        "name": "정서린",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 36,
+        "wins": 27,
+        "losses": 9,
+        "winrate": 75.0,
+        "name": "앵지",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 36,
+        "wins": 20,
+        "losses": 16,
+        "winrate": 55.56,
+        "name": "막내현진",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 36,
+        "wins": 19,
+        "losses": 17,
+        "winrate": 52.78,
+        "name": "백갑숙",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 35,
+        "wins": 18,
+        "losses": 17,
+        "winrate": 51.43,
+        "name": "밍가",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 35,
+        "wins": 22,
+        "losses": 13,
+        "winrate": 62.86,
+        "name": "김세주",
+        "race": "테란",
+        "tier": "8티어"
+      },
+      {
+        "total": 35,
+        "wins": 11,
+        "losses": 24,
+        "winrate": 31.43,
+        "name": "치리",
+        "race": "저그",
+        "tier": "5티어"
+      },
+      {
+        "total": 34,
+        "wins": 17,
+        "losses": 17,
+        "winrate": 50.0,
+        "name": "정다닝",
+        "race": "테란",
+        "tier": "8티어"
+      },
+      {
+        "total": 34,
+        "wins": 26,
+        "losses": 8,
+        "winrate": 76.47,
+        "name": "제티",
+        "race": "프로토스",
+        "tier": "7티어"
+      },
+      {
+        "total": 33,
+        "wins": 11,
+        "losses": 22,
+        "winrate": 33.33,
+        "name": "슬돌이",
+        "race": "프로토스",
+        "tier": "2티어"
+      },
+      {
+        "total": 33,
+        "wins": 10,
+        "losses": 23,
+        "winrate": 30.3,
+        "name": "남수댕",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 33,
+        "wins": 11,
+        "losses": 22,
+        "winrate": 33.33,
+        "name": "진유성",
+        "race": "프로토스",
+        "tier": "6티어"
+      },
+      {
+        "total": 32,
+        "wins": 14,
+        "losses": 18,
+        "winrate": 43.75,
+        "name": "이아깽",
+        "race": "테란",
+        "tier": "6티어"
+      },
+      {
+        "total": 31,
+        "wins": 13,
+        "losses": 18,
+        "winrate": 41.94,
+        "name": "냥수디",
+        "race": "저그",
+        "tier": "8티어"
+      },
+      {
+        "total": 31,
+        "wins": 16,
+        "losses": 15,
+        "winrate": 51.61,
+        "name": "귀요민정",
+        "race": "저그",
+        "tier": "6티어"
+      },
+      {
+        "total": 30,
+        "wins": 20,
+        "losses": 10,
+        "winrate": 66.67,
+        "name": "요닝",
+        "race": "저그",
+        "tier": "4티어"
+      },
+      {
+        "total": 30,
+        "wins": 22,
+        "losses": 8,
+        "winrate": 73.33,
+        "name": "렘레미",
+        "race": "저그",
+        "tier": "4티어"
+      }
+    ]
+  },
+  "tournament_stats": {
+    "overall": {
+      "total": 599,
+      "wins": 340,
+      "losses": 259,
+      "winrate": 56.76
+    },
+    "by_tournament": {
+      "CK": {
+        "total": 433,
+        "wins": 239,
+        "losses": 194,
+        "winrate": 55.2
+      },
+      "대학 대전": {
+        "total": 115,
+        "wins": 74,
+        "losses": 41,
+        "winrate": 64.35
+      },
+      "미니대학대전": {
+        "total": 15,
+        "wins": 9,
+        "losses": 6,
+        "winrate": 60.0
+      },
+      "LSSL": {
+        "total": 7,
+        "wins": 2,
+        "losses": 5,
+        "winrate": 28.57
+      },
+      "대회": {
+        "total": 7,
+        "wins": 6,
+        "losses": 1,
+        "winrate": 85.71
+      },
+      "개인대회": {
+        "total": 6,
+        "wins": 4,
+        "losses": 2,
+        "winrate": 66.67
+      },
+      "PL": {
+        "total": 5,
+        "wins": 3,
+        "losses": 2,
+        "winrate": 60.0
+      },
+      "이벤트": {
+        "total": 5,
+        "wins": 2,
+        "losses": 3,
+        "winrate": 40.0
+      },
+      "실력평가": {
+        "total": 4,
+        "wins": 0,
+        "losses": 4,
+        "winrate": 0.0
+      },
+      "내전": {
+        "total": 1,
+        "wins": 0,
+        "losses": 1,
+        "winrate": 0.0
+      },
+      "5/3(1)": {
+        "total": 1,
+        "wins": 1,
+        "losses": 0,
+        "winrate": 100.0
+      }
+    },
+    "by_member": [
+      {
+        "total": 82,
+        "wins": 44,
+        "losses": 38,
+        "winrate": 53.66,
+        "name": "찌킹"
+      },
+      {
+        "total": 74,
+        "wins": 39,
+        "losses": 35,
+        "winrate": 52.7,
+        "name": "슬돌이"
+      },
+      {
+        "total": 74,
+        "wins": 50,
+        "losses": 24,
+        "winrate": 67.57,
+        "name": "규리야"
+      },
+      {
+        "total": 64,
+        "wins": 40,
+        "losses": 24,
+        "winrate": 62.5,
+        "name": "박하악"
+      },
+      {
+        "total": 53,
+        "wins": 29,
+        "losses": 24,
+        "winrate": 54.72,
+        "name": "내가먼지"
+      },
+      {
+        "total": 52,
+        "wins": 25,
+        "losses": 27,
+        "winrate": 48.08,
+        "name": "김뽀뇨"
+      },
+      {
+        "total": 51,
+        "wins": 31,
+        "losses": 20,
+        "winrate": 60.78,
+        "name": "또해영"
+      },
+      {
+        "total": 34,
+        "wins": 15,
+        "losses": 19,
+        "winrate": 44.12,
+        "name": "늑대채린"
+      },
+      {
+        "total": 34,
+        "wins": 26,
+        "losses": 8,
+        "winrate": 76.47,
+        "name": "정서린"
+      },
+      {
+        "total": 32,
+        "wins": 13,
+        "losses": 19,
+        "winrate": 40.62,
+        "name": "팥순"
+      },
+      {
+        "total": 17,
+        "wins": 13,
+        "losses": 4,
+        "winrate": 76.47,
+        "name": "구루미"
+      },
+      {
+        "total": 15,
+        "wins": 9,
+        "losses": 6,
+        "winrate": 60.0,
+        "name": "냥수디"
+      },
+      {
+        "total": 15,
+        "wins": 5,
+        "losses": 10,
+        "winrate": 33.33,
+        "name": "다예나"
+      },
+      {
+        "total": 2,
+        "wins": 1,
+        "losses": 1,
+        "winrate": 50.0,
+        "name": "단비송"
+      }
+    ]
+  },
+  "member_details": {
+    "팥순": {
+      "name": "팥순",
+      "race": "프로토스",
+      "tier_start": "6티어",
+      "tier_end": "6티어",
+      "overall": {
+        "total": 510,
+        "wins": 183,
+        "losses": 327,
+        "winrate": 35.88
+      },
+      "by_type": {
+        "스폰": {
+          "total": 478,
+          "wins": 170,
+          "losses": 308,
+          "winrate": 35.56
+        },
+        "대회": {
+          "total": 32,
+          "wins": 13,
+          "losses": 19,
+          "winrate": 40.62
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 60,
+          "wins": 22,
+          "losses": 38,
+          "winrate": 36.67
+        },
+        "2": {
+          "total": 38,
+          "wins": 17,
+          "losses": 21,
+          "winrate": 44.74
+        },
+        "3": {
+          "total": 60,
+          "wins": 26,
+          "losses": 34,
+          "winrate": 43.33
+        },
+        "4": {
+          "total": 44,
+          "wins": 16,
+          "losses": 28,
+          "winrate": 36.36
+        },
+        "5": {
+          "total": 57,
+          "wins": 18,
+          "losses": 39,
+          "winrate": 31.58
+        },
+        "6": {
+          "total": 43,
+          "wins": 16,
+          "losses": 27,
+          "winrate": 37.21
+        },
+        "7": {
+          "total": 31,
+          "wins": 10,
+          "losses": 21,
+          "winrate": 32.26
+        },
+        "8": {
+          "total": 21,
+          "wins": 4,
+          "losses": 17,
+          "winrate": 19.05
+        },
+        "9": {
+          "total": 59,
+          "wins": 19,
+          "losses": 40,
+          "winrate": 32.2
+        },
+        "10": {
+          "total": 49,
+          "wins": 17,
+          "losses": 32,
+          "winrate": 34.69
+        },
+        "11": {
+          "total": 10,
+          "wins": 4,
+          "losses": 6,
+          "winrate": 40.0
+        },
+        "12": {
+          "total": 38,
+          "wins": 14,
+          "losses": 24,
+          "winrate": 36.84
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 158,
+          "wins": 65,
+          "losses": 93,
+          "winrate": 41.14
+        },
+        "Q2": {
+          "total": 144,
+          "wins": 50,
+          "losses": 94,
+          "winrate": 34.72
+        },
+        "Q3": {
+          "total": 111,
+          "wins": 33,
+          "losses": 78,
+          "winrate": 29.73
+        },
+        "Q4": {
+          "total": 97,
+          "wins": 35,
+          "losses": 62,
+          "winrate": 36.08
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 207,
+          "wins": 85,
+          "losses": 122,
+          "winrate": 41.06
+        },
+        "저그": {
+          "total": 284,
+          "wins": 90,
+          "losses": 194,
+          "winrate": 31.69
+        },
+        "프로토스": {
+          "total": 19,
+          "wins": 8,
+          "losses": 11,
+          "winrate": 42.11
+        }
+      },
+      "by_map": {
+        "라데온": {
+          "total": 179,
+          "wins": 68,
+          "losses": 111,
+          "winrate": 37.99
+        },
+        "폴리포이드": {
+          "total": 175,
+          "wins": 64,
+          "losses": 111,
+          "winrate": 36.57
+        },
+        "데자뷰": {
+          "total": 91,
+          "wins": 33,
+          "losses": 58,
+          "winrate": 36.26
+        },
+        "이클립스": {
+          "total": 32,
+          "wins": 7,
+          "losses": 25,
+          "winrate": 21.88
+        },
+        "녹아웃": {
+          "total": 20,
+          "wins": 8,
+          "losses": 12,
+          "winrate": 40.0
+        },
+        "리트머스": {
+          "total": 12,
+          "wins": 2,
+          "losses": 10,
+          "winrate": 16.67
+        },
+        "버미어": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "vs_tier": {
+        "4티어": {
+          "total": 10,
+          "wins": 2,
+          "losses": 8,
+          "winrate": 20.0
+        },
+        "5티어": {
+          "total": 63,
+          "wins": 24,
+          "losses": 39,
+          "winrate": 38.1
+        },
+        "6티어": {
+          "total": 428,
+          "wins": 152,
+          "losses": 276,
+          "winrate": 35.51
+        },
+        "7티어": {
+          "total": 8,
+          "wins": 5,
+          "losses": 3,
+          "winrate": 62.5
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 68,
+          "wins": 18,
+          "losses": 50,
+          "winrate": 26.47,
+          "name": "비재희",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 43,
+          "wins": 23,
+          "losses": 20,
+          "winrate": 53.49,
+          "name": "밍도릿",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 42,
+          "wins": 14,
+          "losses": 28,
+          "winrate": 33.33,
+          "name": "연수",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 33,
+          "wins": 9,
+          "losses": 24,
+          "winrate": 27.27,
+          "name": "슈슈",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 30,
+          "wins": 15,
+          "losses": 15,
+          "winrate": 50.0,
+          "name": "뽀누나",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 28,
+          "wins": 7,
+          "losses": 21,
+          "winrate": 25.0,
+          "name": "치리",
+          "race": "저그",
+          "tier": "5티어"
+        },
+        {
+          "total": 25,
+          "wins": 10,
+          "losses": 15,
+          "winrate": 40.0,
+          "name": "귀요민정",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 25,
+          "wins": 10,
+          "losses": 15,
+          "winrate": 40.0,
+          "name": "뚜비",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 23,
+          "wins": 10,
+          "losses": 13,
+          "winrate": 43.48,
+          "name": "이아깽",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 22,
+          "wins": 8,
+          "losses": 14,
+          "winrate": 36.36,
+          "name": "서윤",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 21,
+          "wins": 8,
+          "losses": 13,
+          "winrate": 38.1,
+          "name": "링가",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 18,
+          "wins": 4,
+          "losses": 14,
+          "winrate": 22.22,
+          "name": "시녕뭉",
+          "race": "저그",
+          "tier": "5티어"
+        },
+        {
+          "total": 17,
+          "wins": 7,
+          "losses": 10,
+          "winrate": 41.18,
+          "name": "최세상",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 12,
+          "wins": 3,
+          "losses": 9,
+          "winrate": 25.0,
+          "name": "히댕",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 11,
+          "wins": 4,
+          "losses": 7,
+          "winrate": 36.36,
+          "name": "소주양",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 10,
+          "wins": 3,
+          "losses": 7,
+          "winrate": 30.0,
+          "name": "유이",
+          "race": "테란",
+          "tier": "5티어"
+        }
+      ]
+    },
+    "슬돌이": {
+      "name": "슬돌이",
+      "race": "프로토스",
+      "tier_start": "3티어",
+      "tier_end": "2티어",
+      "overall": {
+        "total": 442,
+        "wins": 256,
+        "losses": 186,
+        "winrate": 57.92
+      },
+      "by_type": {
+        "스폰": {
+          "total": 368,
+          "wins": 217,
+          "losses": 151,
+          "winrate": 58.97
+        },
+        "대회": {
+          "total": 74,
+          "wins": 39,
+          "losses": 35,
+          "winrate": 52.7
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 58,
+          "wins": 31,
+          "losses": 27,
+          "winrate": 53.45
+        },
+        "2": {
+          "total": 42,
+          "wins": 25,
+          "losses": 17,
+          "winrate": 59.52
+        },
+        "3": {
+          "total": 49,
+          "wins": 34,
+          "losses": 15,
+          "winrate": 69.39
+        },
+        "4": {
+          "total": 32,
+          "wins": 17,
+          "losses": 15,
+          "winrate": 53.12
+        },
+        "5": {
+          "total": 42,
+          "wins": 22,
+          "losses": 20,
+          "winrate": 52.38
+        },
+        "6": {
+          "total": 30,
+          "wins": 17,
+          "losses": 13,
+          "winrate": 56.67
+        },
+        "7": {
+          "total": 11,
+          "wins": 6,
+          "losses": 5,
+          "winrate": 54.55
+        },
+        "8": {
+          "total": 2,
+          "wins": 2,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "9": {
+          "total": 81,
+          "wins": 45,
+          "losses": 36,
+          "winrate": 55.56
+        },
+        "10": {
+          "total": 53,
+          "wins": 35,
+          "losses": 18,
+          "winrate": 66.04
+        },
+        "11": {
+          "total": 16,
+          "wins": 9,
+          "losses": 7,
+          "winrate": 56.25
+        },
+        "12": {
+          "total": 26,
+          "wins": 13,
+          "losses": 13,
+          "winrate": 50.0
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 149,
+          "wins": 90,
+          "losses": 59,
+          "winrate": 60.4
+        },
+        "Q2": {
+          "total": 104,
+          "wins": 56,
+          "losses": 48,
+          "winrate": 53.85
+        },
+        "Q3": {
+          "total": 94,
+          "wins": 53,
+          "losses": 41,
+          "winrate": 56.38
+        },
+        "Q4": {
+          "total": 95,
+          "wins": 57,
+          "losses": 38,
+          "winrate": 60.0
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 207,
+          "wins": 119,
+          "losses": 88,
+          "winrate": 57.49
+        },
+        "저그": {
+          "total": 199,
+          "wins": 112,
+          "losses": 87,
+          "winrate": 56.28
+        },
+        "프로토스": {
+          "total": 36,
+          "wins": 25,
+          "losses": 11,
+          "winrate": 69.44
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 148,
+          "wins": 85,
+          "losses": 63,
+          "winrate": 57.43
+        },
+        "라데온": {
+          "total": 126,
+          "wins": 75,
+          "losses": 51,
+          "winrate": 59.52
+        },
+        "데자뷰": {
+          "total": 83,
+          "wins": 48,
+          "losses": 35,
+          "winrate": 57.83
+        },
+        "이클립스": {
+          "total": 37,
+          "wins": 22,
+          "losses": 15,
+          "winrate": 59.46
+        },
+        "녹아웃": {
+          "total": 28,
+          "wins": 17,
+          "losses": 11,
+          "winrate": 60.71
+        },
+        "리트머스": {
+          "total": 11,
+          "wins": 4,
+          "losses": 7,
+          "winrate": 36.36
+        },
+        "도미네이터": {
+          "total": 5,
+          "wins": 3,
+          "losses": 2,
+          "winrate": 60.0
+        },
+        "버미어": {
+          "total": 4,
+          "wins": 2,
+          "losses": 2,
+          "winrate": 50.0
+        }
+      },
+      "vs_tier": {
+        "2티어": {
+          "total": 87,
+          "wins": 44,
+          "losses": 43,
+          "winrate": 50.57
+        },
+        "3티어": {
+          "total": 300,
+          "wins": 174,
+          "losses": 126,
+          "winrate": 58.0
+        },
+        "4티어": {
+          "total": 53,
+          "wins": 36,
+          "losses": 17,
+          "winrate": 67.92
+        },
+        "5티어": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "8티어": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 63,
+          "wins": 36,
+          "losses": 27,
+          "winrate": 57.14,
+          "name": "카히리",
+          "race": "저그",
+          "tier": "2티어"
+        },
+        {
+          "total": 44,
+          "wins": 18,
+          "losses": 26,
+          "winrate": 40.91,
+          "name": "히엉",
+          "race": "테란",
+          "tier": "2티어"
+        },
+        {
+          "total": 41,
+          "wins": 17,
+          "losses": 24,
+          "winrate": 41.46,
+          "name": "모꿀몬",
+          "race": "테란",
+          "tier": "2티어"
+        },
+        {
+          "total": 34,
+          "wins": 23,
+          "losses": 11,
+          "winrate": 67.65,
+          "name": "나예리",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 32,
+          "wins": 18,
+          "losses": 14,
+          "winrate": 56.25,
+          "name": "소심",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 27,
+          "wins": 10,
+          "losses": 17,
+          "winrate": 37.04,
+          "name": "라미",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 25,
+          "wins": 14,
+          "losses": 11,
+          "winrate": 56.0,
+          "name": "다예",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 19,
+          "wins": 16,
+          "losses": 3,
+          "winrate": 84.21,
+          "name": "지두두",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 16,
+          "wins": 6,
+          "losses": 10,
+          "winrate": 37.5,
+          "name": "또봉순",
+          "race": "저그",
+          "tier": "2티어"
+        },
+        {
+          "total": 12,
+          "wins": 8,
+          "losses": 4,
+          "winrate": 66.67,
+          "name": "늑대채린",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 12,
+          "wins": 6,
+          "losses": 6,
+          "winrate": 50.0,
+          "name": "뚜미언니",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 10,
+          "wins": 9,
+          "losses": 1,
+          "winrate": 90.0,
+          "name": "규리야",
+          "race": "테란",
+          "tier": "4티어"
+        }
+      ]
+    },
+    "김뽀뇨": {
+      "name": "김뽀뇨",
+      "race": "프로토스",
+      "tier_start": "3티어",
+      "tier_end": "3티어",
+      "overall": {
+        "total": 625,
+        "wins": 316,
+        "losses": 309,
+        "winrate": 50.56
+      },
+      "by_type": {
+        "스폰": {
+          "total": 573,
+          "wins": 291,
+          "losses": 282,
+          "winrate": 50.79
+        },
+        "대회": {
+          "total": 52,
+          "wins": 25,
+          "losses": 27,
+          "winrate": 48.08
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 73,
+          "wins": 37,
+          "losses": 36,
+          "winrate": 50.68
+        },
+        "2": {
+          "total": 84,
+          "wins": 38,
+          "losses": 46,
+          "winrate": 45.24
+        },
+        "3": {
+          "total": 61,
+          "wins": 33,
+          "losses": 28,
+          "winrate": 54.1
+        },
+        "4": {
+          "total": 77,
+          "wins": 41,
+          "losses": 36,
+          "winrate": 53.25
+        },
+        "5": {
+          "total": 46,
+          "wins": 24,
+          "losses": 22,
+          "winrate": 52.17
+        },
+        "6": {
+          "total": 36,
+          "wins": 20,
+          "losses": 16,
+          "winrate": 55.56
+        },
+        "7": {
+          "total": 25,
+          "wins": 13,
+          "losses": 12,
+          "winrate": 52.0
+        },
+        "8": {
+          "total": 40,
+          "wins": 22,
+          "losses": 18,
+          "winrate": 55.0
+        },
+        "9": {
+          "total": 65,
+          "wins": 33,
+          "losses": 32,
+          "winrate": 50.77
+        },
+        "10": {
+          "total": 95,
+          "wins": 42,
+          "losses": 53,
+          "winrate": 44.21
+        },
+        "11": {
+          "total": 12,
+          "wins": 5,
+          "losses": 7,
+          "winrate": 41.67
+        },
+        "12": {
+          "total": 11,
+          "wins": 8,
+          "losses": 3,
+          "winrate": 72.73
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 218,
+          "wins": 108,
+          "losses": 110,
+          "winrate": 49.54
+        },
+        "Q2": {
+          "total": 159,
+          "wins": 85,
+          "losses": 74,
+          "winrate": 53.46
+        },
+        "Q3": {
+          "total": 130,
+          "wins": 68,
+          "losses": 62,
+          "winrate": 52.31
+        },
+        "Q4": {
+          "total": 118,
+          "wins": 55,
+          "losses": 63,
+          "winrate": 46.61
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 300,
+          "wins": 157,
+          "losses": 143,
+          "winrate": 52.33
+        },
+        "저그": {
+          "total": 298,
+          "wins": 149,
+          "losses": 149,
+          "winrate": 50.0
+        },
+        "프로토스": {
+          "total": 27,
+          "wins": 10,
+          "losses": 17,
+          "winrate": 37.04
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 181,
+          "wins": 83,
+          "losses": 98,
+          "winrate": 45.86
+        },
+        "라데온": {
+          "total": 168,
+          "wins": 92,
+          "losses": 76,
+          "winrate": 54.76
+        },
+        "데자뷰": {
+          "total": 138,
+          "wins": 71,
+          "losses": 67,
+          "winrate": 51.45
+        },
+        "이클립스": {
+          "total": 59,
+          "wins": 36,
+          "losses": 23,
+          "winrate": 61.02
+        },
+        "녹아웃": {
+          "total": 40,
+          "wins": 18,
+          "losses": 22,
+          "winrate": 45.0
+        },
+        "리트머스": {
+          "total": 29,
+          "wins": 10,
+          "losses": 19,
+          "winrate": 34.48
+        },
+        "도미네이터": {
+          "total": 5,
+          "wins": 3,
+          "losses": 2,
+          "winrate": 60.0
+        },
+        "투혼": {
+          "total": 3,
+          "wins": 2,
+          "losses": 1,
+          "winrate": 66.67
+        },
+        "버미어": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        }
+      },
+      "vs_tier": {
+        "2티어": {
+          "total": 69,
+          "wins": 23,
+          "losses": 46,
+          "winrate": 33.33
+        },
+        "3티어": {
+          "total": 467,
+          "wins": 234,
+          "losses": 233,
+          "winrate": 50.11
+        },
+        "4티어": {
+          "total": 87,
+          "wins": 58,
+          "losses": 29,
+          "winrate": 66.67
+        },
+        "5티어": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 65,
+          "wins": 45,
+          "losses": 20,
+          "winrate": 69.23,
+          "name": "나예리",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 65,
+          "wins": 40,
+          "losses": 25,
+          "winrate": 61.54,
+          "name": "다예",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 49,
+          "wins": 16,
+          "losses": 33,
+          "winrate": 32.65,
+          "name": "모꿀몬",
+          "race": "테란",
+          "tier": "2티어"
+        },
+        {
+          "total": 44,
+          "wins": 23,
+          "losses": 21,
+          "winrate": 52.27,
+          "name": "지두두",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 44,
+          "wins": 22,
+          "losses": 22,
+          "winrate": 50.0,
+          "name": "소심",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 42,
+          "wins": 15,
+          "losses": 27,
+          "winrate": 35.71,
+          "name": "나무늘봉순",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 42,
+          "wins": 17,
+          "losses": 25,
+          "winrate": 40.48,
+          "name": "라미",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 32,
+          "wins": 18,
+          "losses": 14,
+          "winrate": 56.25,
+          "name": "이유란",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 25,
+          "wins": 19,
+          "losses": 6,
+          "winrate": 76.0,
+          "name": "규리야",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 23,
+          "wins": 11,
+          "losses": 12,
+          "winrate": 47.83,
+          "name": "뚜미언니",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 22,
+          "wins": 7,
+          "losses": 15,
+          "winrate": 31.82,
+          "name": "히엉",
+          "race": "테란",
+          "tier": "2티어"
+        },
+        {
+          "total": 20,
+          "wins": 10,
+          "losses": 10,
+          "winrate": 50.0,
+          "name": "카히리",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 19,
+          "wins": 10,
+          "losses": 9,
+          "winrate": 52.63,
+          "name": "늑대채린",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 17,
+          "wins": 10,
+          "losses": 7,
+          "winrate": 58.82,
+          "name": "야리",
+          "race": "저그",
+          "tier": "3티어"
+        },
+        {
+          "total": 12,
+          "wins": 3,
+          "losses": 9,
+          "winrate": 25.0,
+          "name": "뚜미",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 12,
+          "wins": 10,
+          "losses": 2,
+          "winrate": 83.33,
+          "name": "앵지",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 11,
+          "wins": 6,
+          "losses": 5,
+          "winrate": 54.55,
+          "name": "쥬나",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 10,
+          "wins": 3,
+          "losses": 7,
+          "winrate": 30.0,
+          "name": "파찌",
+          "race": "저그",
+          "tier": "3티어"
+        }
+      ]
+    },
+    "찌킹": {
+      "name": "찌킹",
+      "race": "저그",
+      "tier_start": "5티어",
+      "tier_end": "4티어",
+      "overall": {
+        "total": 729,
+        "wins": 361,
+        "losses": 368,
+        "winrate": 49.52
+      },
+      "by_type": {
+        "스폰": {
+          "total": 647,
+          "wins": 317,
+          "losses": 330,
+          "winrate": 49.0
+        },
+        "대회": {
+          "total": 82,
+          "wins": 44,
+          "losses": 38,
+          "winrate": 53.66
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 79,
+          "wins": 54,
+          "losses": 25,
+          "winrate": 68.35
+        },
+        "2": {
+          "total": 71,
+          "wins": 32,
+          "losses": 39,
+          "winrate": 45.07
+        },
+        "3": {
+          "total": 100,
+          "wins": 45,
+          "losses": 55,
+          "winrate": 45.0
+        },
+        "4": {
+          "total": 74,
+          "wins": 36,
+          "losses": 38,
+          "winrate": 48.65
+        },
+        "5": {
+          "total": 60,
+          "wins": 27,
+          "losses": 33,
+          "winrate": 45.0
+        },
+        "6": {
+          "total": 46,
+          "wins": 18,
+          "losses": 28,
+          "winrate": 39.13
+        },
+        "7": {
+          "total": 60,
+          "wins": 32,
+          "losses": 28,
+          "winrate": 53.33
+        },
+        "8": {
+          "total": 34,
+          "wins": 19,
+          "losses": 15,
+          "winrate": 55.88
+        },
+        "9": {
+          "total": 66,
+          "wins": 32,
+          "losses": 34,
+          "winrate": 48.48
+        },
+        "10": {
+          "total": 71,
+          "wins": 29,
+          "losses": 42,
+          "winrate": 40.85
+        },
+        "11": {
+          "total": 26,
+          "wins": 14,
+          "losses": 12,
+          "winrate": 53.85
+        },
+        "12": {
+          "total": 42,
+          "wins": 23,
+          "losses": 19,
+          "winrate": 54.76
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 250,
+          "wins": 131,
+          "losses": 119,
+          "winrate": 52.4
+        },
+        "Q2": {
+          "total": 180,
+          "wins": 81,
+          "losses": 99,
+          "winrate": 45.0
+        },
+        "Q3": {
+          "total": 160,
+          "wins": 83,
+          "losses": 77,
+          "winrate": 51.88
+        },
+        "Q4": {
+          "total": 139,
+          "wins": 66,
+          "losses": 73,
+          "winrate": 47.48
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 382,
+          "wins": 199,
+          "losses": 183,
+          "winrate": 52.09
+        },
+        "저그": {
+          "total": 45,
+          "wins": 21,
+          "losses": 24,
+          "winrate": 46.67
+        },
+        "프로토스": {
+          "total": 302,
+          "wins": 141,
+          "losses": 161,
+          "winrate": 46.69
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 291,
+          "wins": 157,
+          "losses": 134,
+          "winrate": 53.95
+        },
+        "라데온": {
+          "total": 187,
+          "wins": 97,
+          "losses": 90,
+          "winrate": 51.87
+        },
+        "데자뷰": {
+          "total": 111,
+          "wins": 49,
+          "losses": 62,
+          "winrate": 44.14
+        },
+        "이클립스": {
+          "total": 64,
+          "wins": 31,
+          "losses": 33,
+          "winrate": 48.44
+        },
+        "녹아웃": {
+          "total": 41,
+          "wins": 14,
+          "losses": 27,
+          "winrate": 34.15
+        },
+        "리트머스": {
+          "total": 27,
+          "wins": 9,
+          "losses": 18,
+          "winrate": 33.33
+        },
+        "버미어": {
+          "total": 5,
+          "wins": 3,
+          "losses": 2,
+          "winrate": 60.0
+        },
+        "도미네이터": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "시타델": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      },
+      "vs_tier": {
+        "1티어": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        },
+        "2티어": {
+          "total": 15,
+          "wins": 6,
+          "losses": 9,
+          "winrate": 40.0
+        },
+        "3티어": {
+          "total": 39,
+          "wins": 15,
+          "losses": 24,
+          "winrate": 38.46
+        },
+        "4티어": {
+          "total": 461,
+          "wins": 202,
+          "losses": 259,
+          "winrate": 43.82
+        },
+        "5티어": {
+          "total": 174,
+          "wins": 106,
+          "losses": 68,
+          "winrate": 60.92
+        },
+        "6티어": {
+          "total": 36,
+          "wins": 31,
+          "losses": 5,
+          "winrate": 86.11
+        },
+        "7티어": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 94,
+          "wins": 49,
+          "losses": 45,
+          "winrate": 52.13,
+          "name": "햇살",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 58,
+          "wins": 19,
+          "losses": 39,
+          "winrate": 32.76,
+          "name": "규리야",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 44,
+          "wins": 18,
+          "losses": 26,
+          "winrate": 40.91,
+          "name": "태영",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 43,
+          "wins": 22,
+          "losses": 21,
+          "winrate": 51.16,
+          "name": "최도랑",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 36,
+          "wins": 16,
+          "losses": 20,
+          "winrate": 44.44,
+          "name": "조은",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 33,
+          "wins": 17,
+          "losses": 16,
+          "winrate": 51.52,
+          "name": "연애인",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 29,
+          "wins": 17,
+          "losses": 12,
+          "winrate": 58.62,
+          "name": "임밍지",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 28,
+          "wins": 8,
+          "losses": 20,
+          "winrate": 28.57,
+          "name": "졈니",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 27,
+          "wins": 8,
+          "losses": 19,
+          "winrate": 29.63,
+          "name": "토마토",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 26,
+          "wins": 9,
+          "losses": 17,
+          "winrate": 34.62,
+          "name": "빵리나",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 23,
+          "wins": 11,
+          "losses": 12,
+          "winrate": 47.83,
+          "name": "링고",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 23,
+          "wins": 18,
+          "losses": 5,
+          "winrate": 78.26,
+          "name": "강덕구",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 20,
+          "wins": 9,
+          "losses": 11,
+          "winrate": 45.0,
+          "name": "은똥",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 16,
+          "wins": 5,
+          "losses": 11,
+          "winrate": 31.25,
+          "name": "우리밍",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 15,
+          "wins": 9,
+          "losses": 6,
+          "winrate": 60.0,
+          "name": "뚜미언니",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 14,
+          "wins": 10,
+          "losses": 4,
+          "winrate": 71.43,
+          "name": "무찌",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 13,
+          "wins": 2,
+          "losses": 11,
+          "winrate": 15.38,
+          "name": "하리",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 13,
+          "wins": 13,
+          "losses": 0,
+          "winrate": 100.0,
+          "name": "연수",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 13,
+          "wins": 8,
+          "losses": 5,
+          "winrate": 61.54,
+          "name": "금선2",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 11,
+          "wins": 4,
+          "losses": 7,
+          "winrate": 36.36,
+          "name": "구보라",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 11,
+          "wins": 11,
+          "losses": 0,
+          "winrate": 100.0,
+          "name": "주서리",
+          "race": "프로토스",
+          "tier": "5티어"
+        }
+      ]
+    },
+    "구루미": {
+      "name": "구루미",
+      "race": "저그",
+      "tier_start": "5티어",
+      "tier_end": "4티어",
+      "overall": {
+        "total": 340,
+        "wins": 149,
+        "losses": 191,
+        "winrate": 43.82
+      },
+      "by_type": {
+        "스폰": {
+          "total": 323,
+          "wins": 136,
+          "losses": 187,
+          "winrate": 42.11
+        },
+        "대회": {
+          "total": 17,
+          "wins": 13,
+          "losses": 4,
+          "winrate": 76.47
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 11,
+          "wins": 4,
+          "losses": 7,
+          "winrate": 36.36
+        },
+        "2": {
+          "total": 57,
+          "wins": 27,
+          "losses": 30,
+          "winrate": 47.37
+        },
+        "3": {
+          "total": 48,
+          "wins": 28,
+          "losses": 20,
+          "winrate": 58.33
+        },
+        "4": {
+          "total": 25,
+          "wins": 10,
+          "losses": 15,
+          "winrate": 40.0
+        },
+        "5": {
+          "total": 35,
+          "wins": 17,
+          "losses": 18,
+          "winrate": 48.57
+        },
+        "6": {
+          "total": 27,
+          "wins": 18,
+          "losses": 9,
+          "winrate": 66.67
+        },
+        "7": {
+          "total": 19,
+          "wins": 11,
+          "losses": 8,
+          "winrate": 57.89
+        },
+        "8": {
+          "total": 6,
+          "wins": 3,
+          "losses": 3,
+          "winrate": 50.0
+        },
+        "9": {
+          "total": 60,
+          "wins": 17,
+          "losses": 43,
+          "winrate": 28.33
+        },
+        "10": {
+          "total": 46,
+          "wins": 11,
+          "losses": 35,
+          "winrate": 23.91
+        },
+        "12": {
+          "total": 6,
+          "wins": 3,
+          "losses": 3,
+          "winrate": 50.0
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 116,
+          "wins": 59,
+          "losses": 57,
+          "winrate": 50.86
+        },
+        "Q2": {
+          "total": 87,
+          "wins": 45,
+          "losses": 42,
+          "winrate": 51.72
+        },
+        "Q3": {
+          "total": 85,
+          "wins": 31,
+          "losses": 54,
+          "winrate": 36.47
+        },
+        "Q4": {
+          "total": 52,
+          "wins": 14,
+          "losses": 38,
+          "winrate": 26.92
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 197,
+          "wins": 77,
+          "losses": 120,
+          "winrate": 39.09
+        },
+        "저그": {
+          "total": 5,
+          "wins": 2,
+          "losses": 3,
+          "winrate": 40.0
+        },
+        "프로토스": {
+          "total": 138,
+          "wins": 70,
+          "losses": 68,
+          "winrate": 50.72
+        }
+      },
+      "by_map": {
+        "라데온": {
+          "total": 130,
+          "wins": 60,
+          "losses": 70,
+          "winrate": 46.15
+        },
+        "폴리포이드": {
+          "total": 129,
+          "wins": 53,
+          "losses": 76,
+          "winrate": 41.09
+        },
+        "데자뷰": {
+          "total": 44,
+          "wins": 23,
+          "losses": 21,
+          "winrate": 52.27
+        },
+        "녹아웃": {
+          "total": 17,
+          "wins": 3,
+          "losses": 14,
+          "winrate": 17.65
+        },
+        "이클립스": {
+          "total": 11,
+          "wins": 5,
+          "losses": 6,
+          "winrate": 45.45
+        },
+        "리트머스": {
+          "total": 7,
+          "wins": 4,
+          "losses": 3,
+          "winrate": 57.14
+        },
+        "도미네이터": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "레트로": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      },
+      "vs_tier": {
+        "3티어": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        },
+        "4티어": {
+          "total": 158,
+          "wins": 50,
+          "losses": 108,
+          "winrate": 31.65
+        },
+        "5티어": {
+          "total": 177,
+          "wins": 97,
+          "losses": 80,
+          "winrate": 54.8
+        },
+        "6티어": {
+          "total": 4,
+          "wins": 2,
+          "losses": 2,
+          "winrate": 50.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 41,
+          "wins": 9,
+          "losses": 32,
+          "winrate": 21.95,
+          "name": "규리야",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 30,
+          "wins": 12,
+          "losses": 18,
+          "winrate": 40.0,
+          "name": "태영",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 29,
+          "wins": 21,
+          "losses": 8,
+          "winrate": 72.41,
+          "name": "오하얀",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 28,
+          "wins": 14,
+          "losses": 14,
+          "winrate": 50.0,
+          "name": "연애인",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 28,
+          "wins": 9,
+          "losses": 19,
+          "winrate": 32.14,
+          "name": "햇살",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 22,
+          "wins": 6,
+          "losses": 16,
+          "winrate": 27.27,
+          "name": "금선2",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 19,
+          "wins": 12,
+          "losses": 7,
+          "winrate": 63.16,
+          "name": "주서리",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 15,
+          "wins": 10,
+          "losses": 5,
+          "winrate": 66.67,
+          "name": "라운이",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 12,
+          "wins": 9,
+          "losses": 3,
+          "winrate": 75.0,
+          "name": "뽀누나",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 12,
+          "wins": 5,
+          "losses": 7,
+          "winrate": 41.67,
+          "name": "졈니",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 10,
+          "wins": 6,
+          "losses": 4,
+          "winrate": 60.0,
+          "name": "묘아",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 10,
+          "wins": 6,
+          "losses": 4,
+          "winrate": 60.0,
+          "name": "설둥이",
+          "race": "프로토스",
+          "tier": "5티어"
+        }
+      ]
+    },
+    "규리야": {
+      "name": "규리야",
+      "race": "테란",
+      "tier_start": "5티어",
+      "tier_end": "4티어",
+      "overall": {
+        "total": 992,
+        "wins": 580,
+        "losses": 412,
+        "winrate": 58.47
+      },
+      "by_type": {
+        "스폰": {
+          "total": 918,
+          "wins": 530,
+          "losses": 388,
+          "winrate": 57.73
+        },
+        "대회": {
+          "total": 74,
+          "wins": 50,
+          "losses": 24,
+          "winrate": 67.57
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 95,
+          "wins": 55,
+          "losses": 40,
+          "winrate": 57.89
+        },
+        "2": {
+          "total": 93,
+          "wins": 54,
+          "losses": 39,
+          "winrate": 58.06
+        },
+        "3": {
+          "total": 125,
+          "wins": 62,
+          "losses": 63,
+          "winrate": 49.6
+        },
+        "4": {
+          "total": 73,
+          "wins": 41,
+          "losses": 32,
+          "winrate": 56.16
+        },
+        "5": {
+          "total": 63,
+          "wins": 34,
+          "losses": 29,
+          "winrate": 53.97
+        },
+        "6": {
+          "total": 62,
+          "wins": 39,
+          "losses": 23,
+          "winrate": 62.9
+        },
+        "7": {
+          "total": 66,
+          "wins": 37,
+          "losses": 29,
+          "winrate": 56.06
+        },
+        "8": {
+          "total": 59,
+          "wins": 41,
+          "losses": 18,
+          "winrate": 69.49
+        },
+        "9": {
+          "total": 138,
+          "wins": 80,
+          "losses": 58,
+          "winrate": 57.97
+        },
+        "10": {
+          "total": 174,
+          "wins": 107,
+          "losses": 67,
+          "winrate": 61.49
+        },
+        "11": {
+          "total": 4,
+          "wins": 3,
+          "losses": 1,
+          "winrate": 75.0
+        },
+        "12": {
+          "total": 40,
+          "wins": 27,
+          "losses": 13,
+          "winrate": 67.5
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 313,
+          "wins": 171,
+          "losses": 142,
+          "winrate": 54.63
+        },
+        "Q2": {
+          "total": 198,
+          "wins": 114,
+          "losses": 84,
+          "winrate": 57.58
+        },
+        "Q3": {
+          "total": 263,
+          "wins": 158,
+          "losses": 105,
+          "winrate": 60.08
+        },
+        "Q4": {
+          "total": 218,
+          "wins": 137,
+          "losses": 81,
+          "winrate": 62.84
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 24,
+          "wins": 9,
+          "losses": 15,
+          "winrate": 37.5
+        },
+        "저그": {
+          "total": 489,
+          "wins": 308,
+          "losses": 181,
+          "winrate": 62.99
+        },
+        "프로토스": {
+          "total": 479,
+          "wins": 263,
+          "losses": 216,
+          "winrate": 54.91
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 368,
+          "wins": 227,
+          "losses": 141,
+          "winrate": 61.68
+        },
+        "라데온": {
+          "total": 271,
+          "wins": 155,
+          "losses": 116,
+          "winrate": 57.2
+        },
+        "데자뷰": {
+          "total": 161,
+          "wins": 83,
+          "losses": 78,
+          "winrate": 51.55
+        },
+        "이클립스": {
+          "total": 73,
+          "wins": 43,
+          "losses": 30,
+          "winrate": 58.9
+        },
+        "녹아웃": {
+          "total": 72,
+          "wins": 46,
+          "losses": 26,
+          "winrate": 63.89
+        },
+        "리트머스": {
+          "total": 31,
+          "wins": 14,
+          "losses": 17,
+          "winrate": 45.16
+        },
+        "도미네이터": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "버미어": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "메트로폴리스": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "폴스타": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "vs_tier": {
+        "1티어": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        },
+        "2티어": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "3티어": {
+          "total": 89,
+          "wins": 33,
+          "losses": 56,
+          "winrate": 37.08
+        },
+        "4티어": {
+          "total": 708,
+          "wins": 432,
+          "losses": 276,
+          "winrate": 61.02
+        },
+        "5티어": {
+          "total": 174,
+          "wins": 103,
+          "losses": 71,
+          "winrate": 59.2
+        },
+        "6티어": {
+          "total": 17,
+          "wins": 10,
+          "losses": 7,
+          "winrate": 58.82
+        },
+        "7티어": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 86,
+          "wins": 44,
+          "losses": 42,
+          "winrate": 51.16,
+          "name": "늑대채린",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 65,
+          "wins": 35,
+          "losses": 30,
+          "winrate": 53.85,
+          "name": "몽순",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 58,
+          "wins": 30,
+          "losses": 28,
+          "winrate": 51.72,
+          "name": "공다츠",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 57,
+          "wins": 39,
+          "losses": 18,
+          "winrate": 68.42,
+          "name": "찌킹",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 52,
+          "wins": 29,
+          "losses": 23,
+          "winrate": 55.77,
+          "name": "졈니",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 47,
+          "wins": 28,
+          "losses": 19,
+          "winrate": 59.57,
+          "name": "빵리나",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 46,
+          "wins": 29,
+          "losses": 17,
+          "winrate": 63.04,
+          "name": "최도랑",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 44,
+          "wins": 22,
+          "losses": 22,
+          "winrate": 50.0,
+          "name": "은똥",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 42,
+          "wins": 33,
+          "losses": 9,
+          "winrate": 78.57,
+          "name": "구루미",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 39,
+          "wins": 28,
+          "losses": 11,
+          "winrate": 71.79,
+          "name": "연애인",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 37,
+          "wins": 17,
+          "losses": 20,
+          "winrate": 45.95,
+          "name": "하리",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 25,
+          "wins": 21,
+          "losses": 4,
+          "winrate": 84.0,
+          "name": "림예이",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 25,
+          "wins": 16,
+          "losses": 9,
+          "winrate": 64.0,
+          "name": "요닝",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 25,
+          "wins": 6,
+          "losses": 19,
+          "winrate": 24.0,
+          "name": "김뽀뇨",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 24,
+          "wins": 13,
+          "losses": 11,
+          "winrate": 54.17,
+          "name": "토마토",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 22,
+          "wins": 19,
+          "losses": 3,
+          "winrate": 86.36,
+          "name": "렘레미",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 20,
+          "wins": 9,
+          "losses": 11,
+          "winrate": 45.0,
+          "name": "링고",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 19,
+          "wins": 10,
+          "losses": 9,
+          "winrate": 52.63,
+          "name": "두디",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 19,
+          "wins": 14,
+          "losses": 5,
+          "winrate": 73.68,
+          "name": "슬아",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 18,
+          "wins": 11,
+          "losses": 7,
+          "winrate": 61.11,
+          "name": "임밍지",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 16,
+          "wins": 14,
+          "losses": 2,
+          "winrate": 87.5,
+          "name": "앵지",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 15,
+          "wins": 10,
+          "losses": 5,
+          "winrate": 66.67,
+          "name": "뿌리",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 14,
+          "wins": 6,
+          "losses": 8,
+          "winrate": 42.86,
+          "name": "주서리",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 14,
+          "wins": 10,
+          "losses": 4,
+          "winrate": 71.43,
+          "name": "설둥이",
+          "race": "프로토스",
+          "tier": "5티어"
+        },
+        {
+          "total": 13,
+          "wins": 4,
+          "losses": 9,
+          "winrate": 30.77,
+          "name": "키링",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 12,
+          "wins": 10,
+          "losses": 2,
+          "winrate": 83.33,
+          "name": "쥬나",
+          "race": "저그",
+          "tier": "4티어"
+        },
+        {
+          "total": 10,
+          "wins": 1,
+          "losses": 9,
+          "winrate": 10.0,
+          "name": "슬돌이",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 10,
+          "wins": 8,
+          "losses": 2,
+          "winrate": 80.0,
+          "name": "나린",
+          "race": "저그",
+          "tier": "5티어"
+        },
+        {
+          "total": 10,
+          "wins": 3,
+          "losses": 7,
+          "winrate": 30.0,
+          "name": "구보라",
+          "race": "프로토스",
+          "tier": "3티어"
+        }
+      ]
+    },
+    "내가먼지": {
+      "name": "내가먼지",
+      "race": "테란",
+      "tier_start": "7티어",
+      "tier_end": "6티어",
+      "overall": {
+        "total": 496,
+        "wins": 329,
+        "losses": 167,
+        "winrate": 66.33
+      },
+      "by_type": {
+        "스폰": {
+          "total": 441,
+          "wins": 298,
+          "losses": 143,
+          "winrate": 67.57
+        },
+        "대회": {
+          "total": 53,
+          "wins": 29,
+          "losses": 24,
+          "winrate": 54.72
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 39,
+          "wins": 27,
+          "losses": 12,
+          "winrate": 69.23
+        },
+        "2": {
+          "total": 26,
+          "wins": 18,
+          "losses": 8,
+          "winrate": 69.23
+        },
+        "3": {
+          "total": 56,
+          "wins": 41,
+          "losses": 15,
+          "winrate": 73.21
+        },
+        "4": {
+          "total": 46,
+          "wins": 28,
+          "losses": 18,
+          "winrate": 60.87
+        },
+        "5": {
+          "total": 47,
+          "wins": 33,
+          "losses": 14,
+          "winrate": 70.21
+        },
+        "6": {
+          "total": 37,
+          "wins": 22,
+          "losses": 15,
+          "winrate": 59.46
+        },
+        "7": {
+          "total": 63,
+          "wins": 43,
+          "losses": 20,
+          "winrate": 68.25
+        },
+        "9": {
+          "total": 62,
+          "wins": 34,
+          "losses": 28,
+          "winrate": 54.84
+        },
+        "10": {
+          "total": 107,
+          "wins": 76,
+          "losses": 31,
+          "winrate": 71.03
+        },
+        "11": {
+          "total": 3,
+          "wins": 3,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "12": {
+          "total": 10,
+          "wins": 4,
+          "losses": 6,
+          "winrate": 40.0
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 121,
+          "wins": 86,
+          "losses": 35,
+          "winrate": 71.07
+        },
+        "Q2": {
+          "total": 130,
+          "wins": 83,
+          "losses": 47,
+          "winrate": 63.85
+        },
+        "Q3": {
+          "total": 125,
+          "wins": 77,
+          "losses": 48,
+          "winrate": 61.6
+        },
+        "Q4": {
+          "total": 120,
+          "wins": 83,
+          "losses": 37,
+          "winrate": 69.17
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "저그": {
+          "total": 253,
+          "wins": 166,
+          "losses": 87,
+          "winrate": 65.61
+        },
+        "프로토스": {
+          "total": 241,
+          "wins": 162,
+          "losses": 79,
+          "winrate": 67.22
+        }
+      },
+      "by_map": {
+        "라데온": {
+          "total": 191,
+          "wins": 119,
+          "losses": 72,
+          "winrate": 62.3
+        },
+        "폴리포이드": {
+          "total": 190,
+          "wins": 134,
+          "losses": 56,
+          "winrate": 70.53
+        },
+        "이클립스": {
+          "total": 42,
+          "wins": 28,
+          "losses": 14,
+          "winrate": 66.67
+        },
+        "데자뷰": {
+          "total": 35,
+          "wins": 23,
+          "losses": 12,
+          "winrate": 65.71
+        },
+        "녹아웃": {
+          "total": 28,
+          "wins": 18,
+          "losses": 10,
+          "winrate": 64.29
+        },
+        "리트머스": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "투혼": {
+          "total": 3,
+          "wins": 2,
+          "losses": 1,
+          "winrate": 66.67
+        }
+      },
+      "vs_tier": {
+        "5티어": {
+          "total": 17,
+          "wins": 15,
+          "losses": 2,
+          "winrate": 88.24
+        },
+        "6티어": {
+          "total": 165,
+          "wins": 99,
+          "losses": 66,
+          "winrate": 60.0
+        },
+        "7티어": {
+          "total": 290,
+          "wins": 194,
+          "losses": 96,
+          "winrate": 66.9
+        },
+        "8티어": {
+          "total": 12,
+          "wins": 12,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 49,
+          "wins": 28,
+          "losses": 21,
+          "winrate": 57.14,
+          "name": "박하악",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 35,
+          "wins": 22,
+          "losses": 13,
+          "winrate": 62.86,
+          "name": "효짱",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 32,
+          "wins": 22,
+          "losses": 10,
+          "winrate": 68.75,
+          "name": "빵미유",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 30,
+          "wins": 16,
+          "losses": 14,
+          "winrate": 53.33,
+          "name": "임조이",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 23,
+          "wins": 16,
+          "losses": 7,
+          "winrate": 69.57,
+          "name": "엄보리",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 23,
+          "wins": 13,
+          "losses": 10,
+          "winrate": 56.52,
+          "name": "먼진",
+          "race": "저그",
+          "tier": "7티어"
+        },
+        {
+          "total": 23,
+          "wins": 19,
+          "losses": 4,
+          "winrate": 82.61,
+          "name": "양유정",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 17,
+          "wins": 14,
+          "losses": 3,
+          "winrate": 82.35,
+          "name": "김무아",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 16,
+          "wins": 7,
+          "losses": 9,
+          "winrate": 43.75,
+          "name": "남수댕",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 16,
+          "wins": 11,
+          "losses": 5,
+          "winrate": 68.75,
+          "name": "2라니",
+          "race": "저그",
+          "tier": "7티어"
+        },
+        {
+          "total": 16,
+          "wins": 9,
+          "losses": 7,
+          "winrate": 56.25,
+          "name": "짱다",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 16,
+          "wins": 13,
+          "losses": 3,
+          "winrate": 81.25,
+          "name": "슈슈",
+          "race": "저그",
+          "tier": "5티어"
+        },
+        {
+          "total": 15,
+          "wins": 8,
+          "losses": 7,
+          "winrate": 53.33,
+          "name": "밍가",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 13,
+          "wins": 5,
+          "losses": 8,
+          "winrate": 38.46,
+          "name": "진유성",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 13,
+          "wins": 11,
+          "losses": 2,
+          "winrate": 84.62,
+          "name": "오리꿍",
+          "race": "저그",
+          "tier": "7티어"
+        },
+        {
+          "total": 13,
+          "wins": 6,
+          "losses": 7,
+          "winrate": 46.15,
+          "name": "비재희",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 11,
+          "wins": 7,
+          "losses": 4,
+          "winrate": 63.64,
+          "name": "백갑숙",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 11,
+          "wins": 6,
+          "losses": 5,
+          "winrate": 54.55,
+          "name": "안부",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 10,
+          "wins": 8,
+          "losses": 2,
+          "winrate": 80.0,
+          "name": "시녕뭉",
+          "race": "저그",
+          "tier": "5티어"
+        }
+      ]
+    },
+    "늑대채린": {
+      "name": "늑대채린",
+      "race": "저그",
+      "tier_start": "4티어",
+      "tier_end": "4티어",
+      "overall": {
+        "total": 617,
+        "wins": 306,
+        "losses": 311,
+        "winrate": 49.59
+      },
+      "by_type": {
+        "스폰": {
+          "total": 583,
+          "wins": 291,
+          "losses": 292,
+          "winrate": 49.91
+        },
+        "대회": {
+          "total": 34,
+          "wins": 15,
+          "losses": 19,
+          "winrate": 44.12
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 41,
+          "wins": 21,
+          "losses": 20,
+          "winrate": 51.22
+        },
+        "2": {
+          "total": 75,
+          "wins": 36,
+          "losses": 39,
+          "winrate": 48.0
+        },
+        "3": {
+          "total": 86,
+          "wins": 41,
+          "losses": 45,
+          "winrate": 47.67
+        },
+        "4": {
+          "total": 64,
+          "wins": 33,
+          "losses": 31,
+          "winrate": 51.56
+        },
+        "5": {
+          "total": 44,
+          "wins": 24,
+          "losses": 20,
+          "winrate": 54.55
+        },
+        "6": {
+          "total": 39,
+          "wins": 18,
+          "losses": 21,
+          "winrate": 46.15
+        },
+        "7": {
+          "total": 58,
+          "wins": 35,
+          "losses": 23,
+          "winrate": 60.34
+        },
+        "8": {
+          "total": 32,
+          "wins": 19,
+          "losses": 13,
+          "winrate": 59.38
+        },
+        "9": {
+          "total": 75,
+          "wins": 27,
+          "losses": 48,
+          "winrate": 36.0
+        },
+        "10": {
+          "total": 97,
+          "wins": 48,
+          "losses": 49,
+          "winrate": 49.48
+        },
+        "11": {
+          "total": 6,
+          "wins": 4,
+          "losses": 2,
+          "winrate": 66.67
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 202,
+          "wins": 98,
+          "losses": 104,
+          "winrate": 48.51
+        },
+        "Q2": {
+          "total": 147,
+          "wins": 75,
+          "losses": 72,
+          "winrate": 51.02
+        },
+        "Q3": {
+          "total": 165,
+          "wins": 81,
+          "losses": 84,
+          "winrate": 49.09
+        },
+        "Q4": {
+          "total": 103,
+          "wins": 52,
+          "losses": 51,
+          "winrate": 50.49
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 425,
+          "wins": 214,
+          "losses": 211,
+          "winrate": 50.35
+        },
+        "저그": {
+          "total": 12,
+          "wins": 4,
+          "losses": 8,
+          "winrate": 33.33
+        },
+        "프로토스": {
+          "total": 180,
+          "wins": 88,
+          "losses": 92,
+          "winrate": 48.89
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 238,
+          "wins": 120,
+          "losses": 118,
+          "winrate": 50.42
+        },
+        "라데온": {
+          "total": 201,
+          "wins": 100,
+          "losses": 101,
+          "winrate": 49.75
+        },
+        "데자뷰": {
+          "total": 86,
+          "wins": 40,
+          "losses": 46,
+          "winrate": 46.51
+        },
+        "이클립스": {
+          "total": 43,
+          "wins": 21,
+          "losses": 22,
+          "winrate": 48.84
+        },
+        "녹아웃": {
+          "total": 31,
+          "wins": 14,
+          "losses": 17,
+          "winrate": 45.16
+        },
+        "리트머스": {
+          "total": 15,
+          "wins": 8,
+          "losses": 7,
+          "winrate": 53.33
+        },
+        "버미어": {
+          "total": 2,
+          "wins": 2,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "도미네이터": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "vs_tier": {
+        "2티어": {
+          "total": 3,
+          "wins": 1,
+          "losses": 2,
+          "winrate": 33.33
+        },
+        "3티어": {
+          "total": 99,
+          "wins": 43,
+          "losses": 56,
+          "winrate": 43.43
+        },
+        "4티어": {
+          "total": 400,
+          "wins": 180,
+          "losses": 220,
+          "winrate": 45.0
+        },
+        "5티어": {
+          "total": 114,
+          "wins": 81,
+          "losses": 33,
+          "winrate": 71.05
+        },
+        "6티어": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 86,
+          "wins": 42,
+          "losses": 44,
+          "winrate": 48.84,
+          "name": "규리야",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 72,
+          "wins": 36,
+          "losses": 36,
+          "winrate": 50.0,
+          "name": "햇살",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 38,
+          "wins": 15,
+          "losses": 23,
+          "winrate": 39.47,
+          "name": "뚜밥",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 34,
+          "wins": 11,
+          "losses": 23,
+          "winrate": 32.35,
+          "name": "태영",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 32,
+          "wins": 10,
+          "losses": 22,
+          "winrate": 31.25,
+          "name": "빵리나",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 29,
+          "wins": 13,
+          "losses": 16,
+          "winrate": 44.83,
+          "name": "뚜미언니",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 26,
+          "wins": 15,
+          "losses": 11,
+          "winrate": 57.69,
+          "name": "하리",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 24,
+          "wins": 14,
+          "losses": 10,
+          "winrate": 58.33,
+          "name": "뽀누나",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 23,
+          "wins": 11,
+          "losses": 12,
+          "winrate": 47.83,
+          "name": "우리밍",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 21,
+          "wins": 20,
+          "losses": 1,
+          "winrate": 95.24,
+          "name": "강덕구",
+          "race": "테란",
+          "tier": "5티어"
+        },
+        {
+          "total": 19,
+          "wins": 9,
+          "losses": 10,
+          "winrate": 47.37,
+          "name": "김뽀뇨",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 18,
+          "wins": 5,
+          "losses": 13,
+          "winrate": 27.78,
+          "name": "토마토",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 18,
+          "wins": 9,
+          "losses": 9,
+          "winrate": 50.0,
+          "name": "구보라",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 17,
+          "wins": 12,
+          "losses": 5,
+          "winrate": 70.59,
+          "name": "무찌",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 13,
+          "wins": 6,
+          "losses": 7,
+          "winrate": 46.15,
+          "name": "지두두",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 13,
+          "wins": 8,
+          "losses": 5,
+          "winrate": 61.54,
+          "name": "졈니",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 12,
+          "wins": 4,
+          "losses": 8,
+          "winrate": 33.33,
+          "name": "슬돌이",
+          "race": "프로토스",
+          "tier": "3티어"
+        },
+        {
+          "total": 11,
+          "wins": 4,
+          "losses": 7,
+          "winrate": 36.36,
+          "name": "조은",
+          "race": "테란",
+          "tier": "4티어"
+        },
+        {
+          "total": 11,
+          "wins": 6,
+          "losses": 5,
+          "winrate": 54.55,
+          "name": "나예리",
+          "race": "테란",
+          "tier": "3티어"
+        },
+        {
+          "total": 10,
+          "wins": 6,
+          "losses": 4,
+          "winrate": 60.0,
+          "name": "최도랑",
+          "race": "프로토스",
+          "tier": "4티어"
+        },
+        {
+          "total": 10,
+          "wins": 4,
+          "losses": 6,
+          "winrate": 40.0,
+          "name": "깨림이",
+          "race": "테란",
+          "tier": "5티어"
+        }
+      ]
+    },
+    "냥수디": {
+      "name": "냥수디",
+      "race": "저그",
+      "tier_start": "베이비",
+      "tier_end": "7티어",
+      "overall": {
+        "total": 262,
+        "wins": 175,
+        "losses": 87,
+        "winrate": 66.79
+      },
+      "by_type": {
+        "스폰": {
+          "total": 247,
+          "wins": 166,
+          "losses": 81,
+          "winrate": 67.21
+        },
+        "대회": {
+          "total": 15,
+          "wins": 9,
+          "losses": 6,
+          "winrate": 60.0
+        }
+      },
+      "monthly": {
+        "6": {
+          "total": 29,
+          "wins": 18,
+          "losses": 11,
+          "winrate": 62.07
+        },
+        "7": {
+          "total": 34,
+          "wins": 28,
+          "losses": 6,
+          "winrate": 82.35
+        },
+        "8": {
+          "total": 48,
+          "wins": 28,
+          "losses": 20,
+          "winrate": 58.33
+        },
+        "9": {
+          "total": 81,
+          "wins": 55,
+          "losses": 26,
+          "winrate": 67.9
+        },
+        "10": {
+          "total": 59,
+          "wins": 38,
+          "losses": 21,
+          "winrate": 64.41
+        },
+        "11": {
+          "total": 3,
+          "wins": 2,
+          "losses": 1,
+          "winrate": 66.67
+        },
+        "12": {
+          "total": 8,
+          "wins": 6,
+          "losses": 2,
+          "winrate": 75.0
+        }
+      },
+      "quarterly": {
+        "Q2": {
+          "total": 29,
+          "wins": 18,
+          "losses": 11,
+          "winrate": 62.07
+        },
+        "Q3": {
+          "total": 163,
+          "wins": 111,
+          "losses": 52,
+          "winrate": 68.1
+        },
+        "Q4": {
+          "total": 70,
+          "wins": 46,
+          "losses": 24,
+          "winrate": 65.71
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 108,
+          "wins": 63,
+          "losses": 45,
+          "winrate": 58.33
+        },
+        "저그": {
+          "total": 3,
+          "wins": 0,
+          "losses": 3,
+          "winrate": 0.0
+        },
+        "프로토스": {
+          "total": 151,
+          "wins": 112,
+          "losses": 39,
+          "winrate": 74.17
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 198,
+          "wins": 141,
+          "losses": 57,
+          "winrate": 71.21
+        },
+        "라데온": {
+          "total": 33,
+          "wins": 17,
+          "losses": 16,
+          "winrate": 51.52
+        },
+        "녹아웃": {
+          "total": 13,
+          "wins": 7,
+          "losses": 6,
+          "winrate": 53.85
+        },
+        "데자뷰": {
+          "total": 12,
+          "wins": 7,
+          "losses": 5,
+          "winrate": 58.33
+        },
+        "리트머스": {
+          "total": 6,
+          "wins": 3,
+          "losses": 3,
+          "winrate": 50.0
+        }
+      },
+      "vs_tier": {
+        "7티어": {
+          "total": 9,
+          "wins": 7,
+          "losses": 2,
+          "winrate": 77.78
+        },
+        "8티어": {
+          "total": 188,
+          "wins": 123,
+          "losses": 65,
+          "winrate": 65.43
+        },
+        "베이비": {
+          "total": 65,
+          "wins": 45,
+          "losses": 20,
+          "winrate": 69.23
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 32,
+          "wins": 18,
+          "losses": 14,
+          "winrate": 56.25,
+          "name": "엄키키",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 30,
+          "wins": 19,
+          "losses": 11,
+          "winrate": 63.33,
+          "name": "허로아",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 18,
+          "wins": 10,
+          "losses": 8,
+          "winrate": 55.56,
+          "name": "은서",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 15,
+          "wins": 7,
+          "losses": 8,
+          "winrate": 46.67,
+          "name": "정서린",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 15,
+          "wins": 10,
+          "losses": 5,
+          "winrate": 66.67,
+          "name": "김세주",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 13,
+          "wins": 10,
+          "losses": 3,
+          "winrate": 76.92,
+          "name": "다예나",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 12,
+          "wins": 7,
+          "losses": 5,
+          "winrate": 58.33,
+          "name": "정다닝",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 5,
+          "losses": 5,
+          "winrate": 50.0,
+          "name": "김말랑",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 6,
+          "losses": 4,
+          "winrate": 60.0,
+          "name": "모모",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 7,
+          "losses": 3,
+          "winrate": 70.0,
+          "name": "모비",
+          "race": "프로토스",
+          "tier": "8티어"
+        }
+      ]
+    },
+    "다예나": {
+      "name": "다예나",
+      "race": "프로토스",
+      "tier_start": "베이비",
+      "tier_end": "8티어",
+      "overall": {
+        "total": 343,
+        "wins": 204,
+        "losses": 139,
+        "winrate": 59.48
+      },
+      "by_type": {
+        "스폰": {
+          "total": 328,
+          "wins": 199,
+          "losses": 129,
+          "winrate": 60.67
+        },
+        "대회": {
+          "total": 15,
+          "wins": 5,
+          "losses": 10,
+          "winrate": 33.33
+        }
+      },
+      "monthly": {
+        "6": {
+          "total": 24,
+          "wins": 10,
+          "losses": 14,
+          "winrate": 41.67
+        },
+        "7": {
+          "total": 59,
+          "wins": 37,
+          "losses": 22,
+          "winrate": 62.71
+        },
+        "8": {
+          "total": 66,
+          "wins": 36,
+          "losses": 30,
+          "winrate": 54.55
+        },
+        "9": {
+          "total": 69,
+          "wins": 43,
+          "losses": 26,
+          "winrate": 62.32
+        },
+        "10": {
+          "total": 98,
+          "wins": 56,
+          "losses": 42,
+          "winrate": 57.14
+        },
+        "11": {
+          "total": 10,
+          "wins": 8,
+          "losses": 2,
+          "winrate": 80.0
+        },
+        "12": {
+          "total": 17,
+          "wins": 14,
+          "losses": 3,
+          "winrate": 82.35
+        }
+      },
+      "quarterly": {
+        "Q2": {
+          "total": 24,
+          "wins": 10,
+          "losses": 14,
+          "winrate": 41.67
+        },
+        "Q3": {
+          "total": 194,
+          "wins": 116,
+          "losses": 78,
+          "winrate": 59.79
+        },
+        "Q4": {
+          "total": 125,
+          "wins": 78,
+          "losses": 47,
+          "winrate": 62.4
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 101,
+          "wins": 50,
+          "losses": 51,
+          "winrate": 49.5
+        },
+        "저그": {
+          "total": 214,
+          "wins": 140,
+          "losses": 74,
+          "winrate": 65.42
+        },
+        "프로토스": {
+          "total": 28,
+          "wins": 14,
+          "losses": 14,
+          "winrate": 50.0
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 215,
+          "wins": 127,
+          "losses": 88,
+          "winrate": 59.07
+        },
+        "라데온": {
+          "total": 59,
+          "wins": 36,
+          "losses": 23,
+          "winrate": 61.02
+        },
+        "데자뷰": {
+          "total": 36,
+          "wins": 20,
+          "losses": 16,
+          "winrate": 55.56
+        },
+        "녹아웃": {
+          "total": 23,
+          "wins": 18,
+          "losses": 5,
+          "winrate": 78.26
+        },
+        "리트머스": {
+          "total": 9,
+          "wins": 3,
+          "losses": 6,
+          "winrate": 33.33
+        },
+        "투혼": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      },
+      "vs_tier": {
+        "6티어": {
+          "total": 3,
+          "wins": 1,
+          "losses": 2,
+          "winrate": 33.33
+        },
+        "7티어": {
+          "total": 6,
+          "wins": 0,
+          "losses": 6,
+          "winrate": 0.0
+        },
+        "8티어": {
+          "total": 250,
+          "wins": 152,
+          "losses": 98,
+          "winrate": 60.8
+        },
+        "베이비": {
+          "total": 84,
+          "wins": 51,
+          "losses": 33,
+          "winrate": 60.71
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 39,
+          "wins": 28,
+          "losses": 11,
+          "winrate": 71.79,
+          "name": "수붕e",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 33,
+          "wins": 21,
+          "losses": 12,
+          "winrate": 63.64,
+          "name": "루다",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 23,
+          "wins": 13,
+          "losses": 10,
+          "winrate": 56.52,
+          "name": "김말랑",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 19,
+          "wins": 12,
+          "losses": 7,
+          "winrate": 63.16,
+          "name": "다라츄",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 16,
+          "wins": 5,
+          "losses": 11,
+          "winrate": 31.25,
+          "name": "냥수디",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 16,
+          "wins": 10,
+          "losses": 6,
+          "winrate": 62.5,
+          "name": "구쁘",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 16,
+          "wins": 12,
+          "losses": 4,
+          "winrate": 75.0,
+          "name": "송혜림",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 15,
+          "wins": 8,
+          "losses": 7,
+          "winrate": 53.33,
+          "name": "김세주",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 12,
+          "wins": 2,
+          "losses": 10,
+          "winrate": 16.67,
+          "name": "정다닝",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 11,
+          "wins": 10,
+          "losses": 1,
+          "winrate": 90.91,
+          "name": "팽유",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 11,
+          "wins": 2,
+          "losses": 9,
+          "winrate": 18.18,
+          "name": "경콩",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 4,
+          "losses": 6,
+          "winrate": 40.0,
+          "name": "정서린",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 8,
+          "losses": 2,
+          "winrate": 80.0,
+          "name": "허로아",
+          "race": "테란",
+          "tier": "8티어"
+        }
+      ]
+    },
+    "단비송": {
+      "name": "단비송",
+      "race": "테란",
+      "tier_start": "베이비",
+      "tier_end": "8티어",
+      "overall": {
+        "total": 169,
+        "wins": 73,
+        "losses": 96,
+        "winrate": 43.2
+      },
+      "by_type": {
+        "스폰": {
+          "total": 167,
+          "wins": 72,
+          "losses": 95,
+          "winrate": 43.11
+        },
+        "대회": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        }
+      },
+      "monthly": {
+        "9": {
+          "total": 16,
+          "wins": 4,
+          "losses": 12,
+          "winrate": 25.0
+        },
+        "10": {
+          "total": 46,
+          "wins": 19,
+          "losses": 27,
+          "winrate": 41.3
+        },
+        "11": {
+          "total": 33,
+          "wins": 14,
+          "losses": 19,
+          "winrate": 42.42
+        },
+        "12": {
+          "total": 74,
+          "wins": 36,
+          "losses": 38,
+          "winrate": 48.65
+        }
+      },
+      "quarterly": {
+        "Q3": {
+          "total": 16,
+          "wins": 4,
+          "losses": 12,
+          "winrate": 25.0
+        },
+        "Q4": {
+          "total": 153,
+          "wins": 69,
+          "losses": 84,
+          "winrate": 45.1
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 3,
+          "wins": 3,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "저그": {
+          "total": 63,
+          "wins": 23,
+          "losses": 40,
+          "winrate": 36.51
+        },
+        "프로토스": {
+          "total": 103,
+          "wins": 47,
+          "losses": 56,
+          "winrate": 45.63
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 160,
+          "wins": 69,
+          "losses": 91,
+          "winrate": 43.12
+        },
+        "라데온": {
+          "total": 9,
+          "wins": 4,
+          "losses": 5,
+          "winrate": 44.44
+        }
+      },
+      "vs_tier": {
+        "6티어": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        },
+        "8티어": {
+          "total": 106,
+          "wins": 42,
+          "losses": 64,
+          "winrate": 39.62
+        },
+        "베이비": {
+          "total": 62,
+          "wins": 31,
+          "losses": 31,
+          "winrate": 50.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 17,
+          "wins": 12,
+          "losses": 5,
+          "winrate": 70.59,
+          "name": "뀨알",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 14,
+          "wins": 2,
+          "losses": 12,
+          "winrate": 14.29,
+          "name": "아리송이",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 13,
+          "wins": 4,
+          "losses": 9,
+          "winrate": 30.77,
+          "name": "삼교",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 13,
+          "wins": 4,
+          "losses": 9,
+          "winrate": 30.77,
+          "name": "헤요이",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 13,
+          "wins": 4,
+          "losses": 9,
+          "winrate": 30.77,
+          "name": "냥냥코기",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 2,
+          "losses": 8,
+          "winrate": 20.0,
+          "name": "햇참새",
+          "race": "프로토스",
+          "tier": "8티어"
+        }
+      ]
+    },
+    "또해영": {
+      "name": "또해영",
+      "race": "저그",
+      "tier_start": "8티어",
+      "tier_end": "7티어",
+      "overall": {
+        "total": 680,
+        "wins": 375,
+        "losses": 305,
+        "winrate": 55.15
+      },
+      "by_type": {
+        "스폰": {
+          "total": 629,
+          "wins": 344,
+          "losses": 285,
+          "winrate": 54.69
+        },
+        "대회": {
+          "total": 51,
+          "wins": 31,
+          "losses": 20,
+          "winrate": 60.78
+        }
+      },
+      "monthly": {
+        "1": {
+          "total": 81,
+          "wins": 44,
+          "losses": 37,
+          "winrate": 54.32
+        },
+        "2": {
+          "total": 42,
+          "wins": 25,
+          "losses": 17,
+          "winrate": 59.52
+        },
+        "3": {
+          "total": 73,
+          "wins": 47,
+          "losses": 26,
+          "winrate": 64.38
+        },
+        "4": {
+          "total": 40,
+          "wins": 25,
+          "losses": 15,
+          "winrate": 62.5
+        },
+        "5": {
+          "total": 58,
+          "wins": 30,
+          "losses": 28,
+          "winrate": 51.72
+        },
+        "6": {
+          "total": 52,
+          "wins": 34,
+          "losses": 18,
+          "winrate": 65.38
+        },
+        "7": {
+          "total": 33,
+          "wins": 19,
+          "losses": 14,
+          "winrate": 57.58
+        },
+        "8": {
+          "total": 44,
+          "wins": 25,
+          "losses": 19,
+          "winrate": 56.82
+        },
+        "9": {
+          "total": 126,
+          "wins": 63,
+          "losses": 63,
+          "winrate": 50.0
+        },
+        "10": {
+          "total": 79,
+          "wins": 37,
+          "losses": 42,
+          "winrate": 46.84
+        },
+        "11": {
+          "total": 17,
+          "wins": 8,
+          "losses": 9,
+          "winrate": 47.06
+        },
+        "12": {
+          "total": 35,
+          "wins": 18,
+          "losses": 17,
+          "winrate": 51.43
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 196,
+          "wins": 116,
+          "losses": 80,
+          "winrate": 59.18
+        },
+        "Q2": {
+          "total": 150,
+          "wins": 89,
+          "losses": 61,
+          "winrate": 59.33
+        },
+        "Q3": {
+          "total": 203,
+          "wins": 107,
+          "losses": 96,
+          "winrate": 52.71
+        },
+        "Q4": {
+          "total": 131,
+          "wins": 63,
+          "losses": 68,
+          "winrate": 48.09
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 331,
+          "wins": 169,
+          "losses": 162,
+          "winrate": 51.06
+        },
+        "저그": {
+          "total": 15,
+          "wins": 9,
+          "losses": 6,
+          "winrate": 60.0
+        },
+        "프로토스": {
+          "total": 334,
+          "wins": 197,
+          "losses": 137,
+          "winrate": 58.98
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 258,
+          "wins": 139,
+          "losses": 119,
+          "winrate": 53.88
+        },
+        "라데온": {
+          "total": 198,
+          "wins": 104,
+          "losses": 94,
+          "winrate": 52.53
+        },
+        "데자뷰": {
+          "total": 136,
+          "wins": 81,
+          "losses": 55,
+          "winrate": 59.56
+        },
+        "이클립스": {
+          "total": 43,
+          "wins": 29,
+          "losses": 14,
+          "winrate": 67.44
+        },
+        "녹아웃": {
+          "total": 25,
+          "wins": 14,
+          "losses": 11,
+          "winrate": 56.0
+        },
+        "리트머스": {
+          "total": 19,
+          "wins": 7,
+          "losses": 12,
+          "winrate": 36.84
+        },
+        "투혼": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "vs_tier": {
+        "4티어": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "5티어": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        },
+        "6티어": {
+          "total": 43,
+          "wins": 18,
+          "losses": 25,
+          "winrate": 41.86
+        },
+        "7티어": {
+          "total": 407,
+          "wins": 213,
+          "losses": 194,
+          "winrate": 52.33
+        },
+        "8티어": {
+          "total": 222,
+          "wins": 138,
+          "losses": 84,
+          "winrate": 62.16
+        },
+        "베이비": {
+          "total": 5,
+          "wins": 5,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 63,
+          "wins": 38,
+          "losses": 25,
+          "winrate": 60.32,
+          "name": "사사삼",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 53,
+          "wins": 24,
+          "losses": 29,
+          "winrate": 45.28,
+          "name": "밥새",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 48,
+          "wins": 32,
+          "losses": 16,
+          "winrate": 66.67,
+          "name": "하이현",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 44,
+          "wins": 27,
+          "losses": 17,
+          "winrate": 61.36,
+          "name": "하루묭",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 36,
+          "wins": 23,
+          "losses": 13,
+          "winrate": 63.89,
+          "name": "수니양",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 35,
+          "wins": 12,
+          "losses": 23,
+          "winrate": 34.29,
+          "name": "비타밍",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 34,
+          "wins": 24,
+          "losses": 10,
+          "winrate": 70.59,
+          "name": "한쪼니",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 33,
+          "wins": 17,
+          "losses": 16,
+          "winrate": 51.52,
+          "name": "효짱",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 28,
+          "wins": 21,
+          "losses": 7,
+          "winrate": 75.0,
+          "name": "빵지니",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 27,
+          "wins": 7,
+          "losses": 20,
+          "winrate": 25.93,
+          "name": "모리",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 26,
+          "wins": 6,
+          "losses": 20,
+          "winrate": 23.08,
+          "name": "메옹이",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 20,
+          "wins": 10,
+          "losses": 10,
+          "winrate": 50.0,
+          "name": "막내현진",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 18,
+          "wins": 6,
+          "losses": 12,
+          "winrate": 33.33,
+          "name": "짱다",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 17,
+          "wins": 9,
+          "losses": 8,
+          "winrate": 52.94,
+          "name": "엄보리",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 17,
+          "wins": 11,
+          "losses": 6,
+          "winrate": 64.71,
+          "name": "양유정",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 13,
+          "wins": 9,
+          "losses": 4,
+          "winrate": 69.23,
+          "name": "히요코",
+          "race": "프로토스",
+          "tier": "8티어"
+        },
+        {
+          "total": 13,
+          "wins": 5,
+          "losses": 8,
+          "winrate": 38.46,
+          "name": "선정은",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 12,
+          "wins": 8,
+          "losses": 4,
+          "winrate": 66.67,
+          "name": "김채이",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 12,
+          "wins": 4,
+          "losses": 8,
+          "winrate": 33.33,
+          "name": "밍가",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 10,
+          "wins": 7,
+          "losses": 3,
+          "winrate": 70.0,
+          "name": "혜지연",
+          "race": "테란",
+          "tier": "7티어"
+        }
+      ]
+    },
+    "정서린": {
+      "name": "정서린",
+      "race": "프로토스",
+      "tier_start": "베이비",
+      "tier_end": "7티어",
+      "overall": {
+        "total": 439,
+        "wins": 296,
+        "losses": 143,
+        "winrate": 67.43
+      },
+      "by_type": {
+        "스폰": {
+          "total": 405,
+          "wins": 270,
+          "losses": 135,
+          "winrate": 66.67
+        },
+        "대회": {
+          "total": 34,
+          "wins": 26,
+          "losses": 8,
+          "winrate": 76.47
+        }
+      },
+      "monthly": {
+        "6": {
+          "total": 30,
+          "wins": 19,
+          "losses": 11,
+          "winrate": 63.33
+        },
+        "7": {
+          "total": 78,
+          "wins": 59,
+          "losses": 19,
+          "winrate": 75.64
+        },
+        "8": {
+          "total": 101,
+          "wins": 68,
+          "losses": 33,
+          "winrate": 67.33
+        },
+        "9": {
+          "total": 101,
+          "wins": 66,
+          "losses": 35,
+          "winrate": 65.35
+        },
+        "10": {
+          "total": 97,
+          "wins": 62,
+          "losses": 35,
+          "winrate": 63.92
+        },
+        "11": {
+          "total": 10,
+          "wins": 7,
+          "losses": 3,
+          "winrate": 70.0
+        },
+        "12": {
+          "total": 22,
+          "wins": 15,
+          "losses": 7,
+          "winrate": 68.18
+        }
+      },
+      "quarterly": {
+        "Q2": {
+          "total": 30,
+          "wins": 19,
+          "losses": 11,
+          "winrate": 63.33
+        },
+        "Q3": {
+          "total": 280,
+          "wins": 193,
+          "losses": 87,
+          "winrate": 68.93
+        },
+        "Q4": {
+          "total": 129,
+          "wins": 84,
+          "losses": 45,
+          "winrate": 65.12
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 176,
+          "wins": 110,
+          "losses": 66,
+          "winrate": 62.5
+        },
+        "저그": {
+          "total": 223,
+          "wins": 157,
+          "losses": 66,
+          "winrate": 70.4
+        },
+        "프로토스": {
+          "total": 40,
+          "wins": 29,
+          "losses": 11,
+          "winrate": 72.5
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 223,
+          "wins": 158,
+          "losses": 65,
+          "winrate": 70.85
+        },
+        "라데온": {
+          "total": 118,
+          "wins": 70,
+          "losses": 48,
+          "winrate": 59.32
+        },
+        "데자뷰": {
+          "total": 64,
+          "wins": 45,
+          "losses": 19,
+          "winrate": 70.31
+        },
+        "녹아웃": {
+          "total": 24,
+          "wins": 16,
+          "losses": 8,
+          "winrate": 66.67
+        },
+        "리트머스": {
+          "total": 7,
+          "wins": 5,
+          "losses": 2,
+          "winrate": 71.43
+        },
+        "메트로폴리스": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "도미네이터": {
+          "total": 1,
+          "wins": 1,
+          "losses": 0,
+          "winrate": 100.0
+        }
+      },
+      "vs_tier": {
+        "4티어": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        },
+        "5티어": {
+          "total": 8,
+          "wins": 2,
+          "losses": 6,
+          "winrate": 25.0
+        },
+        "6티어": {
+          "total": 23,
+          "wins": 11,
+          "losses": 12,
+          "winrate": 47.83
+        },
+        "7티어": {
+          "total": 128,
+          "wins": 79,
+          "losses": 49,
+          "winrate": 61.72
+        },
+        "8티어": {
+          "total": 199,
+          "wins": 141,
+          "losses": 58,
+          "winrate": 70.85
+        },
+        "베이비": {
+          "total": 80,
+          "wins": 63,
+          "losses": 17,
+          "winrate": 78.75
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 31,
+          "wins": 31,
+          "losses": 0,
+          "winrate": 100.0,
+          "name": "수붕e",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 30,
+          "wins": 20,
+          "losses": 10,
+          "winrate": 66.67,
+          "name": "김말랑",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 24,
+          "wins": 21,
+          "losses": 3,
+          "winrate": 87.5,
+          "name": "루다",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 24,
+          "wins": 13,
+          "losses": 11,
+          "winrate": 54.17,
+          "name": "경콩",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 21,
+          "wins": 12,
+          "losses": 9,
+          "winrate": 57.14,
+          "name": "밥새",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 17,
+          "wins": 14,
+          "losses": 3,
+          "winrate": 82.35,
+          "name": "빵지니",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 17,
+          "wins": 10,
+          "losses": 7,
+          "winrate": 58.82,
+          "name": "쟈닌",
+          "race": "저그",
+          "tier": "7티어"
+        },
+        {
+          "total": 17,
+          "wins": 6,
+          "losses": 11,
+          "winrate": 35.29,
+          "name": "하이현",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 15,
+          "wins": 8,
+          "losses": 7,
+          "winrate": 53.33,
+          "name": "냥수디",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 15,
+          "wins": 11,
+          "losses": 4,
+          "winrate": 73.33,
+          "name": "뷰러",
+          "race": "저그",
+          "tier": "7티어"
+        },
+        {
+          "total": 14,
+          "wins": 13,
+          "losses": 1,
+          "winrate": 92.86,
+          "name": "팽유",
+          "race": "저그",
+          "tier": "8티어"
+        },
+        {
+          "total": 13,
+          "wins": 12,
+          "losses": 1,
+          "winrate": 92.31,
+          "name": "세월",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 13,
+          "wins": 10,
+          "losses": 3,
+          "winrate": 76.92,
+          "name": "허로아",
+          "race": "테란",
+          "tier": "8티어"
+        },
+        {
+          "total": 10,
+          "wins": 8,
+          "losses": 2,
+          "winrate": 80.0,
+          "name": "정다닝",
+          "race": "테란",
+          "tier": "8티어"
+        }
+      ]
+    },
+    "박하악": {
+      "name": "박하악",
+      "race": "저그",
+      "tier_start": "6티어",
+      "tier_end": "6티어",
+      "overall": {
+        "total": 778,
+        "wins": 370,
+        "losses": 408,
+        "winrate": 47.56
+      },
+      "by_type": {
+        "스폰": {
+          "total": 714,
+          "wins": 330,
+          "losses": 384,
+          "winrate": 46.22
+        },
+        "대회": {
+          "total": 64,
+          "wins": 40,
+          "losses": 24,
+          "winrate": 62.5
+        }
+      },
+      "monthly": {
+        "2": {
+          "total": 17,
+          "wins": 7,
+          "losses": 10,
+          "winrate": 41.18
+        },
+        "3": {
+          "total": 93,
+          "wins": 35,
+          "losses": 58,
+          "winrate": 37.63
+        },
+        "4": {
+          "total": 94,
+          "wins": 46,
+          "losses": 48,
+          "winrate": 48.94
+        },
+        "5": {
+          "total": 89,
+          "wins": 61,
+          "losses": 28,
+          "winrate": 68.54
+        },
+        "6": {
+          "total": 81,
+          "wins": 38,
+          "losses": 43,
+          "winrate": 46.91
+        },
+        "7": {
+          "total": 46,
+          "wins": 22,
+          "losses": 24,
+          "winrate": 47.83
+        },
+        "8": {
+          "total": 62,
+          "wins": 31,
+          "losses": 31,
+          "winrate": 50.0
+        },
+        "9": {
+          "total": 65,
+          "wins": 25,
+          "losses": 40,
+          "winrate": 38.46
+        },
+        "10": {
+          "total": 169,
+          "wins": 70,
+          "losses": 99,
+          "winrate": 41.42
+        },
+        "11": {
+          "total": 23,
+          "wins": 15,
+          "losses": 8,
+          "winrate": 65.22
+        },
+        "12": {
+          "total": 39,
+          "wins": 20,
+          "losses": 19,
+          "winrate": 51.28
+        }
+      },
+      "quarterly": {
+        "Q1": {
+          "total": 110,
+          "wins": 42,
+          "losses": 68,
+          "winrate": 38.18
+        },
+        "Q2": {
+          "total": 264,
+          "wins": 145,
+          "losses": 119,
+          "winrate": 54.92
+        },
+        "Q3": {
+          "total": 173,
+          "wins": 78,
+          "losses": 95,
+          "winrate": 45.09
+        },
+        "Q4": {
+          "total": 231,
+          "wins": 105,
+          "losses": 126,
+          "winrate": 45.45
+        }
+      },
+      "vs_race": {
+        "테란": {
+          "total": 380,
+          "wins": 172,
+          "losses": 208,
+          "winrate": 45.26
+        },
+        "저그": {
+          "total": 44,
+          "wins": 27,
+          "losses": 17,
+          "winrate": 61.36
+        },
+        "프로토스": {
+          "total": 354,
+          "wins": 171,
+          "losses": 183,
+          "winrate": 48.31
+        }
+      },
+      "by_map": {
+        "폴리포이드": {
+          "total": 339,
+          "wins": 166,
+          "losses": 173,
+          "winrate": 48.97
+        },
+        "라데온": {
+          "total": 231,
+          "wins": 108,
+          "losses": 123,
+          "winrate": 46.75
+        },
+        "데자뷰": {
+          "total": 91,
+          "wins": 47,
+          "losses": 44,
+          "winrate": 51.65
+        },
+        "녹아웃": {
+          "total": 52,
+          "wins": 20,
+          "losses": 32,
+          "winrate": 38.46
+        },
+        "리트머스": {
+          "total": 29,
+          "wins": 9,
+          "losses": 20,
+          "winrate": 31.03
+        },
+        "이클립스": {
+          "total": 26,
+          "wins": 15,
+          "losses": 11,
+          "winrate": 57.69
+        },
+        "815": {
+          "total": 2,
+          "wins": 2,
+          "losses": 0,
+          "winrate": 100.0
+        },
+        "메트로폴리스": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "플라즈마": {
+          "total": 2,
+          "wins": 1,
+          "losses": 1,
+          "winrate": 50.0
+        },
+        "백마고지": {
+          "total": 1,
+          "wins": 0,
+          "losses": 1,
+          "winrate": 0.0
+        }
+      },
+      "vs_tier": {
+        "1티어": {
+          "total": 3,
+          "wins": 0,
+          "losses": 3,
+          "winrate": 0.0
+        },
+        "5티어": {
+          "total": 33,
+          "wins": 13,
+          "losses": 20,
+          "winrate": 39.39
+        },
+        "6티어": {
+          "total": 369,
+          "wins": 152,
+          "losses": 217,
+          "winrate": 41.19
+        },
+        "7티어": {
+          "total": 361,
+          "wins": 198,
+          "losses": 163,
+          "winrate": 54.85
+        },
+        "8티어": {
+          "total": 10,
+          "wins": 7,
+          "losses": 3,
+          "winrate": 70.0
+        }
+      },
+      "top_opponents": [
+        {
+          "total": 49,
+          "wins": 21,
+          "losses": 28,
+          "winrate": 42.86,
+          "name": "내가먼지",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 49,
+          "wins": 16,
+          "losses": 33,
+          "winrate": 32.65,
+          "name": "모리",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 46,
+          "wins": 18,
+          "losses": 28,
+          "winrate": 39.13,
+          "name": "하랑e",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 37,
+          "wins": 22,
+          "losses": 15,
+          "winrate": 59.46,
+          "name": "밥새",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 29,
+          "wins": 9,
+          "losses": 20,
+          "winrate": 31.03,
+          "name": "링가",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 26,
+          "wins": 8,
+          "losses": 18,
+          "winrate": 30.77,
+          "name": "짱다",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 26,
+          "wins": 4,
+          "losses": 22,
+          "winrate": 15.38,
+          "name": "으냉이",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 25,
+          "wins": 9,
+          "losses": 16,
+          "winrate": 36.0,
+          "name": "비타밍",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 24,
+          "wins": 13,
+          "losses": 11,
+          "winrate": 54.17,
+          "name": "선정은",
+          "race": "테란",
+          "tier": "6티어"
+        },
+        {
+          "total": 24,
+          "wins": 15,
+          "losses": 9,
+          "winrate": 62.5,
+          "name": "임조이",
+          "race": "저그",
+          "tier": "6티어"
+        },
+        {
+          "total": 23,
+          "wins": 10,
+          "losses": 13,
+          "winrate": 43.48,
+          "name": "백갑숙",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 22,
+          "wins": 14,
+          "losses": 8,
+          "winrate": 63.64,
+          "name": "빵지니",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 22,
+          "wins": 14,
+          "losses": 8,
+          "winrate": 63.64,
+          "name": "제티",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 22,
+          "wins": 14,
+          "losses": 8,
+          "winrate": 63.64,
+          "name": "김무아",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 21,
+          "wins": 12,
+          "losses": 9,
+          "winrate": 57.14,
+          "name": "김채이",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 20,
+          "wins": 11,
+          "losses": 9,
+          "winrate": 55.0,
+          "name": "하루묭",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 19,
+          "wins": 11,
+          "losses": 8,
+          "winrate": 57.89,
+          "name": "효짱",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 17,
+          "wins": 9,
+          "losses": 8,
+          "winrate": 52.94,
+          "name": "엄보리",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 16,
+          "wins": 10,
+          "losses": 6,
+          "winrate": 62.5,
+          "name": "막내현진",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 16,
+          "wins": 3,
+          "losses": 13,
+          "winrate": 18.75,
+          "name": "남수댕",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 15,
+          "wins": 10,
+          "losses": 5,
+          "winrate": 66.67,
+          "name": "하이현",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 13,
+          "wins": 8,
+          "losses": 5,
+          "winrate": 61.54,
+          "name": "사사삼",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 12,
+          "wins": 3,
+          "losses": 9,
+          "winrate": 25.0,
+          "name": "진유성",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 12,
+          "wins": 6,
+          "losses": 6,
+          "winrate": 50.0,
+          "name": "메옹이",
+          "race": "테란",
+          "tier": "7티어"
+        },
+        {
+          "total": 12,
+          "wins": 8,
+          "losses": 4,
+          "winrate": 66.67,
+          "name": "한쪼니",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 10,
+          "wins": 3,
+          "losses": 7,
+          "winrate": 30.0,
+          "name": "하두링",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 10,
+          "wins": 4,
+          "losses": 6,
+          "winrate": 40.0,
+          "name": "뿌하",
+          "race": "프로토스",
+          "tier": "6티어"
+        },
+        {
+          "total": 10,
+          "wins": 4,
+          "losses": 6,
+          "winrate": 40.0,
+          "name": "양유정",
+          "race": "프로토스",
+          "tier": "7티어"
+        },
+        {
+          "total": 10,
+          "wins": 8,
+          "losses": 2,
+          "winrate": 80.0,
+          "name": "혜지연",
+          "race": "테란",
+          "tier": "7티어"
+        }
+      ]
+    }
+  },
+  "rankings": [
+    {
+      "name": "규리야",
+      "race": "테란",
+      "tier": "4티어",
+      "monthly_avg": 82.7,
+      "overall_winrate": 58.47,
+      "top_tier_games": 799,
+      "top_tier_winrate": 58.32,
+      "same_tier_games": 708,
+      "same_tier_winrate": 61.02,
+      "tournament_games": 74,
+      "tournament_winrate": 67.57,
+      "growth": 1,
+      "tier_start": "5티어",
+      "tier_end": "4티어",
+      "total_score": 462.6,
+      "rank": 1
+    },
+    {
+      "name": "정서린",
+      "race": "프로토스",
+      "tier": "7티어",
+      "monthly_avg": 36.6,
+      "overall_winrate": 67.43,
+      "top_tier_games": 1,
+      "top_tier_winrate": 0.0,
+      "same_tier_games": 128,
+      "same_tier_winrate": 61.72,
+      "tournament_games": 34,
+      "tournament_winrate": 76.47,
+      "growth": 2,
+      "tier_start": "베이비",
+      "tier_end": "7티어",
+      "total_score": 414.3,
+      "rank": 2
+    },
+    {
+      "name": "냥수디",
+      "race": "저그",
+      "tier": "7티어",
+      "monthly_avg": 21.8,
+      "overall_winrate": 66.79,
+      "top_tier_games": 0,
+      "top_tier_winrate": 0.0,
+      "same_tier_games": 9,
+      "same_tier_winrate": 77.78,
+      "tournament_games": 15,
+      "tournament_winrate": 60.0,
+      "growth": 2,
+      "tier_start": "베이비",
+      "tier_end": "7티어",
+      "total_score": 389.8,
+      "rank": 3
+    },
+    {
+      "name": "찌킹",
+      "race": "저그",
+      "tier": "4티어",
+      "monthly_avg": 60.8,
+      "overall_winrate": 49.52,
+      "top_tier_games": 516,
+      "top_tier_winrate": 43.22,
+      "same_tier_games": 461,
+      "same_tier_winrate": 43.82,
+      "tournament_games": 82,
+      "tournament_winrate": 53.66,
+      "growth": 1,
+      "tier_start": "5티어",
+      "tier_end": "4티어",
+      "total_score": 360.9,
+      "rank": 4
+    },
+    {
+      "name": "슬돌이",
+      "race": "프로토스",
+      "tier": "2티어",
+      "monthly_avg": 36.8,
+      "overall_winrate": 57.92,
+      "top_tier_games": 440,
+      "top_tier_winrate": 57.73,
+      "same_tier_games": 87,
+      "same_tier_winrate": 50.57,
+      "tournament_games": 74,
+      "tournament_winrate": 52.7,
+      "growth": 1,
+      "tier_start": "3티어",
+      "tier_end": "2티어",
+      "total_score": 347.3,
+      "rank": 5
+    },
+    {
+      "name": "또해영",
+      "race": "저그",
+      "tier": "7티어",
+      "monthly_avg": 56.7,
+      "overall_winrate": 55.15,
+      "top_tier_games": 2,
+      "top_tier_winrate": 50.0,
+      "same_tier_games": 407,
+      "same_tier_winrate": 52.33,
+      "tournament_games": 51,
+      "tournament_winrate": 60.78,
+      "growth": 1,
+      "tier_start": "8티어",
+      "tier_end": "7티어",
+      "total_score": 333.1,
+      "rank": 6
+    },
+    {
+      "name": "내가먼지",
+      "race": "테란",
+      "tier": "6티어",
+      "monthly_avg": 41.3,
+      "overall_winrate": 66.33,
+      "top_tier_games": 0,
+      "top_tier_winrate": 0.0,
+      "same_tier_games": 165,
+      "same_tier_winrate": 60.0,
+      "tournament_games": 53,
+      "tournament_winrate": 54.72,
+      "growth": 1,
+      "tier_start": "7티어",
+      "tier_end": "6티어",
+      "total_score": 332.9,
+      "rank": 7
+    },
+    {
+      "name": "김뽀뇨",
+      "race": "프로토스",
+      "tier": "3티어",
+      "monthly_avg": 52.1,
+      "overall_winrate": 50.56,
+      "top_tier_games": 623,
+      "top_tier_winrate": 50.56,
+      "same_tier_games": 467,
+      "same_tier_winrate": 50.11,
+      "tournament_games": 52,
+      "tournament_winrate": 48.08,
+      "growth": 0,
+      "tier_start": "3티어",
+      "tier_end": "3티어",
+      "total_score": 312.5,
+      "rank": 8
+    },
+    {
+      "name": "구루미",
+      "race": "저그",
+      "tier": "4티어",
+      "monthly_avg": 28.3,
+      "overall_winrate": 43.82,
+      "top_tier_games": 159,
+      "top_tier_winrate": 31.45,
+      "same_tier_games": 158,
+      "same_tier_winrate": 31.65,
+      "tournament_games": 17,
+      "tournament_winrate": 76.47,
+      "growth": 1,
+      "tier_start": "5티어",
+      "tier_end": "4티어",
+      "total_score": 306.3,
+      "rank": 9
+    },
+    {
+      "name": "늑대채린",
+      "race": "저그",
+      "tier": "4티어",
+      "monthly_avg": 51.4,
+      "overall_winrate": 49.59,
+      "top_tier_games": 502,
+      "top_tier_winrate": 44.62,
+      "same_tier_games": 400,
+      "same_tier_winrate": 45.0,
+      "tournament_games": 34,
+      "tournament_winrate": 44.12,
+      "growth": 0,
+      "tier_start": "4티어",
+      "tier_end": "4티어",
+      "total_score": 287.2,
+      "rank": 10
+    },
+    {
+      "name": "다예나",
+      "race": "프로토스",
+      "tier": "8티어",
+      "monthly_avg": 28.6,
+      "overall_winrate": 59.48,
+      "top_tier_games": 0,
+      "top_tier_winrate": 0.0,
+      "same_tier_games": 250,
+      "same_tier_winrate": 60.8,
+      "tournament_games": 15,
+      "tournament_winrate": 33.33,
+      "growth": 1,
+      "tier_start": "베이비",
+      "tier_end": "8티어",
+      "total_score": 278.6,
+      "rank": 11
+    },
+    {
+      "name": "박하악",
+      "race": "저그",
+      "tier": "6티어",
+      "monthly_avg": 64.8,
+      "overall_winrate": 47.56,
+      "top_tier_games": 3,
+      "top_tier_winrate": 0.0,
+      "same_tier_games": 369,
+      "same_tier_winrate": 41.19,
+      "tournament_games": 64,
+      "tournament_winrate": 62.5,
+      "growth": 0,
+      "tier_start": "6티어",
+      "tier_end": "6티어",
+      "total_score": 271.4,
+      "rank": 12
+    },
+    {
+      "name": "단비송",
+      "race": "테란",
+      "tier": "8티어",
+      "monthly_avg": 14.1,
+      "overall_winrate": 43.2,
+      "top_tier_games": 0,
+      "top_tier_winrate": 0.0,
+      "same_tier_games": 106,
+      "same_tier_winrate": 39.62,
+      "tournament_games": 2,
+      "tournament_winrate": 50.0,
+      "growth": 1,
+      "tier_start": "베이비",
+      "tier_end": "8티어",
+      "total_score": 243.5,
+      "rank": 13
+    },
+    {
+      "name": "팥순",
+      "race": "프로토스",
+      "tier": "6티어",
+      "monthly_avg": 42.5,
+      "overall_winrate": 35.88,
+      "top_tier_games": 10,
+      "top_tier_winrate": 20.0,
+      "same_tier_games": 428,
+      "same_tier_winrate": 35.51,
+      "tournament_games": 32,
+      "tournament_winrate": 40.62,
+      "growth": 0,
+      "tier_start": "6티어",
+      "tier_end": "6티어",
+      "total_score": 193.8,
+      "rank": 14
+    }
+  ],
+  "report_text": {
+    "headline": "대회 승률 56.76%\n우리의 2025년을 돌아보다",
+    "summary_points": [
+      "2025년 한 해 동안 케이대 학생들은 총 7,422경기를 치렀습니다.",
+      "전체 승률 53.53%, 3,973승 3,449패를 기록했습니다.",
+      "Q3 시즌에 55.18%로 가장 높은 승률을 달성했습니다.",
+      "7월에는 60.38%로 연중 최고 승률을 기록했습니다.",
+      "MVP 정서린은 67.43%의 압도적인 승률을 보여주었습니다.",
+      "철인 규리야은 992경기로 최다 출전했습니다.",
+      "MIP 냥수디은 베이비에서 7티어까지 성장했습니다."
+    ]
+  }
+}
